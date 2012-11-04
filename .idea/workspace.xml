@@ -26,123 +26,121 @@
               <ID>RailsDependency</ID>
               <OriginalElement>#ictsh</OriginalElement>
               <nodes>
-                <node x="1749.5" y="-6.0">Event</node>
-                <node x="1389.5" y="987.5">Match</node>
-                <node x="264.5" y="594.0">Area</node>
-                <node x="1015.5" y="605.5">Season</node>
-                <node x="1389.5" y="605.5">Round</node>
-                <node x="-10.5" y="1137.0">Team</node>
-                <node x="669.5" y="640.0">Competition</node>
-                <node x="1749.5" y="628.5">Group</node>
-                <node x="2109.5" y="121.5">Person</node>
-                <node x="2116.0" y="251.0">SourceSystem</node>
+                <node x="1158.0" y="-17.5">Event</node>
+                <node x="1516.0" y="1256.0">Match</node>
+                <node x="322.5" y="714.0">Area</node>
+                <node x="1153.5" y="725.5">Season</node>
+                <node x="1517.0" y="714.0">Round</node>
+                <node x="0.0" y="285.5">Team</node>
+                <node x="736.0" y="748.5">Competition</node>
+                <node x="1877.0" y="737.0">Group</node>
+                <node x="1527.5" y="121.5">Person</node>
+                <node x="1534.0" y="251.0">SourceSystem</node>
               </nodes>
               <notes />
               <edges>
                 <edge source="SourceSystem" target="Event">
                   <point x="-124.0" y="-40.0" />
-                  <point x="1880.0" y="400.0" />
-                  <point x="0.0" y="166.0" />
+                  <point x="1298.0" y="400.0" />
+                  <point x="0.0" y="177.5" />
                 </edge>
                 <edge source="Round" target="Match">
-                  <point x="0.0" y="154.5" />
-                  <point x="0.0" y="-292.5" />
+                  <point x="0.0" y="166.0" />
+                  <point x="0.0" y="-304.0" />
                 </edge>
                 <edge source="Team" target="Match">
-                  <point x="40.0" y="143.0" />
-                  <point x="160.0" y="1640.0" />
-                  <point x="1480.0" y="1640.0" />
-                  <point x="-40.0" y="292.5" />
+                  <point x="80.0" y="154.5" />
+                  <point x="218.0" y="1160.0" />
+                  <point x="1618.0" y="1160.0" />
+                  <point x="-40.0" y="-304.0" />
                 </edge>
                 <edge source="Group" target="Match">
-                  <point x="0.0" y="131.5" />
-                  <point x="1880.0" y="1240.0" />
-                  <point x="130.5" y="-40.0" />
+                  <point x="0.0" y="143.0" />
+                  <point x="2018.0" y="1520.0" />
+                  <point x="142.0" y="-40.0" />
                 </edge>
                 <edge source="SourceSystem" target="Group">
-                  <point x="-124.0" y="120.0" />
-                  <point x="1880.0" y="560.0" />
-                  <point x="0.0" y="-131.5" />
+                  <point x="124.0" y="40.0" />
+                  <point x="2018.0" y="480.0" />
+                  <point x="0.0" y="-143.0" />
+                </edge>
+                <edge source="Area" target="Team">
+                  <point x="-135.5" y="-0.0" />
+                  <point x="258.0" y="880.0" />
+                  <point x="120.0" y="154.5" />
                 </edge>
                 <edge source="SourceSystem" target="Person">
                   <point x="0.0" y="-189.0" />
                   <point x="0.0" y="38.5" />
                 </edge>
-                <edge source="Area" target="Team">
-                  <point x="-135.5" y="-0.0" />
-                  <point x="200.0" y="760.0" />
-                  <point x="80.0" y="-143.0" />
-                </edge>
-                <edge source="Round" target="Group">
-                  <point x="130.5" y="-0.0" />
-                  <point x="-130.5" y="-0.0" />
-                </edge>
                 <edge source="Area" target="Competition">
                   <point x="135.5" y="-0.0" />
-                  <point x="-130.5" y="-0.0" />
+                  <point x="-162.0" y="-0.0" />
+                </edge>
+                <edge source="Round" target="Group">
+                  <point x="141.0" y="-0.0" />
+                  <point x="-141.0" y="-0.0" />
                 </edge>
                 <edge source="SourceSystem" target="Area">
-                  <point x="-124.0" y="20.0" />
-                  <point x="400.0" y="460.0" />
+                  <point x="-124.0" y="40.0" />
+                  <point x="458.0" y="480.0" />
                   <point x="0.0" y="-166.0" />
                 </edge>
                 <edge source="Area" target="Area">
                   <point x="0.0" y="166.0" />
-                  <point x="400.0" y="1000.0" />
-                  <point x="600.0" y="1000.0" />
-                  <point x="600.0" y="800.0" />
+                  <point x="458.0" y="1120.0" />
+                  <point x="658.0" y="1120.0" />
+                  <point x="658.0" y="920.0" />
                   <point x="135.5" y="40.0" />
                 </edge>
                 <edge source="SourceSystem" target="Round">
-                  <point x="-124.0" y="80.0" />
-                  <point x="1520.0" y="520.0" />
-                  <point x="0.0" y="-154.5" />
+                  <point x="0.0" y="189.0" />
+                  <point x="0.0" y="-166.0" />
                 </edge>
                 <edge source="SourceSystem" target="Season">
-                  <point x="-124.0" y="60.0" />
-                  <point x="1160.0" y="500.0" />
+                  <point x="-124.0" y="120.0" />
+                  <point x="1298.0" y="560.0" />
                   <point x="0.0" y="-154.5" />
+                </edge>
+                <edge source="Competition" target="Season">
+                  <point x="162.0" y="-0.0" />
+                  <point x="-144.5" y="-0.0" />
                 </edge>
                 <edge source="Person" target="Event">
                   <point x="-130.5" y="-0.0" />
-                  <point x="130.5" y="-0.0" />
-                </edge>
-                <edge source="Competition" target="Season">
-                  <point x="130.5" y="-0.0" />
-                  <point x="-144.5" y="-0.0" />
+                  <point x="140.0" y="-0.0" />
                 </edge>
                 <edge source="Team" target="Event">
-                  <point x="0.0" y="-143.0" />
-                  <point x="120.0" y="160.0" />
-                  <point x="-130.5" y="-0.0" />
+                  <point x="0.0" y="-154.5" />
+                  <point x="138.0" y="160.0" />
+                  <point x="-140.0" y="-0.0" />
                 </edge>
                 <edge source="SourceSystem" target="Competition">
-                  <point x="-124.0" y="40.0" />
-                  <point x="800.0" y="480.0" />
-                  <point x="0.0" y="-120.0" />
+                  <point x="-124.0" y="80.0" />
+                  <point x="898.0" y="520.0" />
+                  <point x="0.0" y="-131.5" />
                 </edge>
                 <edge source="SourceSystem" target="Match">
-                  <point x="0.0" y="189.0" />
-                  <point x="2240.0" y="1280.0" />
-                  <point x="130.5" y="-0.0" />
+                  <point x="124.0" y="-0.0" />
+                  <point x="2218.0" y="440.0" />
+                  <point x="2218.0" y="1560.0" />
+                  <point x="142.0" y="-0.0" />
                 </edge>
                 <edge source="Match" target="Team">
-                  <point x="0.0" y="292.5" />
-                  <point x="1520.0" y="1680.0" />
-                  <point x="120.0" y="1680.0" />
-                  <point x="0.0" y="143.0" />
+                  <point x="-142.0" y="-0.0" />
+                  <point x="138.0" y="1560.0" />
+                  <point x="0.0" y="154.5" />
                 </edge>
                 <edge source="SourceSystem" target="Team">
                   <point x="-124.0" y="-0.0" />
-                  <point x="160.0" y="440.0" />
-                  <point x="40.0" y="-143.0" />
+                  <point x="138.0" y="-0.0" />
                 </edge>
                 <edge source="Season" target="Round">
                   <point x="144.5" y="-0.0" />
-                  <point x="-130.5" y="-0.0" />
+                  <point x="-141.0" y="-0.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="548.0" y="736.0" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="1913.0" y="924.0" />
               <SelectedNodes>
                 <node>Person</node>
               </SelectedNodes>
@@ -171,6 +169,17 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -187,7 +196,7 @@
     <option name="width" value="1364" />
     <option name="height" value="998" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -547,20 +556,40 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="1" y="52" width="1364" height="998" extended-state="4" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.4939117" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.49695587" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961948" sideWeight="0.66851443" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961948" sideWeight="0.6707317" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3314856" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.4977169" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.49695587" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -678,123 +707,121 @@
           <ID>RailsDependency</ID>
           <OriginalElement>#ictsh</OriginalElement>
           <nodes>
-            <node x="1749.5" y="-6.0">Event</node>
-            <node x="1389.5" y="987.5">Match</node>
-            <node x="264.5" y="594.0">Area</node>
-            <node x="1015.5" y="605.5">Season</node>
-            <node x="1389.5" y="605.5">Round</node>
-            <node x="-10.5" y="1137.0">Team</node>
-            <node x="669.5" y="640.0">Competition</node>
-            <node x="1749.5" y="628.5">Group</node>
-            <node x="2109.5" y="121.5">Person</node>
-            <node x="2116.0" y="251.0">SourceSystem</node>
+            <node x="1158.0" y="-17.5">Event</node>
+            <node x="1516.0" y="1256.0">Match</node>
+            <node x="322.5" y="714.0">Area</node>
+            <node x="1153.5" y="725.5">Season</node>
+            <node x="1517.0" y="714.0">Round</node>
+            <node x="0.0" y="285.5">Team</node>
+            <node x="736.0" y="748.5">Competition</node>
+            <node x="1877.0" y="737.0">Group</node>
+            <node x="1527.5" y="121.5">Person</node>
+            <node x="1534.0" y="251.0">SourceSystem</node>
           </nodes>
           <notes />
           <edges>
             <edge source="SourceSystem" target="Event">
               <point x="-124.0" y="-40.0" />
-              <point x="1880.0" y="400.0" />
-              <point x="0.0" y="166.0" />
+              <point x="1298.0" y="400.0" />
+              <point x="0.0" y="177.5" />
             </edge>
             <edge source="Round" target="Match">
-              <point x="0.0" y="154.5" />
-              <point x="0.0" y="-292.5" />
+              <point x="0.0" y="166.0" />
+              <point x="0.0" y="-304.0" />
             </edge>
             <edge source="Team" target="Match">
-              <point x="40.0" y="143.0" />
-              <point x="160.0" y="1640.0" />
-              <point x="1480.0" y="1640.0" />
-              <point x="-40.0" y="292.5" />
+              <point x="80.0" y="154.5" />
+              <point x="218.0" y="1160.0" />
+              <point x="1618.0" y="1160.0" />
+              <point x="-40.0" y="-304.0" />
             </edge>
             <edge source="Group" target="Match">
-              <point x="0.0" y="131.5" />
-              <point x="1880.0" y="1240.0" />
-              <point x="130.5" y="-40.0" />
+              <point x="0.0" y="143.0" />
+              <point x="2018.0" y="1520.0" />
+              <point x="142.0" y="-40.0" />
             </edge>
             <edge source="SourceSystem" target="Group">
-              <point x="-124.0" y="120.0" />
-              <point x="1880.0" y="560.0" />
-              <point x="0.0" y="-131.5" />
+              <point x="124.0" y="40.0" />
+              <point x="2018.0" y="480.0" />
+              <point x="0.0" y="-143.0" />
+            </edge>
+            <edge source="Area" target="Team">
+              <point x="-135.5" y="-0.0" />
+              <point x="258.0" y="880.0" />
+              <point x="120.0" y="154.5" />
             </edge>
             <edge source="SourceSystem" target="Person">
               <point x="0.0" y="-189.0" />
               <point x="0.0" y="38.5" />
             </edge>
-            <edge source="Area" target="Team">
-              <point x="-135.5" y="-0.0" />
-              <point x="200.0" y="760.0" />
-              <point x="80.0" y="-143.0" />
-            </edge>
-            <edge source="Round" target="Group">
-              <point x="130.5" y="-0.0" />
-              <point x="-130.5" y="-0.0" />
-            </edge>
             <edge source="Area" target="Competition">
               <point x="135.5" y="-0.0" />
-              <point x="-130.5" y="-0.0" />
+              <point x="-162.0" y="-0.0" />
+            </edge>
+            <edge source="Round" target="Group">
+              <point x="141.0" y="-0.0" />
+              <point x="-141.0" y="-0.0" />
             </edge>
             <edge source="SourceSystem" target="Area">
-              <point x="-124.0" y="20.0" />
-              <point x="400.0" y="460.0" />
+              <point x="-124.0" y="40.0" />
+              <point x="458.0" y="480.0" />
               <point x="0.0" y="-166.0" />
             </edge>
             <edge source="Area" target="Area">
               <point x="0.0" y="166.0" />
-              <point x="400.0" y="1000.0" />
-              <point x="600.0" y="1000.0" />
-              <point x="600.0" y="800.0" />
+              <point x="458.0" y="1120.0" />
+              <point x="658.0" y="1120.0" />
+              <point x="658.0" y="920.0" />
               <point x="135.5" y="40.0" />
             </edge>
             <edge source="SourceSystem" target="Round">
-              <point x="-124.0" y="80.0" />
-              <point x="1520.0" y="520.0" />
-              <point x="0.0" y="-154.5" />
+              <point x="0.0" y="189.0" />
+              <point x="0.0" y="-166.0" />
             </edge>
             <edge source="SourceSystem" target="Season">
-              <point x="-124.0" y="60.0" />
-              <point x="1160.0" y="500.0" />
+              <point x="-124.0" y="120.0" />
+              <point x="1298.0" y="560.0" />
               <point x="0.0" y="-154.5" />
+            </edge>
+            <edge source="Competition" target="Season">
+              <point x="162.0" y="-0.0" />
+              <point x="-144.5" y="-0.0" />
             </edge>
             <edge source="Person" target="Event">
               <point x="-130.5" y="-0.0" />
-              <point x="130.5" y="-0.0" />
-            </edge>
-            <edge source="Competition" target="Season">
-              <point x="130.5" y="-0.0" />
-              <point x="-144.5" y="-0.0" />
+              <point x="140.0" y="-0.0" />
             </edge>
             <edge source="Team" target="Event">
-              <point x="0.0" y="-143.0" />
-              <point x="120.0" y="160.0" />
-              <point x="-130.5" y="-0.0" />
+              <point x="0.0" y="-154.5" />
+              <point x="138.0" y="160.0" />
+              <point x="-140.0" y="-0.0" />
             </edge>
             <edge source="SourceSystem" target="Competition">
-              <point x="-124.0" y="40.0" />
-              <point x="800.0" y="480.0" />
-              <point x="0.0" y="-120.0" />
+              <point x="-124.0" y="80.0" />
+              <point x="898.0" y="520.0" />
+              <point x="0.0" y="-131.5" />
             </edge>
             <edge source="SourceSystem" target="Match">
-              <point x="0.0" y="189.0" />
-              <point x="2240.0" y="1280.0" />
-              <point x="130.5" y="-0.0" />
+              <point x="124.0" y="-0.0" />
+              <point x="2218.0" y="440.0" />
+              <point x="2218.0" y="1560.0" />
+              <point x="142.0" y="-0.0" />
             </edge>
             <edge source="Match" target="Team">
-              <point x="0.0" y="292.5" />
-              <point x="1520.0" y="1680.0" />
-              <point x="120.0" y="1680.0" />
-              <point x="0.0" y="143.0" />
+              <point x="-142.0" y="-0.0" />
+              <point x="138.0" y="1560.0" />
+              <point x="0.0" y="154.5" />
             </edge>
             <edge source="SourceSystem" target="Team">
               <point x="-124.0" y="-0.0" />
-              <point x="160.0" y="440.0" />
-              <point x="40.0" y="-143.0" />
+              <point x="138.0" y="-0.0" />
             </edge>
             <edge source="Season" target="Round">
               <point x="144.5" y="-0.0" />
-              <point x="-130.5" y="-0.0" />
+              <point x="-141.0" y="-0.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="548.0" y="736.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="1913.0" y="924.0" />
           <SelectedNodes>
             <node>Person</node>
           </SelectedNodes>
