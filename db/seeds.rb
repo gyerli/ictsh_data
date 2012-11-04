@@ -5,3 +5,4 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+source_system = SourceSystem([{source_system_name: 'soccerway.com'},{source_system_code: 'SWAY'},{url: 'http://www.soccerway.com'}])
