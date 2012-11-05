@@ -1,5 +1,5 @@
 class SourceSystem < ActiveRecord::Base
-
+  attr_accessible :source_system_code, :source_system_name
 
 
     has_many :areas, :class_name => 'Area'    

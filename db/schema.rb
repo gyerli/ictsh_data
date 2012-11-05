@@ -16,12 +16,26 @@ ActiveRecord::Schema.define(:version => 0) do
   create_table "areas", :force => true do |t|
     t.string   "url"
     t.string   "area_name",              :limit => 100, :null => false
-    t.string   "area_code",              :limit => nil, :null => false
     t.integer  "parent_id"
     t.integer  "source_system_id",                      :null => false
     t.datetime "created_at",                            :null => false
     t.datetime "updated_at",                            :null => false
     t.string   "source_system_area_key", :limit => 20
+    t.string   "country_code",           :limit => nil
+  end
+
+  create_table "competition_formats", :force => true do |t|
+    t.string   "competition_format_code", :limit => 10, :null => false
+    t.string   "competition_format_name", :limit => 50, :null => false
+    t.datetime "created_at",                            :null => false
+    t.datetime "updated_at",                            :null => false
+  end
+
+  create_table "competition_types", :force => true do |t|
+    t.string   "competition_type_code", :limit => 10, :null => false
+    t.string   "competition_type_name", :limit => 50, :null => false
+    t.datetime "created_at",                          :null => false
+    t.datetime "updated_at",                          :null => false
   end
 
   create_table "competitions", :force => true do |t|
@@ -31,6 +45,11 @@ ActiveRecord::Schema.define(:version => 0) do
     t.datetime "created_at",                                  :null => false
     t.datetime "updated_at",                                  :null => false
     t.string   "source_system_competition_key", :limit => 20
+    t.integer  "competition_format_id"
+    t.integer  "competition_type_id"
+    t.integer  "display_order_num",             :limit => 2
+    t.integer  "soccer_type_id"
+    t.integer  "team_type_id"
   end
 
   create_table "events", :force => true do |t|
@@ -109,12 +128,26 @@ ActiveRecord::Schema.define(:version => 0) do
     t.string   "source_system_season_key", :limit => 20
   end
 
+  create_table "soccet_types", :force => true do |t|
+    t.string   "soccer_type_name", :limit => 50, :null => false
+    t.string   "soccer_type_code", :limit => 10, :null => false
+    t.datetime "created_at",                     :null => false
+    t.datetime "updated_at",                     :null => false
+  end
+
   create_table "source_systems", :force => true do |t|
     t.string   "source_system_name", :limit => 50,   :null => false
     t.string   "source_system_code", :limit => 10,   :null => false
     t.datetime "created_at",                         :null => false
     t.datetime "updated_at",                         :null => false
     t.string   "url",                :limit => 1024
+  end
+
+  create_table "team_types", :force => true do |t|
+    t.string   "team_type_code", :limit => 10, :null => false
+    t.string   "team_type_name", :limit => 50, :null => false
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
   end
 
   create_table "teams", :force => true do |t|

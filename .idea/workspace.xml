@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0bfd92e-1362-4ad5-8175-a4a6a143665f" name="Default" comment="" />
+    <list default="true" id="c0bfd92e-1362-4ad5-8175-a4a6a143665f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/etl/areas.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/etl/competitions.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/area.rb" afterPath="$PROJECT_DIR$/app/models/area.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/competition.rb" afterPath="$PROJECT_DIR$/app/models/competition.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/source_system.rb" afterPath="$PROJECT_DIR$/app/models/source_system.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
+    </list>
     <ignored path="ictsh.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,131 +29,158 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RailsDependency/#ictsh" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RailsDependency/#ictsh" pinned="false" current="false" current-in-tab="false">
         <entry file="uml://RailsDependency/#ictsh">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>RailsDependency</ID>
               <OriginalElement>#ictsh</OriginalElement>
               <nodes>
-                <node x="1158.0" y="-17.5">Event</node>
-                <node x="1516.0" y="1256.0">Match</node>
-                <node x="322.5" y="714.0">Area</node>
-                <node x="1153.5" y="725.5">Season</node>
-                <node x="1517.0" y="714.0">Round</node>
-                <node x="0.0" y="285.5">Team</node>
-                <node x="736.0" y="748.5">Competition</node>
-                <node x="1877.0" y="737.0">Group</node>
-                <node x="1527.5" y="121.5">Person</node>
-                <node x="1534.0" y="251.0">SourceSystem</node>
+                <node x="-17.5" y="754.5">CompetitionFormat</node>
+                <node x="791.0" y="754.5">CompetitionType</node>
+                <node x="2624.0" y="662.5">Event</node>
+                <node x="2268.5" y="1514.0">Area</node>
+                <node x="2822.0" y="-24.0">Match</node>
+                <node x="1503.0" y="634.0">Round</node>
+                <node x="1859.5" y="645.5">Season</node>
+                <node x="3026.0" y="685.5">Team</node>
+                <node x="406.5" y="453.0">SoccerType</node>
+                <node x="357.5" y="896.5">Competition</node>
+                <node x="1143.0" y="657.0">Group</node>
+                <node x="2273.5" y="801.5">Person</node>
+                <node x="2280.0" y="931.0">SourceSystem</node>
+                <node x="46.5" y="1314.5">TeamType</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="SourceSystem" target="Event">
-                  <point x="-124.0" y="-40.0" />
-                  <point x="1298.0" y="400.0" />
-                  <point x="0.0" y="177.5" />
-                </edge>
-                <edge source="Round" target="Match">
-                  <point x="0.0" y="166.0" />
-                  <point x="0.0" y="-304.0" />
-                </edge>
                 <edge source="Team" target="Match">
-                  <point x="80.0" y="154.5" />
-                  <point x="218.0" y="1160.0" />
-                  <point x="1618.0" y="1160.0" />
-                  <point x="-40.0" y="-304.0" />
-                </edge>
-                <edge source="Group" target="Match">
-                  <point x="0.0" y="143.0" />
-                  <point x="2018.0" y="1520.0" />
-                  <point x="142.0" y="-40.0" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="SourceSystem" target="Group">
-                  <point x="124.0" y="40.0" />
-                  <point x="2018.0" y="480.0" />
-                  <point x="0.0" y="-143.0" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
-                <edge source="Area" target="Team">
-                  <point x="-135.5" y="-0.0" />
-                  <point x="258.0" y="880.0" />
-                  <point x="120.0" y="154.5" />
+                <edge source="Group" target="Match">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="SourceSystem" target="Person">
-                  <point x="0.0" y="-189.0" />
-                  <point x="0.0" y="38.5" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="Area" target="Competition">
-                  <point x="135.5" y="-0.0" />
-                  <point x="-162.0" y="-0.0" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
-                <edge source="Round" target="Group">
-                  <point x="141.0" y="-0.0" />
-                  <point x="-141.0" y="-0.0" />
-                </edge>
-                <edge source="SourceSystem" target="Area">
-                  <point x="-124.0" y="40.0" />
-                  <point x="458.0" y="480.0" />
-                  <point x="0.0" y="-166.0" />
-                </edge>
-                <edge source="Area" target="Area">
-                  <point x="0.0" y="166.0" />
-                  <point x="458.0" y="1120.0" />
-                  <point x="658.0" y="1120.0" />
-                  <point x="658.0" y="920.0" />
-                  <point x="135.5" y="40.0" />
-                </edge>
-                <edge source="SourceSystem" target="Round">
-                  <point x="0.0" y="189.0" />
-                  <point x="0.0" y="-166.0" />
+                <edge source="SoccerType" target="Competition">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="SourceSystem" target="Season">
-                  <point x="-124.0" y="120.0" />
-                  <point x="1298.0" y="560.0" />
-                  <point x="0.0" y="-154.5" />
-                </edge>
-                <edge source="Competition" target="Season">
-                  <point x="162.0" y="-0.0" />
-                  <point x="-144.5" y="-0.0" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="Person" target="Event">
-                  <point x="-130.5" y="-0.0" />
-                  <point x="140.0" y="-0.0" />
-                </edge>
-                <edge source="Team" target="Event">
-                  <point x="0.0" y="-154.5" />
-                  <point x="138.0" y="160.0" />
-                  <point x="-140.0" y="-0.0" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="SourceSystem" target="Competition">
-                  <point x="-124.0" y="80.0" />
-                  <point x="898.0" y="520.0" />
-                  <point x="0.0" y="-131.5" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="SourceSystem" target="Event">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Competition" target="SourceSystem">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Round" target="Match">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="TeamType" target="Competition">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Area" target="Team">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Competition" target="TeamType">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Round" target="Group">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Competition" target="CompetitionFormat">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="CompetitionFormat" target="Competition">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="SourceSystem" target="Area">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Competition" target="Area">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Area" target="Area">
+                  <point x="0.0" y="0.0" />
+                  <point x="2404.0" y="1338.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="SourceSystem" target="Round">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Area" target="SourceSystem">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Competition" target="Season">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Team" target="Event">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="CompetitionType" target="Competition">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Competition" target="CompetitionType">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="SourceSystem" target="Match">
-                  <point x="124.0" y="-0.0" />
-                  <point x="2218.0" y="440.0" />
-                  <point x="2218.0" y="1560.0" />
-                  <point x="142.0" y="-0.0" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="Match" target="Team">
-                  <point x="-142.0" y="-0.0" />
-                  <point x="138.0" y="1560.0" />
-                  <point x="0.0" y="154.5" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="SourceSystem" target="Team">
-                  <point x="-124.0" y="-0.0" />
-                  <point x="138.0" y="-0.0" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="Season" target="Round">
-                  <point x="144.5" y="-0.0" />
-                  <point x="-141.0" y="-0.0" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="1913.0" y="924.0" />
-              <SelectedNodes>
-                <node>Person</node>
-              </SelectedNodes>
+              <settings layout="Hierarchic Group" zoom="1.0" x="122.0" y="893.0" />
+              <SelectedNodes />
               <Categories>
                 <Category>Association fields</Category>
                 <Category>Migration fields</Category>
@@ -153,10 +190,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seeds.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="competitions.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/etl/competitions.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="0" selection-start="1547" selection-end="1547" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="competition.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/competition.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="32" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seeds.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="55" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
+            <state line="25" column="32" selection-start="1557" selection-end="1557" vertical-scroll-proportion="0.6499134">
               <folding />
             </state>
           </provider>
@@ -184,11 +239,27 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config/database.yml" />
-        <option value="$PROJECT_DIR$/app/models/area.rb" />
+        <option value="$PROJECT_DIR$/etl/soccerway_areas.rb" />
+        <option value="$PROJECT_DIR$/etl/areas.rb" />
+        <option value="$PROJECT_DIR$/etl/competitions.rb" />
+        <option value="$PROJECT_DIR$/app/models/competition_format.rb" />
         <option value="$PROJECT_DIR$/app/models/source_system.rb" />
+        <option value="$PROJECT_DIR$/app/models/area.rb" />
+        <option value="$PROJECT_DIR$/app/models/competition_type.rb" />
+        <option value="$PROJECT_DIR$/app/models/soccet_type.rb" />
+        <option value="$PROJECT_DIR$/app/models/competition.rb" />
+        <option value="$PROJECT_DIR$/app/models/soccer_type.rb" />
+        <option value="$PROJECT_DIR$/app/models/team_type.rb" />
         <option value="$PROJECT_DIR$/db/seeds.rb" />
       </list>
     </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1" />
@@ -230,6 +301,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ictsh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ictsh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ictsh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ictsh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ictsh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ictsh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -243,6 +356,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ictsh" />
               <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ictsh" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ictsh" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="etl" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.MinorFolderNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -306,7 +433,47 @@
       <recent name="$PROJECT_DIR$/db" />
     </key>
   </component>
-  <component name="RunManager" selected="Rails.Development: ictsh">
+  <component name="RunManager" selected="Ruby.areas">
+    <configuration default="false" name="soccerway_areas" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ictsh" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$/etl" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/etl/soccerway_areas.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="areas" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ictsh" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$/etl" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/etl/areas.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -521,14 +688,24 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Rake.test" />
       <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
       <item index="2" class="java.lang.String" itemvalue="Rails.Production: ictsh" />
       <item index="3" class="java.lang.String" itemvalue="Rails.Development: ictsh" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.soccerway_areas" />
+      <item index="5" class="java.lang.String" itemvalue="Ruby.areas" />
     </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.areas" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.soccerway_areas" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
@@ -580,23 +757,24 @@
     <frame x="1" y="52" width="1364" height="998" extended-state="4" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.4939117" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.49695587" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32815966" sideWeight="0.4939117" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.49695587" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3181818" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24961948" sideWeight="0.21840355" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961948" sideWeight="0.6707317" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.4977169" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.49695587" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24961948" sideWeight="0.21840355" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.4977169" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32815966" sideWeight="0.49695587" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -634,7 +812,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -659,13 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/source_system.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="64" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/person.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
@@ -680,13 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/area.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="18" selection-start="33" selection-end="33" vertical-scroll-proportion="0.05199307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -694,9 +858,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/source_system.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="55" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
+        <state line="1" column="58" selection-start="98" selection-end="98" vertical-scroll-proportion="0.027075812">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etl/areas.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="58" selection-start="125" selection-end="125" vertical-scroll-proportion="0.16245487">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etl/competitions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1547" selection-end="1547" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/competition.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="32" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/area.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.054151624">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etl/soccerway_areas.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="0" selection-start="1617" selection-end="2153" vertical-scroll-proportion="0.6895307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/team_type.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="50" selection-start="54" selection-end="86" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/soccer_type.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="54" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/competition_format.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="182" selection-end="182" vertical-scroll-proportion="0.08813161">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/competition_type.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="64" selection-start="107" selection-end="107" vertical-scroll-proportion="0.017626323">
           <folding />
         </state>
       </provider>
@@ -707,129 +934,163 @@
           <ID>RailsDependency</ID>
           <OriginalElement>#ictsh</OriginalElement>
           <nodes>
-            <node x="1158.0" y="-17.5">Event</node>
-            <node x="1516.0" y="1256.0">Match</node>
-            <node x="322.5" y="714.0">Area</node>
-            <node x="1153.5" y="725.5">Season</node>
-            <node x="1517.0" y="714.0">Round</node>
-            <node x="0.0" y="285.5">Team</node>
-            <node x="736.0" y="748.5">Competition</node>
-            <node x="1877.0" y="737.0">Group</node>
-            <node x="1527.5" y="121.5">Person</node>
-            <node x="1534.0" y="251.0">SourceSystem</node>
+            <node x="-17.5" y="754.5">CompetitionFormat</node>
+            <node x="791.0" y="754.5">CompetitionType</node>
+            <node x="2624.0" y="662.5">Event</node>
+            <node x="2268.5" y="1514.0">Area</node>
+            <node x="2822.0" y="-24.0">Match</node>
+            <node x="1503.0" y="634.0">Round</node>
+            <node x="1859.5" y="645.5">Season</node>
+            <node x="3026.0" y="685.5">Team</node>
+            <node x="406.5" y="453.0">SoccerType</node>
+            <node x="357.5" y="896.5">Competition</node>
+            <node x="1143.0" y="657.0">Group</node>
+            <node x="2273.5" y="801.5">Person</node>
+            <node x="2280.0" y="931.0">SourceSystem</node>
+            <node x="46.5" y="1314.5">TeamType</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="SourceSystem" target="Event">
-              <point x="-124.0" y="-40.0" />
-              <point x="1298.0" y="400.0" />
-              <point x="0.0" y="177.5" />
-            </edge>
-            <edge source="Round" target="Match">
-              <point x="0.0" y="166.0" />
-              <point x="0.0" y="-304.0" />
-            </edge>
             <edge source="Team" target="Match">
-              <point x="80.0" y="154.5" />
-              <point x="218.0" y="1160.0" />
-              <point x="1618.0" y="1160.0" />
-              <point x="-40.0" y="-304.0" />
-            </edge>
-            <edge source="Group" target="Match">
-              <point x="0.0" y="143.0" />
-              <point x="2018.0" y="1520.0" />
-              <point x="142.0" y="-40.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="SourceSystem" target="Group">
-              <point x="124.0" y="40.0" />
-              <point x="2018.0" y="480.0" />
-              <point x="0.0" y="-143.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="Area" target="Team">
-              <point x="-135.5" y="-0.0" />
-              <point x="258.0" y="880.0" />
-              <point x="120.0" y="154.5" />
+            <edge source="Group" target="Match">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="SourceSystem" target="Person">
-              <point x="0.0" y="-189.0" />
-              <point x="0.0" y="38.5" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="Area" target="Competition">
-              <point x="135.5" y="-0.0" />
-              <point x="-162.0" y="-0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="Round" target="Group">
-              <point x="141.0" y="-0.0" />
-              <point x="-141.0" y="-0.0" />
-            </edge>
-            <edge source="SourceSystem" target="Area">
-              <point x="-124.0" y="40.0" />
-              <point x="458.0" y="480.0" />
-              <point x="0.0" y="-166.0" />
-            </edge>
-            <edge source="Area" target="Area">
-              <point x="0.0" y="166.0" />
-              <point x="458.0" y="1120.0" />
-              <point x="658.0" y="1120.0" />
-              <point x="658.0" y="920.0" />
-              <point x="135.5" y="40.0" />
-            </edge>
-            <edge source="SourceSystem" target="Round">
-              <point x="0.0" y="189.0" />
-              <point x="0.0" y="-166.0" />
+            <edge source="SoccerType" target="Competition">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="SourceSystem" target="Season">
-              <point x="-124.0" y="120.0" />
-              <point x="1298.0" y="560.0" />
-              <point x="0.0" y="-154.5" />
-            </edge>
-            <edge source="Competition" target="Season">
-              <point x="162.0" y="-0.0" />
-              <point x="-144.5" y="-0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="Person" target="Event">
-              <point x="-130.5" y="-0.0" />
-              <point x="140.0" y="-0.0" />
-            </edge>
-            <edge source="Team" target="Event">
-              <point x="0.0" y="-154.5" />
-              <point x="138.0" y="160.0" />
-              <point x="-140.0" y="-0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="SourceSystem" target="Competition">
-              <point x="-124.0" y="80.0" />
-              <point x="898.0" y="520.0" />
-              <point x="0.0" y="-131.5" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="SourceSystem" target="Event">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Competition" target="SourceSystem">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Round" target="Match">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="TeamType" target="Competition">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Area" target="Team">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Competition" target="TeamType">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Round" target="Group">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Competition" target="CompetitionFormat">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="CompetitionFormat" target="Competition">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="SourceSystem" target="Area">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Competition" target="Area">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Area" target="Area">
+              <point x="0.0" y="0.0" />
+              <point x="2404.0" y="1338.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="SourceSystem" target="Round">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Area" target="SourceSystem">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Competition" target="Season">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Team" target="Event">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="CompetitionType" target="Competition">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Competition" target="CompetitionType">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="SourceSystem" target="Match">
-              <point x="124.0" y="-0.0" />
-              <point x="2218.0" y="440.0" />
-              <point x="2218.0" y="1560.0" />
-              <point x="142.0" y="-0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="Match" target="Team">
-              <point x="-142.0" y="-0.0" />
-              <point x="138.0" y="1560.0" />
-              <point x="0.0" y="154.5" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="SourceSystem" target="Team">
-              <point x="-124.0" y="-0.0" />
-              <point x="138.0" y="-0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="Season" target="Round">
-              <point x="144.5" y="-0.0" />
-              <point x="-141.0" y="-0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="1913.0" y="924.0" />
-          <SelectedNodes>
-            <node>Person</node>
-          </SelectedNodes>
+          <settings layout="Hierarchic Group" zoom="1.0" x="122.0" y="893.0" />
+          <SelectedNodes />
           <Categories>
             <Category>Association fields</Category>
             <Category>Migration fields</Category>
             <Category>System DB fields</Category>
           </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="32" selection-start="1557" selection-end="1557" vertical-scroll-proportion="0.6499134">
+          <folding />
         </state>
       </provider>
     </entry>
