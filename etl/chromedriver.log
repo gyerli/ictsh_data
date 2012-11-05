@@ -1,0 +1,84 @@
+[0.000][INFO]:      ChromeDriver 23.0.1240.0 /usr/bin/chromedriver
+[0.275][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.275][INFO]:      Using named testing interface
+[0.699][INFO]:      Connected to Chrome successfully. Version: 20.0.1132.47
+[0.758][FINE]:      Command received (/session/ab5530082285015e37d5c55d393363aa)
+[0.758][FINE]:      Command finished (/session/ab5530082285015e37d5c55d393363aa) with response {
+   "sessionId": "ab5530082285015e37d5c55d393363aa",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "23.0.1240.0",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "linux",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "20.0.1132.47",
+      "webStorageEnabled": true
+   }
+}
+
+[1.233][FINE]:      Command received (/session/ab5530082285015e37d5c55d393363aa/url) with params {
+   "url": "http://www.soccerway.com/competitions"
+}
+
+[1.233][FINER]:     Waiting for all views to stop loading...
+[1.234][FINER]:     Done waiting for all views to stop loading
+[7.124][FINER]:     Waiting for all views to stop loading...
+[7.130][FINER]:     Done waiting for all views to stop loading
+[7.131][FINE]:      Command finished (/session/ab5530082285015e37d5c55d393363aa/url) with response {
+   "sessionId": "ab5530082285015e37d5c55d393363aa",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[7.131][FINE]:      Command received (/session/ab5530082285015e37d5c55d393363aa/url)
+[7.132][FINER]:     Waiting for all views to stop loading...
+[7.132][FINER]:     Done waiting for all views to stop loading
+[7.142][FINER]:     Waiting for all views to stop loading...
+[7.143][FINER]:     Done waiting for all views to stop loading
+[7.143][FINE]:      Command finished (/session/ab5530082285015e37d5c55d393363aa/url) with response {
+   "sessionId": "ab5530082285015e37d5c55d393363aa",
+   "status": 0,
+   "value": "http://www.soccerway.com/competitions/"
+}
+
+[7.144][FINE]:      Command received (/session/ab5530082285015e37d5c55d393363aa/source)
+[7.144][FINER]:     Waiting for all views to stop loading...
+[7.146][FINER]:     Done waiting for all views to stop loading
+[7.183][FINER]:     Waiting for all views to stop loading...
+[7.183][FINER]:     Done waiting for all views to stop loading
+[7.183][FINE]:      Command finished (/session/ab5530082285015e37d5c55d393363aa/source) with response {
+   "sessionId": "ab5530082285015e37d5c55d393363aa",
+   "status": 0,
+   "value": "\u003C!DOCTYPE html\u003E\u003C!--[if lt IE 7 ]\u003E\u003Chtml lang=\"en\" class=\"ie6\"\u003E \u003C![endif]--\u003E\u003C!--[if IE 7 ]\u003E\u003Chtml la..."
+}
+
+[9.930][FINE]:      Command received (/session/ab5530082285015e37d5c55d393363aa)
+[20.985][WARNING]:  Chrome still running, terminating...
+[20.985][INFO]:     Chrome shutdown

@@ -1,0 +1,49 @@
+require 'watir-webdriver'
+require 'active_record'
+require 'open-uri'
+require 'nokogiri'
+require 'pp'
+require 'pg'
+require 'yaml'
+require 'date'
+
+browser = Watir::Browser.new :chrome
+url = "http://localhost:3000"
+#url = "http://www.soccerway.com/national/turkey/super-lig/2004-2005/round-1/matches"
+
+ActiveRecord::Base.establish_connection(
+    :adapter => "postgresql",
+    :database => "two_dev",
+    :username => "one",
+    :password => "gyerli"
+)
+
+class SourceSystem < ActiveRecord::Base
+end
+
+class Area < ActiveRecord::Base
+end
+
+sw = SourceSystem.find_by_code('SOCCERWAY')
+
+browser.goto url
+
+d = Nokogiri::HTML(browser.html)
+d.css('ul.areas li').each do |li|
+  name = li.css('a').text.strip
+  area_details_url = li.css('div a').attribute('href').text
+  source_system_area_id = li.attribute('data-area_id')
+  
+  #date = Date.strptime row.css('td')[1].text, '%d/%m/%y'
+  #dt = row.css('td')[1].text unless row.css('td')[1].text == ''
+  #date_time = DateTime.strptime(row['data-timestamp'],'%s')
+  #source_system_match_id = row['id'].split('-')[1]
+  #team_a = row.css('td')[2].text.strip
+  #team_b = row.css('td')[4].text.strip
+  #team_a_score = row.css('td')[3].text.strip.delete(' ').split('-')[0]
+  #team_b_score = row.css('td')[3].text.strip.delete(' ').split('-')[1]
+  #match_details_url = row.css('td')[3].css('a').attribute('href').text
+  puts "source_system_id=#{sw.id}|area_id=#{source_system_area_id}|area_name=#{name}|URL=#{area_details_url}"
+end
+
+
