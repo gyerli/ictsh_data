@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 0) do
+ActiveRecord::Schema.define(:version => 20121107183001) do
 
   create_table "areas", :force => true do |t|
     t.string   "url"
@@ -50,6 +50,7 @@ ActiveRecord::Schema.define(:version => 0) do
     t.integer  "display_order_num",             :limit => 2
     t.integer  "soccer_type_id"
     t.integer  "team_type_id"
+    t.text     "competition_url"
   end
 
   create_table "events", :force => true do |t|
@@ -128,7 +129,7 @@ ActiveRecord::Schema.define(:version => 0) do
     t.string   "source_system_season_key", :limit => 20
   end
 
-  create_table "soccet_types", :force => true do |t|
+  create_table "soccer_types", :force => true do |t|
     t.string   "soccer_type_name", :limit => 50, :null => false
     t.string   "soccer_type_code", :limit => 10, :null => false
     t.datetime "created_at",                     :null => false

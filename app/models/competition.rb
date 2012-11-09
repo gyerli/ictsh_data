@@ -1,5 +1,5 @@
 class Competition < ActiveRecord::Base
-  attr_accessible :competition_name, :competition_format_id, :competition_type_id, :area_id, :soccer_type_id, :display_order_num, :team_type_id, :source_system_id, :source_system_competition_key
+  attr_accessible :competition_name, :competition_url, :competition_format_id, :competition_type_id, :area_id, :soccer_type_id, :display_order_num, :team_type_id, :source_system_id, :source_system_competition_key
 
 
   belongs_to :area, :class_name => 'Area', :foreign_key => :area_id
