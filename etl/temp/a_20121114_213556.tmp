@@ -1,0 +1,6 @@
+copy a 
+from '/home/gursoy/work/ictsh/etl/data/intake/b'
+with
+delimiter '|' 
+CSV 
+header 

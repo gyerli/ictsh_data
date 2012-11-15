@@ -1,0 +1,7 @@
+PROJECT_NAME=ictsh
+PROJECT_HOME=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
+PROJECT_SRC=${PROJECT_HOME}/data/source
+PROJECT_INTAKE=${PROJECT_HOME}/data/intake
+PROJECT_TEMP=${PROJECT_HOME}/temp
+PROJECT_RUN=${PROJECT_HOME}/run
+DB_USER=gyerli

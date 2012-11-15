@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0bfd92e-1362-4ad5-8175-a4a6a143665f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/areas.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/chromedriver.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/competitions.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/soccerway_areas.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/soccerway_competition_update.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/soccerway_matches.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/soccerway_seasons.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/update_area_ranges" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/etl/archive/chromedriver.log" afterPath="$PROJECT_DIR$/etl/archive/chromedriver.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/etl/archive/soccerway_areas.rb" afterPath="$PROJECT_DIR$/etl/archive/soccerway_areas.rb" />
     </list>
     <ignored path="ictsh.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,19 +55,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="competitions.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/etl/competitions.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="45" selection-start="2229" selection-end="2229" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="competition.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/competition.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="826" selection-end="826" vertical-scroll-proportion="0.20905924">
+            <state line="13" column="0" selection-start="848" selection-end="848" vertical-scroll-proportion="0.22648084">
               <folding />
             </state>
           </provider>
@@ -105,10 +104,10 @@
         <option value="$PROJECT_DIR$/app/models/soccet_type.rb" />
         <option value="$PROJECT_DIR$/app/models/soccer_type.rb" />
         <option value="$PROJECT_DIR$/app/models/team_type.rb" />
-        <option value="$PROJECT_DIR$/app/models/competition.rb" />
         <option value="$PROJECT_DIR$/db/seeds.rb" />
         <option value="$PROJECT_DIR$/etl/competitions.rb" />
         <option value="/Rails ictsh: development" />
+        <option value="$PROJECT_DIR$/app/models/competition.rb" />
       </list>
     </option>
   </component>
@@ -490,12 +489,12 @@
       <method />
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.soccerway_areas" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.areas" />
-      <item index="2" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="3" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="4" class="java.lang.String" itemvalue="Rails.Production: ictsh" />
-      <item index="5" class="java.lang.String" itemvalue="Rails.Development: ictsh" />
+      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: ictsh" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: ictsh" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.soccerway_areas" />
+      <item index="5" class="java.lang.String" itemvalue="Ruby.areas" />
     </list>
     <recent_temporary>
       <list size="2">
@@ -557,14 +556,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="53" width="1364" height="997" extended-state="5" />
+    <frame x="2" y="53" width="1364" height="997" extended-state="4" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32815966" sideWeight="0.4939117" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.49695587" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952815" sideWeight="0.6707317" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24961948" sideWeight="0.21840355" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26176023" sideWeight="0.6707317" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26176023" sideWeight="0.6707317" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24961948" sideWeight="0.21840355" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.4977169" order="1" side_tool="true" content_ui="tabs" />
@@ -656,21 +655,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/etl/areas.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="58" selection-start="125" selection-end="125" vertical-scroll-proportion="0.16245487" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/area.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.054151624">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/etl/soccerway_areas.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="0" selection-start="1617" selection-end="2153" vertical-scroll-proportion="0.6895307" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/team_type.rb">
@@ -726,13 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/competition.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="826" selection-end="826" vertical-scroll-proportion="0.20905924">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="14" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
@@ -758,9 +740,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/etl/competitions.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/competition.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="45" selection-start="2229" selection-end="2229" vertical-scroll-proportion="0.0">
+        <state line="13" column="0" selection-start="848" selection-end="848" vertical-scroll-proportion="0.22648084">
           <folding />
         </state>
       </provider>

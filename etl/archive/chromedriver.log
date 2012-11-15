@@ -1,5 +1,5 @@
 [0.000][INFO]:      ChromeDriver 23.0.1240.0 /usr/bin/chromedriver
-[0.272][FINE]:      Initializing session with capabilities {
+[0.276][FINE]:      Initializing session with capabilities {
    "browserName": "chrome",
    "chrome.detach": true,
    "chromeOptions": {
@@ -14,11 +14,11 @@
    "version": ""
 }
 
-[0.273][INFO]:      Using named testing interface
-[0.705][INFO]:      Connected to Chrome successfully. Version: 20.0.1132.47
-[0.717][FINE]:      Command received (/session/3110805e1753821513b60ce1622f9653)
-[0.717][FINE]:      Command finished (/session/3110805e1753821513b60ce1622f9653) with response {
-   "sessionId": "3110805e1753821513b60ce1622f9653",
+[0.276][INFO]:      Using named testing interface
+[0.608][INFO]:      Connected to Chrome successfully. Version: 20.0.1132.47
+[0.620][FINE]:      Command received (/session/e16643444fc9a185ef6cc25b5bcf0d01)
+[0.621][FINE]:      Command finished (/session/e16643444fc9a185ef6cc25b5bcf0d01) with response {
+   "sessionId": "e16643444fc9a185ef6cc25b5bcf0d01",
    "status": 0,
    "value": {
       "acceptSslCerts": false,
@@ -41,44 +41,44 @@
    }
 }
 
-[1.154][FINE]:      Command received (/session/3110805e1753821513b60ce1622f9653/url) with params {
+[1.045][FINE]:      Command received (/session/e16643444fc9a185ef6cc25b5bcf0d01/url) with params {
    "url": "http://www.soccerway.com/competitions"
 }
 
-[1.154][FINER]:     Waiting for all views to stop loading...
-[1.155][FINER]:     Done waiting for all views to stop loading
-[5.227][FINER]:     Waiting for all views to stop loading...
-[5.744][FINER]:     Done waiting for all views to stop loading
-[5.744][FINE]:      Command finished (/session/3110805e1753821513b60ce1622f9653/url) with response {
-   "sessionId": "3110805e1753821513b60ce1622f9653",
+[1.045][FINER]:     Waiting for all views to stop loading...
+[1.046][FINER]:     Done waiting for all views to stop loading
+[7.604][FINER]:     Waiting for all views to stop loading...
+[7.621][FINER]:     Done waiting for all views to stop loading
+[7.621][FINE]:      Command finished (/session/e16643444fc9a185ef6cc25b5bcf0d01/url) with response {
+   "sessionId": "e16643444fc9a185ef6cc25b5bcf0d01",
    "status": 0,
    "value": {
 
    }
 }
 
-[5.745][FINE]:      Command received (/session/3110805e1753821513b60ce1622f9653/url)
-[5.745][FINER]:     Waiting for all views to stop loading...
-[5.752][FINER]:     Done waiting for all views to stop loading
-[5.760][FINER]:     Waiting for all views to stop loading...
-[5.761][FINER]:     Done waiting for all views to stop loading
-[5.761][FINE]:      Command finished (/session/3110805e1753821513b60ce1622f9653/url) with response {
-   "sessionId": "3110805e1753821513b60ce1622f9653",
+[7.622][FINE]:      Command received (/session/e16643444fc9a185ef6cc25b5bcf0d01/url)
+[7.622][FINER]:     Waiting for all views to stop loading...
+[7.623][FINER]:     Done waiting for all views to stop loading
+[7.626][FINER]:     Waiting for all views to stop loading...
+[7.626][FINER]:     Done waiting for all views to stop loading
+[7.626][FINE]:      Command finished (/session/e16643444fc9a185ef6cc25b5bcf0d01/url) with response {
+   "sessionId": "e16643444fc9a185ef6cc25b5bcf0d01",
    "status": 0,
-   "value": "http://www.soccerway.com/competitions"
+   "value": "http://www.soccerway.com/competitions/"
 }
 
-[5.761][FINE]:      Command received (/session/3110805e1753821513b60ce1622f9653/source)
-[5.761][FINER]:     Waiting for all views to stop loading...
-[5.762][FINER]:     Done waiting for all views to stop loading
-[5.839][FINER]:     Waiting for all views to stop loading...
-[5.843][FINER]:     Done waiting for all views to stop loading
-[5.843][FINE]:      Command finished (/session/3110805e1753821513b60ce1622f9653/source) with response {
-   "sessionId": "3110805e1753821513b60ce1622f9653",
+[7.628][FINE]:      Command received (/session/e16643444fc9a185ef6cc25b5bcf0d01/source)
+[7.628][FINER]:     Waiting for all views to stop loading...
+[7.628][FINER]:     Done waiting for all views to stop loading
+[7.679][FINER]:     Waiting for all views to stop loading...
+[7.679][FINER]:     Done waiting for all views to stop loading
+[7.680][FINE]:      Command finished (/session/e16643444fc9a185ef6cc25b5bcf0d01/source) with response {
+   "sessionId": "e16643444fc9a185ef6cc25b5bcf0d01",
    "status": 0,
-   "value": "\u003C!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/x..."
+   "value": "\u003C!DOCTYPE html\u003E\u003C!--[if lt IE 7 ]\u003E\u003Chtml lang=\"en\" class=\"ie6\"\u003E \u003C![endif]--\u003E\u003C!--[if IE 7 ]\u003E\u003Chtml la..."
 }
 
-[5.893][FINE]:      Command received (/session/3110805e1753821513b60ce1622f9653)
-[16.949][WARNING]:  Chrome still running, terminating...
-[16.949][INFO]:     Chrome shutdown
+[7.765][FINE]:      Command received (/session/e16643444fc9a185ef6cc25b5bcf0d01)
+[18.824][WARNING]:  Chrome still running, terminating...
+[18.824][INFO]:     Chrome shutdown
