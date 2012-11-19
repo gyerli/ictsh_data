@@ -1,0 +1,984 @@
+competition_id|name|soccertype|teamtype|display_order|type|format|area_id|area_name|countrycode
+415|Algarve Cup|women|women|542|international|International cup|1|World|
+533|Arab Champions League|default|default|300|club|International cup|1|World|
+759|CAC Games|default|default|650|international|International cup|1|World|
+816|CAC Games Women|women|women|670|international|International cup|1|World|
+732|Club Friendlies|default|default|902|club|International cup|1|World|
+246|Confederations Cup|default|default|80|international|International cup|1|World|
+1014|Cyprus Cup|women|women|545|international|International cup|1|World|
+284|FIFA Club World Cup|default|default|260|club|International cup|1|World|
+430|Friendlies|default|default|901|international|International cup|1|World|
+456|Friendly (women)|women|women|546|international|International cup|1|World|
+167|Inter Continental Cup|default|default|270|club|International cup|1|World|
+275|Kirin Cup|default|default|500|international|International cup|1|World|
+221|Olympics|youth|youth|180|international|International cup|1|World|
+645|Olympics Women|women|women|600|international|International cup|1|World|
+760|Pan American Games|default|default|255|international|International cup|1|World|
+988|Pan Arab Games|default|default|260|international|International cup|1|World|
+711|Pan-Pacific Championship|default|default|350|club|International cup|1|World|
+836|Suruga Bank Championship|default|default|380|club|International cup|1|World|
+1049|U17 Arab Championship|youth|youth|350|international|International cup|1|World|
+832|U17 Women's World Cup|women|women|560|international|International cup|1|World|
+365|U17 World Cup|youth|youth|250|international|International cup|1|World|
+1053|U20 Arab Championship|youth|youth|340|international|International cup|1|World|
+455|U20 Women's World Cup|women|women|552|international|International cup|1|World|
+274|U20 World Cup|youth|youth|230|international|International cup|1|World|
+375|WC Qualification Intercontinental Play-offs|default|default|70|international|International cup|1|World|
+774|Women's Pan American Games|women|women|600|international|International cup|1|World|
+368|Women's World Cup|women|women|500|international|International cup|1|World|
+876|Womens WC Qualification Intercontinental Play-offs |women|women|100|international|International cup|1|World|
+72|World Cup|default|default|0|international|International cup|1|World|
+281|World Youth Festival Toulon|youth|youth|205|international|International cup|1|World|
+417|AFC Challenge Cup|default|default|15|international|International cup|2|Asia|
+251|AFC Champions League|default|default|10|club|International cup|2|Asia|
+253|AFC Cup|default|default|30|club|International cup|2|Asia|
+713|AFC President's Cup|default|default|51|club|International cup|2|Asia|
+834|AFC U17 Championship|youth|youth|430|international|International cup|2|Asia|
+831|AFC U19 Championship|youth|youth|420|international|International cup|2|Asia|
+1018|AFC U22 Asian Cup|youth|youth|410|international|International cup|2|Asia|
+1062|AFF Women's Championship|women|women|480|international|International cup|2|Asia|
+511|ASEAN Football Championship|default|default|18|international|International cup|2|Asia|
+250|Asian Cup|default|default|5|international|International cup|2|Asia|
+766|Asian Cup|women|women|450|international|International cup|2|Asia|
+1060|Asian Cup Qualification|default|default|40|international|International cup|2|Asia|
+490|Asian Games|default|default|10|international|International cup|2|Asia|
+869|Asian Games Women|women|women|460|international|International cup|2|Asia|
+815|EAFF East Asian Cup|default|default|19|international|International cup|2|Asia|
+773|GCC Champions League|default|default|100|club|International cup|2|Asia|
+516|Gulf Cup|default|default|22|international|International cup|2|Asia|
+1067|Gulf Cup U17|youth|youth|440|international|International cup|2|Asia|
+1084|Gulf Olympic Cup|default|default|390|international|International cup|2|Asia|
+843|Nehru Cup|default|default|190|international|International cup|2|Asia|
+844|SAFF Championship|default|default|400|international|International cup|2|Asia|
+1061|SAFF Women's Championship|women|women|470|international|International cup|2|Asia|
+969|Southeast Asian Games|default|default|310|international|International cup|2|Asia|
+229|WC Qualification Asia|default|default|8|international|International cup|2|Asia|
+841|West Asian Federation Championship|default|default|21|international|International cup|2|Asia|
+385|Africa Cup of Nations|default|default|10|international|International cup|3|Africa|
+1004|Africa Cup of Nations Qualification|default|default|60|international|International cup|3|Africa|
+695|African Nations Championship|default|default|70|international|International cup|3|Africa|
+769|African Women's Championship|women|women|510|international|International cup|3|Africa|
+913|All Africa Games|default|default|100|international|International cup|3|Africa|
+256|CAF Champions League|default|default|30|club|International cup|3|Africa|
+536|CAF Confederation Cup|default|default|40|club|International cup|3|Africa|
+710|CAF Super Cup|default|default|50|club|International super cup|3|Africa|
+830|CAF U17 Championship|youth|youth|90|international|International cup|3|Africa|
+828|CAF U20 Championship|youth|youth|80|international|International cup|3|Africa|
+877|CECAFA Senior Challenge Cup|default|default|110|international|International cup|3|Africa|
+898|Nile Basin Tournament|default|default|120|international|International cup|3|Africa|
+228|WC Qualification Africa|default|default|20|international|International cup|3|Africa|
+755|Caribbean Cup|default|default|7|international|International cup|4|N/C America|
+704|CFU Club Championship|default|default|30|club|International cup|4|N/C America|
+255|CONCACAF Champions League|default|default|21|club|International cup|4|N/C America|
+247|CONCACAF Gold Cup|default|default|5|international|International cup|4|N/C America|
+753|CONCACAF Nations Cup|default|default|11|international|International cup|4|N/C America|
+749|CONCACAF U17|youth|youth|65|international|International cup|4|N/C America|
+515|CONCACAF U20|youth|youth|41|international|International cup|4|N/C America|
+751|CONCACAF Women's U17|women|women|57|international|International cup|4|N/C America|
+750|CONCACAF Women's U20|women|women|45|international|International cup|4|N/C America|
+510|Copa Centroamericana|default|default|6|international|International cup|4|N/C America|
+784|Cup Winners Cup|default|default|66|club|International cup|4|N/C America|
+754|Giants Cup|default|default|300|club|International cup|4|N/C America|
+747|Olympic Qualifying CONCACAF|default|default|8|international|International cup|4|N/C America|
+758|Pre-CONCACAF Championships|default|default|10|international|International cup|4|N/C America|
+517|Super Liga|default|default|70|club|International cup|4|N/C America|
+319|UNCAF Clubs Cup|default|default|131|club|International cup|4|N/C America|
+227|WC Qualification CONCACAF|default|default|30|international|International cup|4|N/C America|
+748|Women's Olympic Qualifying CONCACAF|women|women|770|international|International cup|4|N/C America|
+742|Womens WC Qualification CONCACAF|women|women|111|international|International cup|4|N/C America|
+288|Copa America|default|default|90|international|International cup|5|South America|
+241|Copa Libertadores|default|default|50|club|International cup|5|South America|
+770|Copa Libertadores Femenina|women|women|400|club|International cup|5|South America|
+1038|Copa Libertadores U20|youth|youth|60|club|International cup|5|South America|
+297|Copa Sudamericana|default|default|100|club|International cup|5|South America|
+345|Recopa Sudamericana|default|default|120|club|International super cup|5|South America|
+818|Sudamericano U17|youth|youth|220|international|International cup|5|South America|
+1015|Sudamericano U17 Femenino|women|women|500|international|International cup|5|South America|
+512|Sudamericano U20|youth|youth|200|international|International cup|5|South America|
+1008|Sudamericano U20 Femenino|women|women|450|international|International cup|5|South America|
+225|WC Qualification South-America|default|default|20|international|International cup|5|South America|
+369|Womens WC Qualification South America|women|women|506|international|International cup|5|South America|
+278|OFC Champions League|default|default|11|club|International cup|6|Oceania|
+1041|OFC Nations Cup|default|default|300|international|International cup|6|Oceania|
+900|OFC U17 Championship|youth|youth|15|international|International cup|6|Oceania|
+925|OFC U20 Championship|youth|youth|13|international|International cup|6|Oceania|
+947|Pacific Games|default|default|200|international|International cup|6|Oceania|
+230|WC Qualification Oceania|default|default|60|international|International cup|6|Oceania|
+483|Womens WC Qualification Oceania|women|women|510|international|International cup|6|Oceania|
+902|Baltic Champions Cup|default|default|1001|club|International cup|7|Europe|
+825|Baltic Cup|default|default|700|international|International cup|7|Europe|
+539|Baltic League|default|default|999|club|International cup|7|Europe|
+1057|BeNe League|women|women|0|club|Domestic league|7|Europe|
+942|BeNe Super Cup|women|women|300|club|International super cup|7|Europe|
+1000|EC Qualification|default|default|15|international|International cup|7|Europe|
+25|European Championship|default|default|10|international|International cup|7|Europe|
+895|Nations Cup|default|default|1000|international|International cup|7|Europe|
+164|Scandinavian Royal League|default|default|121|club|International cup|7|Europe|
+244|Setanta Cup|default|default|131|club|International cup|7|Europe|
+977|The NextGen Series|youth|youth|400|club|International cup|7|Europe|
+10|UEFA Champions League|default|default|20|club|International cup|7|Europe|
+959|UEFA Cup Winners' Cup|default|default|35|club|International cup|7|Europe|
+18|UEFA Europa League|default|default|30|club|International cup|7|Europe|
+245|UEFA Intertoto Cup|default|default|50|club|International cup|7|Europe|
+211|UEFA Super Cup|default|default|40|club|International super cup|7|Europe|
+821|UEFA U17 Championship|youth|youth|350|international|International cup|7|Europe|
+822|UEFA U17 Championship Women|women|women|90|international|International cup|7|Europe|
+819|UEFA U19 Championship|youth|youth|240|international|International cup|7|Europe|
+820|UEFA U19 Championship Women|women|women|30|international|International cup|7|Europe|
+280|UEFA U21 Championship|youth|youth|140|international|International cup|7|Europe|
+336|UEFA Women's Champions League|women|women|960|club|International cup|7|Europe|
+268|UEFA Women's Championship|women|women|150|international|International cup|7|Europe|
+224|WC Qualification Europe|default|default|16|international|International cup|7|Europe|
+364|Womens WC Qualification Europe|women|women|504|international|International cup|7|Europe|
+1093|Afghan Premier League|default|default|10|club|Domestic league|8|Afghanistan|AFG
+578|1st Division|default|default|20|club|Domestic league|9|Albania|ALB
+672|2nd Division|default|default|30|club|Domestic league|9|Albania|ALB
+202|Cup|default|default|300|club|Domestic cup|9|Albania|ALB
+940|Play-offs 1/2|default|default|700|club|Domestic cup|9|Albania|ALB
+941|Play-offs 2/3|default|default|710|club|Domestic cup|9|Albania|ALB
+840|Super Cup|default|default|320|club|Domestic super cup|9|Albania|ALB
+48|Superliga|default|default|10|club|Domestic league|9|Albania|ALB
+705|Coupe Nationale|default|default|34|club|Domestic cup|10|Algeria|ALG
+205|Ligue 1|default|default|11|club|Domestic league|10|Algeria|ALG
+207|Ligue 2|default|default|12|club|Domestic league|10|Algeria|ALG
+885|Division 1|default|default|1|club|Domestic league|11|American Samoa|ASM
+139|1a Divisió|default|default|10|club|Domestic league|12|Andorra|AND
+491|2a Divisió|default|default|20|club|Domestic league|12|Andorra|AND
+543|Copa Constitució|default|default|300|club|Domestic cup|12|Andorra|AND
+548|Play-offs 1/2|default|default|700|club|Domestic cup|12|Andorra|AND
+957|Super Cup|default|default|320|club|Domestic super cup|12|Andorra|AND
+493|Girabola|default|default|1|club|Domestic league|13|Angola|ANG
+1019|Super Cup|default|default|2|club|Domestic super cup|13|Angola|ANG
+583|Premier Division|default|default|11|club|Domestic league|15|Antigua and Barbuda|ATG
+454|Argentino A|default|default|40|club|Domestic league|16|Argentina|ARG
+501|Argentino B|default|default|60|club|Domestic league|16|Argentina|ARG
+953|Copa Argentina|default|default|500|club|Domestic cup|16|Argentina|ARG
+1045|Play-offs 1/2|default|default|600|club|Domestic cup|16|Argentina|ARG
+1046|Play-offs 2/3|default|default|650|club|Domestic cup|16|Argentina|ARG
+1048|Play-offs 3/4|default|default|680|club|Domestic cup|16|Argentina|ARG
+1047|Play-offs 4/5|default|default|700|club|Domestic cup|16|Argentina|ARG
+471|Prim B Metro|default|default|30|club|Domestic league|16|Argentina|ARG
+88|Prim B Nacional|default|default|20|club|Domestic league|16|Argentina|ARG
+472|Prim C Metro|default|default|50|club|Domestic league|16|Argentina|ARG
+481|Prim D Metro|default|default|70|club|Domestic league|16|Argentina|ARG
+87|Primera División|default|default|10|club|Domestic league|16|Argentina|ARG
+269|Cup|default|default|300|club|Domestic cup|17|Armenia|ARM
+542|First League|default|default|20|club|Domestic league|17|Armenia|ARM
+143|Premier League|default|default|10|club|Domestic league|17|Armenia|ARM
+850|Super Cup|default|default|350|club|Domestic super cup|17|Armenia|ARM
+589|Division di Honor|default|default|11|club|Domestic league|18|Aruba|ABW
+283|A-League|default|default|10|club|Domestic league|19|Australia|AUS
+721|Brisbane|default|default|45|club|Domestic league|19|Australia|AUS
+624|Capital Territory|default|default|21|club|Domestic league|19|Australia|AUS
+1080|National Youth League|youth|youth|110|club|Domestic league|19|Australia|AUS
+606|New South Wales|default|default|31|club|Domestic league|19|Australia|AUS
+626|Northern|default|default|41|club|Domestic league|19|Australia|AUS
+625|Northern NSW|default|default|51|club|Domestic league|19|Australia|AUS
+42|NSL|default|default|60|club|Domestic league|19|Australia|AUS
+623|Pre-Season Cup|default|default|11|club|Domestic cup|19|Australia|AUS
+608|Queensland|default|default|61|club|Domestic league|19|Australia|AUS
+607|South Australian|default|default|71|club|Domestic league|19|Australia|AUS
+611|Tasmania|default|default|81|club|Domestic league|19|Australia|AUS
+318|Victoria|default|default|91|club|Domestic league|19|Australia|AUS
+370|W-League|women|women|120|club|Domestic league|19|Australia|AUS
+609|Western Australia|default|default|101|club|Domestic league|19|Australia|AUS
+50|1. Liga|default|default|20|club|Domestic league|20|Austria|AUT
+555|2. Frauenliga|women|women|810|club|Domestic league|20|Austria|AUT
+49|Bundesliga|default|default|10|club|Domestic league|20|Austria|AUT
+187|Cup|default|default|300|club|Domestic cup|20|Austria|AUT
+716|Cup Women|women|women|1000|club|Domestic cup|20|Austria|AUT
+339|Frauenliga|women|women|800|club|Domestic league|20|Austria|AUT
+1089|Jugendliga U18|youth|youth|720|club|Domestic league|20|Austria|AUT
+628|Landesliga|default|default|40|club|Domestic league|20|Austria|AUT
+965|Play-offs 2/3|default|default|710|club|Domestic cup|20|Austria|AUT
+553|Regionalliga|default|default|30|club|Domestic league|20|Austria|AUT
+581|Birinci Dasta|default|default|20|club|Domestic league|21|Azerbaijan|AZE
+243|Cup|default|default|300|club|Domestic cup|21|Azerbaijan|AZE
+106|Premyer Liqa|default|default|10|club|Domestic league|21|Azerbaijan|AZE
+587|BFA Senior League|default|default|11|club|Domestic league|22|Bahamas|BHS
+702|Cup|default|default|33|club|Domestic cup|23|Bahrain|BHR
+958|King's Cup|default|default|22|club|Domestic cup|23|Bahrain|BHR
+238|Premier League|default|default|11|club|Domestic league|23|Bahrain|BHR
+537|Premier League|default|default|11|club|Domestic league|24|Bangladesh|BAN
+524|Premier League|default|default|11|club|Domestic league|25|Barbados|BRB
+263|1. Division|default|default|20|club|Domestic league|26|Belarus|BLR
+804|2. Division|default|default|30|club|Domestic league|26|Belarus|BLR
+200|Cup|default|default|300|club|Domestic cup|26|Belarus|BLR
+808|Cup Women|women|women|1000|club|Domestic cup|26|Belarus|BLR
+966|Play-offs 1/2|default|default|700|club|Domestic cup|26|Belarus|BLR
+66|Premier League|default|default|10|club|Domestic league|26|Belarus|BLR
+488|Premier League Women|women|women|800|club|Domestic league|26|Belarus|BLR
+790|Super Cup|default|default|320|club|Domestic super cup|26|Belarus|BLR
+811|Super Cup Women|women|women|1020|club|Domestic super cup|26|Belarus|BLR
+337|1e Nationale|women|women|110|club|Domestic league|27|Belgium|BEL
+451|2e Klasse|women|women|120|club|Domestic league|27|Belgium|BEL
+126|Cup|default|default|100|club|Domestic cup|27|Belgium|BEL
+698|Cup Women|women|women|200|club|Domestic cup|27|Belgium|BEL
+1042|Play-offs 1/2|women|women|220|club|Domestic cup|27|Belgium|BEL
+933|Play-offs 1/2|default|default|300|club|Domestic cup|27|Belgium|BEL
+1025|Play-offs 2/3|default|default|350|club|Domestic cup|27|Belgium|BEL
+1026|Play-offs 3/4|default|default|360|club|Domestic cup|27|Belgium|BEL
+1027|Play-offs 4/5|default|default|380|club|Domestic cup|27|Belgium|BEL
+24|Pro League|default|default|10|club|Domestic league|27|Belgium|BEL
+428|Prom / Rel|default|default|80|club|Domestic league|27|Belgium|BEL
+572|Promotion|default|default|40|club|Domestic league|27|Belgium|BEL
+833|Provincial|default|default|50|club|Domestic league|27|Belgium|BEL
+52|Second Division|default|default|20|club|Domestic league|27|Belgium|BEL
+169|Super Cup|default|default|110|club|Domestic super cup|27|Belgium|BEL
+1050|Super Cup Women|women|women|230|club|Domestic super cup|27|Belgium|BEL
+133|Third Division|default|default|30|club|Domestic league|27|Belgium|BEL
+691|Premier League|default|default|10|club|Domestic league|28|Belize|BLZ
+870|Championnat National|default|default|10|club|Domestic league|29|Benin|BEN
+538|Premier League|default|default|12|club|Domestic league|30|Bermuda|BMU
+908|A-Division|default|default|1|club|Domestic league|31|Bhutan|BHU
+69|LFPB|default|default|10|club|Domestic league|32|Bolivia|BOL
+1082|Nacional B|default|default|200|club|Domestic league|32|Bolivia|BOL
+144|1st League|default|default|20|club|Domestic league|33|Bosnia-Herzegovina|BIH
+379|Cup|default|default|300|club|Domestic cup|33|Bosnia-Herzegovina|BIH
+64|Premier Liga|default|default|10|club|Domestic league|33|Bosnia-Herzegovina|BIH
+855|Premier League|default|default|10|club|Domestic league|34|Botswana|BOT
+409|Acreano|default|default|1200|club|Domestic league|35|Brazil|BRA
+398|Alagoano|default|default|750|club|Domestic league|35|Brazil|BRA
+410|Amapaense|default|default|1350|club|Domestic league|35|Brazil|BRA
+405|Amazonense|default|default|900|club|Domestic league|35|Brazil|BRA
+394|Baiano 1|default|default|300|club|Domestic league|35|Brazil|BRA
+596|Baiano 2|default|default|310|club|Domestic league|35|Brazil|BRA
+393|Brasiliense|default|default|650|club|Domestic league|35|Brazil|BRA
+408|Capixaba|default|default|1050|club|Domestic league|35|Brazil|BRA
+240|Carioca 1|default|default|150|club|Domestic league|35|Brazil|BRA
+595|Carioca 2|default|default|160|club|Domestic league|35|Brazil|BRA
+390|Catarinense 1|default|default|450|club|Domestic league|35|Brazil|BRA
+955|Catarinense 2|default|default|460|club|Domestic league|35|Brazil|BRA
+395|Cearense 1|default|default|550|club|Domestic league|35|Brazil|BRA
+778|Cearense 2|default|default|560|club|Domestic league|35|Brazil|BRA
+231|Copa do Brasil|default|default|50|club|Domestic cup|35|Brazil|BRA
+1063|Copa do Brasil U20|youth|youth|2200|club|Domestic cup|35|Brazil|BRA
+388|Gaucho 1|default|default|200|club|Domestic league|35|Brazil|BRA
+600|Gaucho 2|default|default|210|club|Domestic league|35|Brazil|BRA
+389|Goiano 1|default|default|500|club|Domestic league|35|Brazil|BRA
+922|Goiano 2|default|default|510|club|Domestic league|35|Brazil|BRA
+817|Liga do Nordeste|default|default|60|club|Domestic league|35|Brazil|BRA
+403|Maranhense|default|default|1100|club|Domestic league|35|Brazil|BRA
+391|Matogrossense|default|default|950|club|Domestic league|35|Brazil|BRA
+387|Mineiro 1|default|default|250|club|Domestic league|35|Brazil|BRA
+594|Mineiro 2|default|default|260|club|Domestic league|35|Brazil|BRA
+396|Paraense|default|default|600|club|Domestic league|35|Brazil|BRA
+399|Paraibano|default|default|700|club|Domestic league|35|Brazil|BRA
+386|Paranaense 1|default|default|350|club|Domestic league|35|Brazil|BRA
+727|Paranaense 2|default|default|360|club|Domestic league|35|Brazil|BRA
+801|Paulista|women|women|2000|club|Domestic league|35|Brazil|BRA
+239|Paulista A1|default|default|100|club|Domestic league|35|Brazil|BRA
+593|Paulista A2|default|default|110|club|Domestic league|35|Brazil|BRA
+699|Paulista A3|default|default|120|club|Domestic league|35|Brazil|BRA
+921|Paulista Série B|default|default|130|club|Domestic league|35|Brazil|BRA
+392|Pernambucano 1|default|default|400|club|Domestic league|35|Brazil|BRA
+934|Pernambucano 2|default|default|410|club|Domestic league|35|Brazil|BRA
+400|Piauiense|default|default|1150|club|Domestic league|35|Brazil|BRA
+397|Potiguar|default|default|800|club|Domestic league|35|Brazil|BRA
+406|Rondoniense|default|default|1250|club|Domestic league|35|Brazil|BRA
+411|Roraimense|default|default|1400|club|Domestic league|35|Brazil|BRA
+1081|São Paulo Youth Cup|youth|youth|2250|club|Domestic cup|35|Brazil|BRA
+402|Sergipano|default|default|850|club|Domestic league|35|Brazil|BRA
+26|Serie A|default|default|10|club|Domestic league|35|Brazil|BRA
+89|Serie B|default|default|20|club|Domestic league|35|Brazil|BRA
+321|Serie C|default|default|30|club|Domestic league|35|Brazil|BRA
+736|Serie D|default|default|40|club|Domestic league|35|Brazil|BRA
+401|Sul-Matogrossense|default|default|1000|club|Domestic league|35|Brazil|BRA
+407|Tocantinense|default|default|1300|club|Domestic league|35|Brazil|BRA
+907|BVIFA Football League|default|default|1|club|Domestic league|36|British Virgin Islands|BVI
+912|Premier League|default|default|1|club|Domestic league|37|Brunei Darussalam|BRU
+59|A PFG|default|default|10|club|Domestic league|38|Bulgaria|BGR
+60|B PFG|default|default|20|club|Domestic league|38|Bulgaria|BGR
+201|Cup|default|default|300|club|Domestic cup|38|Bulgaria|BGR
+1078|Elite U19|youth|youth|350|club|Domestic league|38|Bulgaria|BGR
+935|Play-offs 1/2|default|default|700|club|Domestic cup|38|Bulgaria|BGR
+453|Super Cup|default|default|320|club|Domestic super cup|38|Bulgaria|BGR
+664|V AFG|default|default|30|club|Domestic league|38|Bulgaria|BGR
+878|1ère Division|default|default|10|club|Domestic league|39|Burkina Faso|BFA
+914|Ligue A|default|default|1|club|Domestic league|40|Burundi|BDI
+797|C-League|default|default|10|club|Domestic league|41|Cambodia|CAM
+1011|Hun Sen Cup|default|default|20|club|Domestic cup|41|Cambodia|CAM
+266|Elite ONE|default|default|11|club|Domestic league|42|Cameroon|CMR
+785|Canadian Championship|default|default|40|club|Domestic league|43|Canada|CAN
+146|Canadian Soccer League|default|default|20|club|Domestic league|43|Canada|CAN
+147|PCSL|default|default|30|club|Domestic league|43|Canada|CAN
+894|Campeonato Nacional|default|default|1|club|Domestic league|44|Cape Verde Islands|CPV
+906|CIFA Premier League|default|default|1|club|Domestic league|45|Cayman Islands|CYM
+903|LFN|default|default|1|club|Domestic league|47|Chad|CHA
+635|Copa Chile|default|default|70|club|Domestic cup|48|Chile|CHL
+582|Play-offs 1/2|default|default|60|club|Domestic cup|48|Chile|CHL
+1021|Play-offs 2/3|default|default|65|club|Domestic cup|48|Chile|CHL
+438|Primera B|default|default|20|club|Domestic league|48|Chile|CHL
+90|Primera División|default|default|10|club|Domestic league|48|Chile|CHL
+1020|Segunda División|default|default|25|club|Domestic league|48|Chile|CHL
+779|Tercera A|default|default|30|club|Domestic league|48|Chile|CHL
+148|China League One|default|default|12|club|Domestic league|49|China PR|CHN
+51|CSL|default|default|10|club|Domestic league|49|China PR|CHN
+204|CSL Cup|default|default|31|club|Domestic cup|49|China PR|CHN
+276|FA Cup|default|default|21|club|Domestic cup|49|China PR|CHN
+998|Entrerprise Football League|default|default|90|club|Domestic league|50|Chinese Taipei|TPE
+383|Inter City league|default|default|10|club|Domestic league|50|Chinese Taipei|TPE
+599|Womens National League|women|women|11|club|Domestic league|50|Chinese Taipei|TPE
+613|Copa Colombia|default|default|14|club|Domestic cup|51|Colombia|COL
+580|Play-offs 1/2|default|default|13|club|Domestic cup|51|Colombia|COL
+91|Primera A|default|default|10|club|Domestic league|51|Colombia|COL
+448|Primera B|default|default|12|club|Domestic league|51|Colombia|COL
+1052|Super Cup|default|default|15|club|Domestic super cup|51|Colombia|COL
+928|Ligue 1|default|default|10|club|Domestic league|52|Congo|CGO
+780|Super Ligue|default|default|10|club|Domestic league|53|Congo DR|COD
+887|Round Cup|default|default|1|club|Domestic league|54|Cook Islands|COK
+752|Liga de Ascenso|default|default|20|club|Domestic league|55|Costa Rica|CRI
+1044|Play-offs 1/2|default|default|21|club|Domestic cup|55|Costa Rica|CRI
+315|Primera División|default|default|10|club|Domestic league|55|Costa Rica|CRI
+61|1. HNL|default|default|10|club|Domestic league|56|Croatia|HRV
+1094|1. HNL Juniori|youth|youth|750|club|Domestic league|56|Croatia|HRV
+62|2. HNL|default|default|20|club|Domestic league|56|Croatia|HRV
+687|3. HNL|default|default|30|club|Domestic league|56|Croatia|HRV
+681|First League|women|women|800|club|Domestic league|56|Croatia|HRV
+178|HR Nogometni Cup|default|default|300|club|Domestic cup|56|Croatia|HRV
+730|Play-offs 1/2|default|default|700|club|Domestic cup|56|Croatia|HRV
+305|Super Cup|default|default|320|club|Domestic super cup|56|Croatia|HRV
+567|Primera Division|default|default|11|club|Domestic league|57|Cuba|CUB
+75|1. Division|default|default|10|club|Domestic league|58|Cyprus|CYP
+486|2. Division|default|default|20|club|Domestic league|58|Cyprus|CYP
+663|3. Division|default|default|30|club|Domestic league|58|Cyprus|CYP
+271|Cup|default|default|300|club|Domestic cup|58|Cyprus|CYP
+571|Super Cup|default|default|320|club|Domestic super cup|58|Cyprus|CYP
+976|Women's First Division|women|women|800|club|Domestic league|58|Cyprus|CYP
+330|1. Liga|women|women|800|club|Domestic league|59|Czech Republic|CZE
+1071|1. Liga U19|youth|youth|600|club|Domestic league|59|Czech Republic|CZE
+83|2. liga|default|default|20|club|Domestic league|59|Czech Republic|CZE
+653|2. Liga Women|women|women|810|club|Domestic league|59|Czech Republic|CZE
+84|3. liga|default|default|30|club|Domestic league|59|Czech Republic|CZE
+633|4. liga|default|default|40|club|Domestic league|59|Czech Republic|CZE
+199|Cup|default|default|300|club|Domestic cup|59|Czech Republic|CZE
+667|Cup Women|women|women|1000|club|Domestic cup|59|Czech Republic|CZE
+82|Czech Liga|default|default|10|club|Domestic league|59|Czech Republic|CZE
+1065|Juniorská liga|youth|youth|500|club|Domestic league|59|Czech Republic|CZE
+938|Play-offs 1/2|women|women|1100|club|Domestic cup|59|Czech Republic|CZE
+824|Super Cup|default|default|320|club|Domestic super cup|59|Czech Republic|CZE
+530|Ligue 1|default|default|21|club|Domestic league|60|Côte d'Ivoire|CIV
+450|1. Division|women|women|810|club|Domestic league|61|Denmark|DNK
+39|1st Division|default|default|20|club|Domestic league|61|Denmark|DNK
+40|2nd Division|default|default|30|club|Domestic league|61|Denmark|DNK
+531|Cup|women|women|1000|club|Domestic cup|61|Denmark|DNK
+181|DBU Pokalen|default|default|300|club|Domestic cup|61|Denmark|DNK
+632|Denmark Series|default|default|40|club|Domestic league|61|Denmark|DNK
+333|Elitedivisionen|women|women|800|club|Domestic league|61|Denmark|DNK
+294|Super Cup|default|default|320|club|Domestic super cup|61|Denmark|DNK
+30|Superliga|default|default|10|club|Domestic league|61|Denmark|DNK
+1072|U19 Ligaen|youth|youth|400|club|Domestic league|61|Denmark|DNK
+429|Viasat Cup|default|default|310|club|Domestic cup|61|Denmark|DNK
+1003|Division 1|default|default|10|club|Domestic league|62|Djibouti|DJI
+547|Liga Mayor|default|default|11|club|Domestic league|64|Dominican Republic|DOM
+165|Primera A|default|default|10|club|Domestic league|65|Ecuador|ECU
+447|Primera B|default|default|12|club|Domestic league|65|Ecuador|ECU
+700|Cup|default|default|33|club|Domestic cup|66|Egypt|EGY
+206|Premier League|default|default|10|club|Domestic league|66|Egypt|EGY
+666|Second Divison|default|default|22|club|Domestic league|66|Egypt|EGY
+744|Super Cup|default|default|44|club|Domestic super cup|66|Egypt|EGY
+378|Primera Division|default|default|11|club|Domestic league|67|El Salvador|SLV
+70|Championship|default|default|20|club|Domestic league|68|England|ENG
+570|Combination|women|women|330|club|Domestic league|68|England|ENG
+173|Community Shield|default|default|150|club|Domestic super cup|68|England|ENG
+680|Conference League Cup|default|default|1300|club|Domestic cup|68|England|ENG
+302|Conference N / S|default|default|60|club|Domestic league|68|England|ENG
+71|Conference National|default|default|50|club|Domestic league|68|England|ENG
+93|FA Cup|default|default|100|club|Domestic cup|68|England|ENG
+498|FA Cup Women|women|women|400|club|Domestic cup|68|England|ENG
+683|FA Trophy|default|default|140|club|Domestic cup|68|England|ENG
+96|Football League Trophy|default|default|120|club|Domestic cup|68|England|ENG
+95|League Cup|default|default|110|club|Domestic cup|68|England|ENG
+499|League Cup Women|women|women|4200|club|Domestic cup|68|England|ENG
+15|League One|default|default|30|club|Domestic league|68|England|ENG
+32|League Two|default|default|40|club|Domestic league|68|England|ENG
+308|Non League Div One|default|default|80|club|Domestic league|68|England|ENG
+306|Non League Premier|default|default|70|club|Domestic league|68|England|ENG
+422|Play-offs 3/4|women|women|350|club|Domestic league|68|England|ENG
+950|Premier Academy League|youth|youth|220|club|Domestic league|68|England|ENG
+8|Premier League|default|default|10|club|Domestic league|68|England|ENG
+326|Premier League Women|women|women|310|club|Domestic league|68|England|ENG
+327|Premier N / S|women|women|320|club|Domestic league|68|England|ENG
+949|Premier Reserve League|youth|youth|2000|club|Domestic league|68|England|ENG
+1058|U21 Premier League|youth|youth|210|club|Domestic league|68|England|ENG
+886|WSL|women|women|300|club|Domestic league|68|England|ENG
+1006|WSL Cup|women|women|410|club|Domestic cup|68|England|ENG
+198|Cup|default|default|300|club|Domestic cup|71|Estonia|EST
+112|Esiliiga|default|default|20|club|Domestic league|71|Estonia|EST
+798|Esiliiga Women|women|women|810|club|Domestic league|71|Estonia|EST
+783|II Liiga|default|default|30|club|Domestic league|71|Estonia|EST
+111|Meistriliiga|default|default|10|club|Domestic league|71|Estonia|EST
+348|Meistriliiga Women|women|women|800|club|Domestic league|71|Estonia|EST
+972|Play-offs 1/2|default|default|700|club|Domestic cup|71|Estonia|EST
+960|Play-offs 1/2|women|women|1100|club|Domestic cup|71|Estonia|EST
+973|Play-offs 2/3|default|default|710|club|Domestic cup|71|Estonia|EST
+714|Super Cup|default|default|320|club|Domestic super cup|71|Estonia|EST
+813|Super Cup Women|women|women|1020|club|Domestic super cup|71|Estonia|EST
+1051|Women's Cup|women|women|820|club|Domestic cup|71|Estonia|EST
+880|Premier League|default|default|10|club|Domestic league|72|Ethiopia|ETH
+384|1. Deild|default|default|20|club|Domestic league|73|Faroe Islands|FRO
+332|1. Deild Women|women|women|800|club|Domestic league|73|Faroe Islands|FRO
+792|2. Deild|default|default|30|club|Domestic league|73|Faroe Islands|FRO
+478|Løgmanssteypid|default|default|300|club|Domestic cup|73|Faroe Islands|FRO
+81|Meistaradeildin|default|default|10|club|Domestic league|73|Faroe Islands|FRO
+970|Play-offs 1/2|default|default|700|club|Domestic cup|73|Faroe Islands|FRO
+971|Play-offs 2/3|default|default|710|club|Domestic cup|73|Faroe Islands|FRO
+612|Steypakappingin|women|women|1000|club|Domestic cup|73|Faroe Islands|FRO
+919|Super Cup|default|default|320|club|Domestic super cup|73|Faroe Islands|FRO
+591|National Football League|default|default|11|club|Domestic league|74|Fiji|FJI
+41|Kakkonen|default|default|30|club|Domestic league|75|Finland|FIN
+252|League Cup|default|default|310|club|Domestic cup|75|Finland|FIN
+604|Liiga Cup Naiset|women|women|1010|club|Domestic cup|75|Finland|FIN
+149|Naisten Liiga|women|women|800|club|Domestic league|75|Finland|FIN
+974|Play-offs 1/2|default|default|700|club|Domestic cup|75|Finland|FIN
+975|Play-offs 2/3|default|default|710|club|Domestic cup|75|Finland|FIN
+476|SM Suomen Cup|women|women|1000|club|Domestic cup|75|Finland|FIN
+179|Suomen Cup|default|default|300|club|Domestic cup|75|Finland|FIN
+22|Veikkausliiga|default|default|10|club|Domestic league|75|Finland|FIN
+35|Ykkönen|default|default|20|club|Domestic league|75|Finland|FIN
+413|Ykkönen Women|women|women|810|club|Domestic league|75|Finland|FIN
+354|CFA|default|default|40|club|Domestic league|76|France|FRA
+557|CFA 2|default|default|50|club|Domestic league|76|France|FRA
+951|Championnat National U-19|youth|youth|500|club|Domestic league|76|France|FRA
+177|Coupe de France|default|default|300|club|Domestic cup|76|France|FRA
+535|Coupe de France Féminine|women|women|1000|club|Domestic cup|76|France|FRA
+105|Coupe de la Ligue|default|default|310|club|Domestic cup|76|France|FRA
+328|Feminine Division 1|women|women|800|club|Domestic league|76|France|FRA
+363|Feminine Division 2|women|women|810|club|Domestic league|76|France|FRA
+560|Feminine Division 3|women|women|820|club|Domestic league|76|France|FRA
+16|Ligue 1|default|default|10|club|Domestic league|76|France|FRA
+17|Ligue 2|default|default|20|club|Domestic league|76|France|FRA
+57|National|default|default|30|club|Domestic league|76|France|FRA
+312|Super Cup|default|default|320|club|Domestic super cup|76|France|FRA
+888|Championnat D1|default|default|1|club|Domestic league|77|Gabon|GAB
+809|GFA League|default|default|10|club|Domestic league|78|Gambia|GAM
+203|David Kipiani Cup|default|default|300|club|Domestic cup|79|Georgia|GEO
+761|Pirveli Liga|default|default|20|club|Domestic league|79|Georgia|GEO
+937|Play-offs 1/2|default|default|700|club|Domestic cup|79|Georgia|GEO
+883|Super Cup|default|default|310|club|Domestic super cup|79|Georgia|GEO
+166|Umaglesi Liga|default|default|10|club|Domestic league|79|Georgia|GEO
+11|2. Bundesliga|default|default|20|club|Domestic league|80|Germany|DEU
+323|2. Bundesliga Women|women|women|810|club|Domestic league|80|Germany|DEU
+622|3. Liga|default|default|30|club|Domestic league|80|Germany|DEU
+9|Bundesliga|default|default|10|club|Domestic league|80|Germany|DEU
+884|Bundesliga Cup|women|women|1010|club|Domestic cup|80|Germany|DEU
+1068|DFB Junioren Pokal|youth|youth|600|club|Domestic cup|80|Germany|DEU
+104|DFB Pokal|default|default|300|club|Domestic cup|80|Germany|DEU
+372|DFB Pokal Women|women|women|1000|club|Domestic cup|80|Germany|DEU
+290|Frauen Bundesliga|women|women|800|club|Domestic league|80|Germany|DEU
+174|Liga Pokal|default|default|310|club|Domestic cup|80|Germany|DEU
+366|Oberliga|default|default|50|club|Domestic league|80|Germany|DEU
+931|Play-offs 1/2|default|default|700|club|Domestic cup|80|Germany|DEU
+932|Play-offs 2/3|default|default|710|club|Domestic cup|80|Germany|DEU
+55|Regionalliga|default|default|40|club|Domestic league|80|Germany|DEU
+556|Regionalliga Women|women|women|820|club|Domestic league|80|Germany|DEU
+638|Super Cup|default|default|320|club|Domestic super cup|80|Germany|DEU
+945|U-19 Bundesliga|youth|youth|500|club|Domestic league|80|Germany|DEU
+487|Premier League|default|default|1|club|Domestic league|81|Ghana|GHA
+168|Cup|default|default|300|club|Domestic cup|82|Greece|GRC
+989|Delta Ethniki|default|default|40|club|Domestic league|82|Greece|GRC
+108|Football League|default|default|20|club|Domestic league|82|Greece|GRC
+140|Football League 2|default|default|30|club|Domestic league|82|Greece|GRC
+617|Panelinio Protathlima|women|women|800|club|Domestic league|82|Greece|GRC
+978|Play-offs 1/2|default|default|700|club|Domestic cup|82|Greece|GRC
+979|Play-offs 2/3|default|default|710|club|Domestic cup|82|Greece|GRC
+575|Super Cup|default|default|320|club|Domestic super cup|82|Greece|GRC
+107|Super League|default|default|10|club|Domestic league|82|Greece|GRC
+1074|Super League K20|youth|youth|50|club|Domestic league|82|Greece|GRC
+584|Premier Division|default|default|11|club|Domestic league|83|Grenada|GRD
+676|Division One|default|default|12|club|Domestic league|84|Guam|GUM
+320|Liga Nacional|default|default|10|club|Domestic league|85|Guatemala|GTM
+746|Primera Division|default|default|20|club|Domestic league|85|Guatemala|GTM
+777|GFF Super League|default|default|0|club|Domestic league|88|Guyana|GUY
+523|Championnat National|default|default|11|club|Domestic league|89|Haiti|HTI
+776|Super 8|default|default|21|club|Domestic cup|89|Haiti|HTI
+927|Trophée des Champions|default|default|30|club|Domestic super cup|89|Haiti|HTI
+463|Liga Nacional|default|default|11|club|Domestic league|90|Honduras|HND
+619|FA Cup|default|default|41|club|Domestic cup|91|Hong Kong|HKG
+113|HKFA 1st Division|default|default|11|club|Domestic league|91|Hong Kong|HKG
+657|HKFA 2nd Division|default|default|12|club|Domestic league|91|Hong Kong|HKG
+376|League Cup|default|default|31|club|Domestic cup|91|Hong Kong|HKG
+962|Senior Shield|default|default|50|club|Domestic cup|91|Hong Kong|HKG
+671|League Cup|default|default|310|club|Domestic cup|92|Hungary|HUN
+254|Magyar Kupa|default|default|300|club|Domestic cup|92|Hungary|HUN
+67|NB I|default|default|10|club|Domestic league|92|Hungary|HUN
+68|NB II|default|default|20|club|Domestic league|92|Hungary|HUN
+656|NB III|default|default|30|club|Domestic league|92|Hungary|HUN
+655|Nöi Magyar Kupa|women|women|1000|club|Domestic cup|92|Hungary|HUN
+360|Nöi NB I|women|women|800|club|Domestic league|92|Hungary|HUN
+568|Nöi NB II|women|women|810|club|Domestic league|92|Hungary|HUN
+980|Play-offs 1/2|default|default|700|club|Domestic cup|92|Hungary|HUN
+307|Super Cup|default|default|320|club|Domestic super cup|92|Hungary|HUN
+38|1. Deild|default|default|20|club|Domestic league|93|Iceland|ISL
+460|1. Deild Women|women|women|810|club|Domestic league|93|Iceland|ISL
+544|2. Deild|default|default|30|club|Domestic league|93|Iceland|ISL
+197|Cup|default|default|300|club|Domestic cup|93|Iceland|ISL
+470|Cup Women|women|women|1000|club|Domestic cup|93|Iceland|ISL
+806|Super Cup|default|default|320|club|Domestic super cup|93|Iceland|ISL
+807|Super Cup Women|women|women|1020|club|Domestic super cup|93|Iceland|ISL
+31|Úrvalsdeild|default|default|10|club|Domestic league|93|Iceland|ISL
+331|Úrvalsdeild Women|women|women|800|club|Domestic league|93|Iceland|ISL
+708|Federation Cup|default|default|33|club|Domestic cup|94|India|IND
+150|I-League|default|default|11|club|Domestic league|94|India|IND
+534|I-League 2nd Division|default|default|21|club|Domestic league|94|India|IND
+845|IFA Shield|default|default|80|club|Domestic cup|94|India|IND
+846|Santhosh Trophy|default|default|100|club|Domestic cup|94|India|IND
+847|Sikkim Governors Gold Cup|default|default|150|club|Domestic cup|94|India|IND
+961|Super Cup|default|default|300|club|Domestic super cup|94|India|IND
+151|Divisi Utama|default|default|11|club|Domestic league|95|Indonesia|IDN
+1001|ISL|default|default|30|club|Domestic league|95|Indonesia|IDN
+629|Liga Prima Indonesia|default|default|10|club|Domestic league|95|Indonesia|IDN
+273|Piala Indonesia|default|default|21|club|Domestic cup|95|Indonesia|IDN
+602|Azadegan League|default|default|11|club|Domestic league|96|Iran|IRN
+874|Hazfi Cup|default|default|70|club|Domestic cup|96|Iran|IRN
+76|Persian Gulf Cup|default|default|10|club|Domestic league|96|Iran|IRN
+518|Iraqi League|default|default|11|club|Domestic league|97|Iraq|IRQ
+627|A Championship|default|default|30|club|Domestic league|98|Ireland Republic|IRL
+196|FAI Cup|default|default|300|club|Domestic cup|98|Ireland Republic|IRL
+77|First Division|default|default|20|club|Domestic league|98|Ireland Republic|IRL
+285|League Cup|default|default|310|club|Domestic cup|98|Ireland Republic|IRL
+963|Play-offs 1/2|default|default|700|club|Domestic cup|98|Ireland Republic|IRL
+981|Play-offs 2/3|default|default|710|club|Domestic cup|98|Ireland Republic|IRL
+34|Premier League|default|default|10|club|Domestic league|98|Ireland Republic|IRL
+996|Women's National League |women|women|800|club|Domestic league|98|Ireland Republic|IRL
+142|Liga Artzit|default|default|30|club|Domestic league|99|Israel|ISR
+141|Liga Leumit|default|default|20|club|Domestic league|99|Israel|ISR
+579|Ligat Al Women|women|women|800|club|Domestic league|99|Israel|ISR
+117|Ligat ha'Al|default|default|10|club|Domestic league|99|Israel|ISR
+983|Play-offs 1/2|default|default|700|club|Domestic cup|99|Israel|ISR
+984|Play-offs 2/3|default|default|710|club|Domestic cup|99|Israel|ISR
+264|State Cup|default|default|300|club|Domestic cup|99|Israel|ISR
+924|State Cup Women|women|women|1000|club|Domestic cup|99|Israel|ISR
+643|Toto Cup Ligat Al|default|default|310|club|Domestic cup|99|Israel|ISR
+641|Toto Cup Ligat Artzit|default|default|330|club|Domestic cup|99|Israel|ISR
+642|Toto Cup Ligat Leumit|default|default|320|club|Domestic cup|99|Israel|ISR
+952|Campionato Nazionale Primavera|youth|youth|600|club|Domestic league|100|Italy|ITA
+135|Coppa Italia|default|default|300|club|Domestic cup|100|Italy|ITA
+684|Coppa Italia Lega Pro|default|default|320|club|Domestic cup|100|Italy|ITA
+1070|Coppa Italia Primavera|youth|youth|650|club|Domestic cup|100|Italy|ITA
+852|Coppa Italia Women|women|women|900|club|Domestic cup|100|Italy|ITA
+1092|Dante Berretti|youth|youth|660|club|Domestic league|100|Italy|ITA
+53|Lega Pro 1|default|default|30|club|Domestic league|100|Italy|ITA
+358|Lega Pro 2|default|default|40|club|Domestic league|100|Italy|ITA
+423|Play offs|default|default|400|club|Domestic cup|100|Italy|ITA
+424|Play out|default|default|410|club|Domestic cup|100|Italy|ITA
+13|Serie A|default|default|10|club|Domestic league|100|Italy|ITA
+293|Serie A|women|women|800|club|Domestic league|100|Italy|ITA
+457|Serie A2|women|women|810|club|Domestic league|100|Italy|ITA
+14|Serie B|default|default|20|club|Domestic league|100|Italy|ITA
+659|Serie D|default|default|50|club|Domestic league|100|Italy|ITA
+171|Super Cup|default|default|310|club|Domestic super cup|100|Italy|ITA
+851|Super Cup Women|women|women|1010|club|Domestic super cup|100|Italy|ITA
+477|Premier League|default|default|11|club|Domestic league|101|Jamaica|JAM
+577|Emperor Cup|default|default|40|club|Domestic cup|102|Japan|JPN
+223|J-League Cup|default|default|31|club|Domestic cup|102|Japan|JPN
+109|J1 League|default|default|10|club|Domestic league|102|Japan|JPN
+110|J2 League|default|default|20|club|Domestic league|102|Japan|JPN
+540|Japan Football League|default|default|23|club|Domestic league|102|Japan|JPN
+341|L1-League|women|women|50|club|Domestic league|102|Japan|JPN
+342|L2-League|women|women|54|club|Domestic league|102|Japan|JPN
+222|Super Cup|default|default|41|club|Domestic super cup|102|Japan|JPN
+854|Jordan Cup|default|default|110|club|Domestic cup|103|Jordan|JOR
+218|League|default|default|11|club|Domestic league|103|Jordan|JOR
+835|Shield Cup|default|default|100|club|Domestic cup|103|Jordan|JOR
+838|Super Cup|default|default|130|club|Domestic super cup|103|Jordan|JOR
+279|1. Division|default|default|20|club|Domestic league|104|Kazakhstan|KAZ
+261|Cup|default|default|300|club|Domestic cup|104|Kazakhstan|KAZ
+79|Premier League|default|default|10|club|Domestic league|104|Kazakhstan|KAZ
+812|Super Cup|default|default|310|club|Domestic super cup|104|Kazakhstan|KAZ
+715|Premier League|default|default|51|club|Domestic league|105|Kenya|KEN
+618|Challengers League|default|default|25|club|Domestic league|107|Korea Republic|KOR
+564|FA Cup|default|default|41|club|Domestic cup|107|Korea Republic|KOR
+136|K-League|default|default|10|club|Domestic league|107|Korea Republic|KOR
+257|K-League Cup|default|default|31|club|Domestic cup|107|Korea Republic|KOR
+725|KWFL|women|women|50|club|Domestic league|107|Korea Republic|KOR
+616|National League|default|default|21|club|Domestic league|107|Korea Republic|KOR
+723|Crown Prince Cup|default|default|43|club|Domestic cup|108|Kuwait|KUW
+670|Division 1|default|default|12|club|Domestic league|108|Kuwait|KUW
+794|Emir Cup|default|default|44|club|Domestic cup|108|Kuwait|KUW
+677|Federation Cup|default|default|33|club|Domestic cup|108|Kuwait|KUW
+1040|Play-offs 1/2|default|default|54|club|Domestic cup|108|Kuwait|KUW
+237|Premier League|default|default|11|club|Domestic league|108|Kuwait|KUW
+745|Super Cup|default|default|53|club|Domestic super cup|108|Kuwait|KUW
+1091|U19 League|youth|youth|60|club|Domestic league|108|Kuwait|KUW
+795|Top Liga|default|default|10|club|Domestic league|109|Kyrgyzstan|KGZ
+265|1. Liga|default|default|20|club|Domestic league|111|Latvia|LVA
+803|Championship|women|women|800|club|Domestic league|111|Latvia|LVA
+195|Cup|default|default|300|club|Domestic cup|111|Latvia|LVA
+982|Play-offs 1/2|default|default|700|club|Domestic cup|111|Latvia|LVA
+116|Virsliga|default|default|10|club|Domestic league|111|Latvia|LVA
+859|Elite Cup|default|default|50|club|Domestic cup|112|Lebanon|LIB
+864|Lebanon Cup|default|default|60|club|Domestic cup|112|Lebanon|LIB
+217|Premier League|default|default|10|club|Domestic league|112|Lebanon|LIB
+860|Super Cup|default|default|75|club|Domestic cup|112|Lebanon|LIB
+879|Lesotho Premier League|default|default|10|club|Domestic league|113|Lesotho|LES
+236|Premier League|default|default|11|club|Domestic league|115|Libya|LBY
+839|Super Cup|default|default|200|club|Domestic super cup|115|Libya|LBY
+504|FL1 Active Cup|default|default|300|club|Domestic cup|116|Liechtenstein|LIE
+258|1 Lyga|default|default|20|club|Domestic league|117|Lithuania|LTU
+118|A Lyga|default|default|10|club|Domestic league|117|Lithuania|LTU
+194|Cup|default|default|300|club|Domestic cup|117|Lithuania|LTU
+985|Play-offs 1/2|default|default|700|club|Domestic cup|117|Lithuania|LTU
+416|Super Cup|default|default|310|club|Domestic super cup|117|Lithuania|LTU
+404|Women A  Lyga|women|women|800|club|Domestic league|117|Lithuania|LTU
+661|1. Division|default|default|30|club|Domestic league|118|Luxembourg|LUX
+508|Cup|default|default|300|club|Domestic cup|118|Luxembourg|LUX
+686|Cup Women|women|women|1000|club|Domestic cup|118|Luxembourg|LUX
+480|Ligue 1|women|women|800|club|Domestic league|118|Luxembourg|LUX
+134|National Division|default|default|10|club|Domestic league|118|Luxembourg|LUX
+986|Play-offs 1/2|default|default|700|club|Domestic cup|118|Luxembourg|LUX
+987|Play-offs 2/3|default|default|710|club|Domestic cup|118|Luxembourg|LUX
+492|Promotion d'Honneur|default|default|20|club|Domestic league|118|Luxembourg|LUX
+694|Primeira Divisão|default|default|33|club|Domestic league|119|Macao|MAC
+272|Cup|default|default|300|club|Domestic cup|120|Macedonia FYR|MKD
+65|First League|default|default|10|club|Domestic league|120|Macedonia FYR|MKD
+991|Play-offs 1/2|default|default|700|club|Domestic cup|120|Macedonia FYR|MKD
+361|Second League|default|default|20|club|Domestic league|120|Macedonia FYR|MKD
+944|Super Cup|default|default|320|club|Domestic super cup|120|Macedonia FYR|MKD
+911|Ligue des Champions|default|default|1|club|Domestic league|121|Madagascar|MAD
+899|Super League|default|default|1|club|Domestic league|122|Malawi|MWI
+350|FA Cup|default|default|21|club|Domestic cup|123|Malaysia|MAS
+1007|FAM League|default|default|13|club|Domestic league|123|Malaysia|MAS
+349|Malaysia Cup|default|default|31|club|Domestic cup|123|Malaysia|MAS
+500|Play-offs 1/2|default|default|14|club|Domestic cup|123|Malaysia|MAS
+1056|Play-offs 2/3|default|default|15|club|Domestic cup|123|Malaysia|MAS
+154|Premier League|default|default|12|club|Domestic league|123|Malaysia|MAS
+153|Super League|default|default|10|club|Domestic league|123|Malaysia|MAS
+675|Dhivehi League|default|default|12|club|Domestic league|124|Maldives|MDV
+881|Première Division|default|default|10|club|Domestic league|125|Mali|MLI
+262|FA Trophy|default|default|300|club|Domestic cup|126|Malta|MLT
+473|First Division|default|default|20|club|Domestic league|126|Malta|MLT
+152|Premier League|default|default|10|club|Domestic league|126|Malta|MLT
+660|Second Division|default|default|30|club|Domestic league|126|Malta|MLT
+646|Super Cup|default|default|320|club|Domestic super cup|126|Malta|MLT
+359|Women's First Division|women|women|800|club|Domestic league|126|Malta|MLT
+772|Women's Second Division|women|women|810|club|Domestic league|126|Malta|MLT
+592|Premier League|default|default|11|club|Domestic league|127|Mauritania|MTN
+926|Mauritian League|default|default|10|club|Domestic league|128|Mauritius|MRI
+156|Ascenso MX|default|default|20|club|Domestic league|129|Mexico|MEX
+1054|Copa MX|default|default|30|club|Domestic cup|129|Mexico|MEX
+208|Interliga|default|default|21|club|Domestic cup|129|Mexico|MEX
+155|Liga MX|default|default|10|club|Domestic league|129|Mexico|MEX
+464|Pre-Libertadores|default|default|21|club|Domestic cup|129|Mexico|MEX
+193|Cupa|default|default|300|club|Domestic cup|130|Moldova|MHL
+561|Divizia A|default|default|20|club|Domestic league|130|Moldova|MHL
+856|Divizia B|default|default|30|club|Domestic league|130|Moldova|MHL
+80|Divizia Națională|default|default|10|club|Domestic league|130|Moldova|MHL
+992|Play-offs 1/2|default|default|700|club|Domestic cup|130|Moldova|MHL
+270|Supercupa|default|default|320|club|Domestic super cup|130|Moldova|MHL
+956|Niislel League|default|default|10|club|Domestic league|131|Mongolia|MGL
+724|Cup|default|default|40|club|Domestic cup|133|Morocco|MAR
+209|GNF 1|default|default|6|club|Domestic league|133|Morocco|MAR
+474|GNF 2|default|default|14|club|Domestic league|133|Morocco|MAR
+810|Moçambola|default|default|10|club|Domestic league|134|Mozambique|MOZ
+791|National League|default|default|10|club|Domestic league|135|Myanmar|MYA
+603|Premier League|default|default|11|club|Domestic league|136|Namibia|NAM
+787|A Division|default|default|1|club|Domestic league|137|Nepal|NEP
+1012|National League|default|default|20|club|Domestic league|137|Nepal|NEP
+1066|Beloften|youth|youth|115|club|Domestic league|138|Netherlands|NLD
+5|Eerste Divisie|default|default|20|club|Domestic league|138|Netherlands|NLD
+658|Eerste Klasse|default|default|50|club|Domestic league|138|Netherlands|NLD
+1|Eredivisie|default|default|10|club|Domestic league|138|Netherlands|NLD
+1075|Eredivisie U19|youth|youth|120|club|Domestic league|138|Netherlands|NLD
+303|Hoofdklasse|default|default|40|club|Domestic league|138|Netherlands|NLD
+103|KNVB Beker|default|default|100|club|Domestic cup|138|Netherlands|NLD
+541|KNVB Beker Vrouwen|women|women|250|club|Domestic cup|138|Netherlands|NLD
+286|Play-offs 1/2|default|default|60|club|Domestic league|138|Netherlands|NLD
+1028|Play-offs 2/3|women|women|270|club|Domestic cup|138|Netherlands|NLD
+1029|Play-offs 3/4|women|women|280|club|Domestic cup|138|Netherlands|NLD
+1031|Play-offs 3/4|default|default|70|club|Domestic league|138|Netherlands|NLD
+1033|Play-offs 4/5|default|default|80|club|Domestic league|138|Netherlands|NLD
+170|Super Cup|default|default|110|club|Domestic super cup|138|Netherlands|NLD
+842|Super Cup Women|women|women|260|club|Domestic super cup|138|Netherlands|NLD
+826|Topklasse|default|default|30|club|Domestic league|138|Netherlands|NLD
+362|Vrouwen Eerste Klasse|women|women|220|club|Domestic league|138|Netherlands|NLD
+549|Vrouwen Eredivisie|women|women|200|club|Domestic league|138|Netherlands|NLD
+948|Vrouwen Hoofdklasse|women|women|215|club|Domestic league|138|Netherlands|NLD
+329|Vrouwen Topklasse|women|women|210|club|Domestic league|138|Netherlands|NLD
+1086|Youth Cup U19|youth|youth|130|club|Domestic cup|138|Netherlands|NLD
+585|Curaçao Sekshon Pagá|default|default|10|club|Domestic league|139|Curaçao|CUR
+690|Kopa Antiano|default|default|30|club|Domestic cup|139|Curaçao|CUR
+788|Super Ligue|default|default|10|club|Domestic league|140|New Caledonia|NCL
+1017|NZF Cup|default|default|20|club|Domestic cup|141|New Zealand|NZL
+73|Premiership|default|default|10|club|Domestic league|141|New Zealand|NZL
+351|Primera Division|default|default|11|club|Domestic league|142|Nicaragua|NIC
+896|Ligue 1|default|default|1|club|Domestic league|143|Niger|NIG
+296|Premier League|default|default|11|club|Domestic league|144|Nigeria|NGA
+802|Championship|women|women|810|club|Domestic league|145|Northern Ireland|NIR
+310|Championship 1|default|default|20|club|Domestic league|145|Northern Ireland|NIR
+316|Championship 2|default|default|30|club|Domestic league|145|Northern Ireland|NIR
+765|FA Cup|women|women|1000|club|Domestic cup|145|Northern Ireland|NIR
+313|Irish Cup|default|default|300|club|Domestic cup|145|Northern Ireland|NIR
+311|League Cup|default|default|310|club|Domestic cup|145|Northern Ireland|NIR
+954|Play-offs 1/2|women|women|1100|club|Domestic cup|145|Northern Ireland|NIR
+994|Play-offs 1/2|default|default|700|club|Domestic cup|145|Northern Ireland|NIR
+334|Premier League|women|women|800|club|Domestic league|145|Northern Ireland|NIR
+78|Premiership|default|default|10|club|Domestic league|145|Northern Ireland|NIR
+36|1. Division|default|default|20|club|Domestic league|146|Norway|NOR
+325|1. Division|women|women|810|club|Domestic league|146|Norway|NOR
+503|2. Divisjon|default|default|30|club|Domestic league|146|Norway|NOR
+1005|3. Divisjon|default|default|40|club|Domestic league|146|Norway|NOR
+29|Eliteserien|default|default|10|club|Domestic league|146|Norway|NOR
+182|NM Cupen|default|default|300|club|Domestic cup|146|Norway|NOR
+374|NM Cupen Women|women|women|1000|club|Domestic cup|146|Norway|NOR
+475|Play-offs 1/2|women|women|1100|club|Domestic cup|146|Norway|NOR
+999|Play-offs 1/2|default|default|700|club|Domestic cup|146|Norway|NOR
+717|Super Cup|default|default|320|club|Domestic super cup|146|Norway|NOR
+289|Toppserien|women|women|800|club|Domestic league|146|Norway|NOR
+377|Elite League|default|default|11|club|Domestic league|147|Oman|OMA
+868|Sultan Cup|default|default|30|club|Domestic cup|147|Oman|OMA
+858|Super Cup|default|default|50|club|Domestic cup|147|Oman|OMA
+997|2nd Division|default|default|50|club|Domestic league|148|Pakistan|PAK
+520|Premier League|default|default|11|club|Domestic league|148|Pakistan|PAK
+853|West Bank League|default|default|10|club|Domestic league|149|Palestine|PAL
+525|LPF|default|default|1|club|Domestic league|150|Panama|PAN
+889|National Soccer League|default|default|1|club|Domestic league|151|Papua New Guinea|PNG
+546|Division Intermedia|default|default|21|club|Domestic league|152|Paraguay|PRY
+157|Division Profesional|default|default|10|club|Domestic league|152|Paraguay|PRY
+696|Play-offs 1/2|default|default|35|club|Domestic cup|152|Paraguay|PRY
+692|Copa Perú|default|default|30|club|Domestic cup|153|Peru|PER
+158|Primera División|default|default|10|club|Domestic league|153|Peru|PER
+439|Segunda División|default|default|20|club|Domestic league|153|Peru|PER
+916|UFL|default|default|1|club|Domestic league|154|Philippines|PHI
+191|Cup|default|default|100|club|Domestic cup|155|Poland|POL
+119|Ekstraklasa|default|default|10|club|Domestic league|155|Poland|POL
+356|Ekstraliga|women|women|200|club|Domestic league|155|Poland|POL
+120|I Liga|default|default|20|club|Domestic league|155|Poland|POL
+662|I Liga Women|women|women|220|club|Domestic league|155|Poland|POL
+558|II Liga|default|default|30|club|Domestic league|155|Poland|POL
+647|III Liga|default|default|40|club|Domestic league|155|Poland|POL
+489|League Cup|default|default|110|club|Domestic cup|155|Poland|POL
+1085|Młoda Ekstraklasa|youth|youth|130|club|Domestic league|155|Poland|POL
+435|Play offs / out|default|default|50|club|Domestic cup|155|Poland|POL
+449|Super Cup|default|default|120|club|Domestic super cup|155|Poland|POL
+355|Feminino 1a Divisão|women|women|150|club|Domestic league|156|Portugal|PRT
+101|II Divisão|default|default|30|club|Domestic league|156|Portugal|PRT
+651|III Divisão|default|default|40|club|Domestic league|156|Portugal|PRT
+1076|Júniores U19|youth|youth|130|club|Domestic league|156|Portugal|PRT
+100|Liga de Honra|default|default|20|club|Domestic league|156|Portugal|PRT
+425|Play offs II Divisao|default|default|40|club|Domestic cup|156|Portugal|PRT
+63|Primeira Liga|default|default|10|club|Domestic league|156|Portugal|PRT
+184|Super Cup|default|default|120|club|Domestic super cup|156|Portugal|PRT
+640|Taça da Liga|default|default|110|club|Domestic cup|156|Portugal|PRT
+102|Taça de Portugal|default|default|100|club|Domestic cup|156|Portugal|PRT
+731|LNFPR First Division|default|default|30|club|Domestic league|157|Puerto Rico|PRI
+1002|Crown Prince Cup|default|default|60|club|Domestic super cup|158|Qatar|QAT
+697|League 2|default|default|20|club|Domestic league|158|Qatar|QAT
+1024|Play-offs 1/2|default|default|25|club|Domestic cup|158|Qatar|QAT
+726|Prince Cup|default|default|40|club|Domestic cup|158|Qatar|QAT
+837|Sheikh Jassem Cup|default|default|50|club|Domestic cup|158|Qatar|QAT
+875|Stars Cup|default|default|30|club|Domestic cup|158|Qatar|QAT
+215|Stars League|default|default|10|club|Domestic league|158|Qatar|QAT
+682|Campionatul National|women|women|60|club|Domestic league|159|Romania|ROU
+192|Cupa României|default|default|40|club|Domestic cup|159|Romania|ROU
+85|Liga I|default|default|10|club|Domestic league|159|Romania|ROU
+159|Liga II|default|default|20|club|Domestic league|159|Romania|ROU
+565|Liga III|default|default|31|club|Domestic league|159|Romania|ROU
+322|Supercupa|default|default|50|club|Domestic super cup|159|Romania|ROU
+418|1. Division|women|women|210|club|Domestic league|160|Russia|RUS
+267|2. Division|default|default|30|club|Domestic league|160|Russia|RUS
+190|Cup|default|default|100|club|Domestic cup|160|Russia|RUS
+122|FNL|default|default|20|club|Domestic league|160|Russia|RUS
+805|LFL|default|default|40|club|Domestic league|160|Russia|RUS
+380|PFL Cup - 2. Division|default|default|140|club|Domestic cup|160|Russia|RUS
+1035|Play-offs 1/2|default|default|150|club|Domestic cup|160|Russia|RUS
+121|Premier League|default|default|10|club|Domestic league|160|Russia|RUS
+242|Super Cup|default|default|110|club|Domestic super cup|160|Russia|RUS
+381|Supreme Division|women|women|200|club|Domestic league|160|Russia|RUS
+1087|U21 Premier League|youth|youth|160|club|Domestic league|160|Russia|RUS
+419|Womens Cup|women|women|300|club|Domestic cup|160|Russia|RUS
+781|National Soccer League|default|default|1|club|Domestic league|161|Rwanda|RWA
+890|National League|default|default|1|club|Domestic league|162|Samoa|WSM
+160|Campionato|default|default|11|club|Domestic league|163|San Marino|SMR
+479|Coppa Titano|default|default|401|club|Domestic cup|163|San Marino|SMR
+1079|Super Cup|default|default|420|club|Domestic super cup|163|San Marino|SMR
+799|Champions Cup|default|default|20|club|Domestic cup|164|Saudi Arabia|KSA
+701|Crown Prince Cup|default|default|33|club|Domestic cup|164|Saudi Arabia|KSA
+573|Division 1|default|default|11|club|Domestic league|164|Saudi Arabia|KSA
+669|Division 2|default|default|12|club|Domestic league|164|Saudi Arabia|KSA
+216|Pro League|default|default|10|club|Domestic league|164|Saudi Arabia|KSA
+314|Challenge Cup|default|default|220|club|Domestic cup|165|Scotland|SCO
+347|East of Scotland|default|default|60|club|Domestic league|165|Scotland|SCO
+45|First Division|default|default|20|club|Domestic league|165|Scotland|SCO
+301|Highland League|default|default|50|club|Domestic league|165|Scotland|SCO
+176|League Cup|default|default|210|club|Domestic cup|165|Scotland|SCO
+929|Play-offs 1/2|default|default|300|club|Domestic cup|165|Scotland|SCO
+421|Play-offs 2/3|default|default|310|club|Domestic cup|165|Scotland|SCO
+930|Play-offs 3/4|default|default|320|club|Domestic cup|165|Scotland|SCO
+43|Premier League|default|default|10|club|Domestic league|165|Scotland|SCO
+175|Scottish Cup|default|default|200|club|Domestic cup|165|Scotland|SCO
+46|Second Division|default|default|30|club|Domestic league|165|Scotland|SCO
+1073|SPL U20|youth|youth|250|club|Domestic league|165|Scotland|SCO
+719|SWF Scottish Cup|women|women|700|club|Domestic cup|165|Scotland|SCO
+665|SWFL|women|women|510|club|Domestic league|165|Scotland|SCO
+346|SWPL|women|women|500|club|Domestic league|165|Scotland|SCO
+652|SWPL Cup|women|women|710|club|Domestic cup|165|Scotland|SCO
+47|Third Division|default|default|40|club|Domestic league|165|Scotland|SCO
+909|Ligue 1|default|default|1|club|Domestic league|166|Senegal|SEN
+189|Cup|default|default|20|club|Domestic cup|167|Serbia and Montenegro|SCG
+161|Druga Liga|default|default|12|club|Domestic league|167|Serbia and Montenegro|SCG
+92|Prva Liga|default|default|10|club|Domestic league|167|Serbia and Montenegro|SCG
+317|Treca Liga|default|default|14|club|Domestic league|167|Serbia and Montenegro|SCG
+357|Women First Division|women|women|42|club|Domestic league|167|Serbia and Montenegro|SCG
+910|Division One|default|default|1|club|Domestic league|168|Seychelles|SEY
+920|Premier League|default|default|10|club|Domestic league|169|Sierra Leone|SLE
+729|League Cup|default|default|12|club|Domestic cup|170|Singapore|SIN
+137|S.League|default|default|10|club|Domestic league|170|Singapore|SIN
+743|Singapore Cup|default|default|14|club|Domestic cup|170|Singapore|SIN
+124|2. liga|default|default|20|club|Domestic league|171|Slovakia|SVK
+644|3. liga|default|default|30|club|Domestic league|171|Slovakia|SVK
+183|Cup|default|default|100|club|Domestic cup|171|Slovakia|SVK
+352|I Liga Zeny|women|women|200|club|Domestic league|171|Slovakia|SVK
+764|II Ligy Zeny|women|women|210|club|Domestic league|171|Slovakia|SVK
+300|Super Cup|default|default|120|club|Domestic super cup|171|Slovakia|SVK
+123|Super Liga|default|default|10|club|Domestic league|171|Slovakia|SVK
+86|1. SNL|default|default|10|club|Domestic league|172|Slovenia|SVN
+343|1. Zenska Liga|women|women|200|club|Domestic league|172|Slovenia|SVN
+299|2. SNL|default|default|20|club|Domestic league|172|Slovenia|SVN
+630|3. SNL|default|default|31|club|Domestic league|172|Slovenia|SVN
+185|Cup|default|default|100|club|Domestic cup|172|Slovenia|SVN
+434|Play-offs 1/2|default|default|40|club|Domestic cup|172|Slovenia|SVN
+631|Super Cup|default|default|110|club|Domestic super cup|172|Slovenia|SVN
+685|Zenski Pokal|women|women|300|club|Domestic cup|172|Slovenia|SVN
+892|S-League|default|default|1|club|Domestic league|173|Solomon Islands|SLB
+526|1st Division|default|default|20|club|Domestic league|175|South Africa|RSA
+866|8 Cup|default|default|120|club|Domestic cup|175|South Africa|RSA
+277|Cup|default|default|100|club|Domestic cup|175|South Africa|RSA
+793|League Cup|default|default|110|club|Domestic cup|175|South Africa|RSA
+1036|Play-offs 1/2|default|default|150|club|Domestic cup|175|South Africa|RSA
+214|PSL|default|default|10|club|Domestic league|175|South Africa|RSA
+688|1ª Nacional Femenina|women|women|130|club|Domestic league|176|Spain|ESP
+1069|Copa de la Reina|women|women|140|club|Domestic cup|176|Spain|ESP
+138|Copa del Rey|default|default|100|club|Domestic cup|176|Spain|ESP
+720|Copa Federacion|default|default|122|club|Domestic cup|176|Spain|ESP
+432|Play offs|default|default|70|club|Domestic cup|176|Spain|ESP
+433|Play out|default|default|80|club|Domestic cup|176|Spain|ESP
+7|Primera División|default|default|10|club|Domestic league|176|Spain|ESP
+287|Primera División Women|women|women|125|club|Domestic league|176|Spain|ESP
+98|Segunda B|default|default|30|club|Domestic league|176|Spain|ESP
+12|Segunda División|default|default|20|club|Domestic league|176|Spain|ESP
+186|Super Cup|default|default|120|club|Domestic super cup|176|Spain|ESP
+569|Tercera Division|default|default|40|club|Domestic league|176|Spain|ESP
+901|Champions League|default|default|1|club|Domestic league|177|Sri Lanka|SRI
+528|Premier Division|default|default|11|club|Domestic league|178|St. Kitts and Nevis|SKN
+601|Sudani Premier League|default|default|11|club|Domestic league|181|Sudan|SUD
+605|Eerste Klasse|default|default|21|club|Domestic league|182|Suriname|SUR
+469|Hoofdklasse|default|default|11|club|Domestic league|182|Suriname|SUR
+551|Play-offs 1/2|default|default|31|club|Domestic cup|182|Suriname|SUR
+213|MTN Premier League|default|default|10|club|Domestic league|183|Swaziland|SWZ
+28|Allsvenskan|default|default|10|club|Domestic league|184|Sweden|SWE
+291|Damallsvenskan|women|women|200|club|Domestic league|184|Sweden|SWE
+427|Division 1|default|default|30|club|Domestic league|184|Sweden|SWE
+324|Division 1|women|women|210|club|Domestic league|184|Sweden|SWE
+502|Division 2|default|default|40|club|Domestic league|184|Sweden|SWE
+1016|Juniorallsvenskan Elit|youth|youth|150|club|Domestic league|184|Sweden|SWE
+967|Play-offs 1/2|default|default|800|club|Domestic cup|184|Sweden|SWE
+968|Play-offs 2/3|default|default|850|club|Domestic cup|184|Sweden|SWE
+722|Super Cup|default|default|110|club|Domestic super cup|184|Sweden|SWE
+814|Super Cup Women|women|women|310|club|Domestic super cup|184|Sweden|SWE
+37|Superettan|default|default|20|club|Domestic league|184|Sweden|SWE
+180|Svenska Cupen|default|default|100|club|Domestic cup|184|Sweden|SWE
+373|Svenska Cupen Women|women|women|300|club|Domestic cup|184|Sweden|SWE
+1064|U21 League|youth|youth|140|club|Domestic league|184|Sweden|SWE
+554|1. Liga Classic|default|default|35|club|Domestic league|185|Switzerland|CHE
+1043|1. Liga Promotion|default|default|30|club|Domestic league|185|Switzerland|CHE
+648|2. Liga Interregional|default|default|40|club|Domestic league|185|Switzerland|CHE
+99|Challenge League|default|default|20|club|Domestic league|185|Switzerland|CHE
+340|Nationalliga A|women|women|200|club|Domestic league|185|Switzerland|CHE
+462|Nationalliga B|women|women|210|club|Domestic league|185|Switzerland|CHE
+943|Play-offs 1/2|women|women|800|club|Domestic cup|185|Switzerland|CHE
+426|Play-offs 1/2|default|default|60|club|Domestic cup|185|Switzerland|CHE
+114|Schweizer Pokal|default|default|100|club|Domestic cup|185|Switzerland|CHE
+673|Schweizer Pokal Frauen|women|women|220|club|Domestic cup|185|Switzerland|CHE
+27|Super League|default|default|10|club|Domestic league|185|Switzerland|CHE
+212|Premier League|default|default|11|club|Domestic league|186|Syria|SYR
+936|Campeonato Nacional|default|default|10|club|Domestic league|187|São Tomé e Príncipe|STP
+767|Super Ligue Mana|default|default|10|club|Domestic league|188|Tahiti|TAH
+796|Vysshaya Liga|default|default|10|club|Domestic league|189|Tajikistan|TJK
+857|Ligi kuu Bara|default|default|10|club|Domestic league|190|Tanzania|TAN
+782|Thai Division 1|default|default|20|club|Domestic league|191|Thailand|THA
+519|Thai Premier League|default|default|10|club|Domestic league|191|Thailand|THA
+712|Championnat National|default|default|12|club|Domestic league|192|Togo|TOG
+465|T & T Pro League|default|default|10|club|Domestic league|194|Trinidad and Tobago|TTO
+709|Cup|default|default|35|club|Domestic cup|195|Tunisia|TUN
+210|Ligue 1|default|default|11|club|Domestic league|195|Tunisia|TUN
+649|Ligue 2|default|default|22|club|Domestic league|195|Tunisia|TUN
+97|1. Lig|default|default|20|club|Domestic league|196|Turkey|TUR
+562|2. Lig|default|default|30|club|Domestic league|196|Turkey|TUR
+654|3. Lig|default|default|35|club|Domestic league|196|Turkey|TUR
+990|A2 Ligi (Reserve)|youth|youth|80|club|Domestic league|196|Turkey|TUR
+995|Akademi Ligleri|youth|youth|90|club|Domestic league|196|Turkey|TUR
+615|Bayanlar Ligi|women|women|100|club|Domestic league|196|Turkey|TUR
+172|Cup|default|default|50|club|Domestic cup|196|Turkey|TUR
+1059|Elit Akademi Ligi|youth|youth|85|club|Domestic league|196|Turkey|TUR
+436|Play offs|default|default|40|club|Domestic cup|196|Turkey|TUR
+1023|Spor Toto Cup|default|default|55|club|Domestic cup|196|Turkey|TUR
+452|Super Cup|default|default|60|club|Domestic super cup|196|Turkey|TUR
+19|Süper Lig|default|default|10|club|Domestic league|196|Turkey|TUR
+800|Ýokary Liga|default|default|10|club|Domestic league|197|Turkmenistan|TKM
+893|Football League|default|default|1|club|Domestic league|198|Turks and Caicos Islands|TCA
+871|Super League|default|default|10|club|Domestic league|200|Uganda|UGA
+188|Cup|default|default|41|club|Domestic cup|201|Ukraine|UKR
+559|Druha Liga|default|default|34|club|Domestic league|201|Ukraine|UKR
+233|Persha Liga|default|default|20|club|Domestic league|201|Ukraine|UKR
+1037|Play-offs 2/3|default|default|65|club|Domestic cup|201|Ukraine|UKR
+939|Premier League|women|women|70|club|Domestic league|201|Ukraine|UKR
+125|Premier League|default|default|10|club|Domestic league|201|Ukraine|UKR
+298|Super Cup|default|default|60|club|Domestic super cup|201|Ukraine|UKR
+1077|U19 League|youth|youth|68|club|Domestic league|201|Ukraine|UKR
+1083|U21 League|youth|youth|67|club|Domestic league|201|Ukraine|UKR
+574|Division 1 - Group A|default|default|20|club|Domestic league|202|United Arab Emirates|UAE
+827|Division 1 - Group B|default|default|30|club|Domestic league|202|United Arab Emirates|UAE
+678|Emirates Cup|default|default|120|club|Domestic cup|202|United Arab Emirates|UAE
+1039|Play-offs 1/2|default|default|140|club|Domestic cup|202|United Arab Emirates|UAE
+679|Presidents Cup|default|default|100|club|Domestic cup|202|United Arab Emirates|UAE
+344|Pro-League|default|default|10|club|Domestic league|202|United Arab Emirates|UAE
+1090|Reserve League|youth|youth|150|club|Domestic league|202|United Arab Emirates|UAE
+763|Super Cup|default|default|130|club|Domestic super cup|202|United Arab Emirates|UAE
+775|Vice President Cup|default|default|110|club|Domestic cup|202|United Arab Emirates|UAE
+33|MLS|default|default|10|club|Domestic league|203|United States|USA
+917|NASL|default|default|20|club|Domestic league|203|United States|USA
+522|PDL|default|default|40|club|Domestic league|203|United States|USA
+550|US Open Cup|default|default|100|club|Domestic cup|203|United States|USA
+521|USL 2|default|default|200|club|Domestic league|203|United States|USA
+918|USL Pro|default|default|30|club|Domestic league|203|United States|USA
+145|USSF Division 2|default|default|150|club|Domestic league|203|United States|USA
+367|W-League|women|women|210|club|Domestic league|203|United States|USA
+707|WPS|women|women|200|club|Domestic league|203|United States|USA
+1009|Copa Celeste Olímpica|default|default|30|club|Domestic cup|204|Uruguay|URY
+162|Primera División|default|default|10|club|Domestic league|204|Uruguay|URY
+532|Segunda División|default|default|21|club|Domestic league|204|Uruguay|URY
+614|1st Division|default|default|22|club|Domestic league|205|Uzbekistan|UZB
+786|Cup|default|default|45|club|Domestic cup|205|Uzbekistan|UZB
+494|PFL|default|default|10|club|Domestic league|205|Uzbekistan|UZB
+891|Premia Divisen|default|default|1|club|Domestic league|206|Vanuatu|VUT
+650|Copa Venezuela|default|default|40|club|Domestic cup|207|Venezuela|VEN
+163|Primera División|default|default|10|club|Domestic league|207|Venezuela|VEN
+507|Segunda División|default|default|22|club|Domestic league|207|Venezuela|VEN
+882|Cup|default|default|700|club|Domestic cup|208|Vietnam|VIE
+598|First Division|default|default|21|club|Domestic league|208|Vietnam|VIE
+234|Super League|default|default|11|club|Domestic league|208|Vietnam|VIE
+309|Feeder Leagues|default|default|20|club|Domestic league|209|Wales|WAL
+260|League Cup|default|default|110|club|Domestic cup|209|Wales|WAL
+74|Premier League|default|default|10|club|Domestic league|209|Wales|WAL
+259|Welsh Cup|default|default|100|club|Domestic cup|209|Wales|WAL
+829|President Cup|default|default|100|club|Domestic cup|210|Yemen|YEM
+872|Super Cup|default|default|150|club|Domestic cup|210|Yemen|YEM
+235|Yemeni League|default|default|11|club|Domestic league|210|Yemen|YEM
+495|Super League|default|default|1|club|Domestic league|211|Zambia|ZAM
+496|Premier Soccer League|default|default|1|club|Domestic league|212|Zimbabwe|ZIM
+789|D1 Promotionelle|default|default|10|club|Domestic league|223|Reunion|REU
+443|Cup|default|default|100|club|Domestic cup|224|Serbia|SER
+441|Prva Liga|default|default|20|club|Domestic league|224|Serbia|SER
+444|Prva Zenska Liga|women|women|200|club|Domestic league|224|Serbia|SER
+442|Srpska Liga|default|default|30|club|Domestic league|224|Serbia|SER
+440|Super Liga|default|default|10|club|Domestic league|224|Serbia|SER
+446|Cup|default|default|300|club|Domestic cup|225|Montenegro|MNE
+445|First League|default|default|10|club|Domestic league|225|Montenegro|MNE
+993|Play-offs 1/2|default|default|700|club|Domestic cup|225|Montenegro|MNE
+566|Second League|default|default|20|club|Domestic league|225|Montenegro|MNE
+735|Division d'Honneur|default|default|10|club|Domestic league|227|Guadeloupe|GDL
+848|Division d'Honneur|default|default|10|club|Domestic league|229|Martinique|MTQ
+849|Division d'Honneur|default|default|10|club|Domestic league|231|French Guiana|FGU
+1013|A-Division|default|default|10|club|Domestic league|233|Tuvalu|TVL
+1032|Tuvalu Games|default|default|20|club|Domestic cup|233|Tuvalu|TVL

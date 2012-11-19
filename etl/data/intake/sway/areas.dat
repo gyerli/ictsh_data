@@ -1,240 +1,241 @@
-area_id|area_name|country_code|parent_id
-1|World||
-2|Asia||1
-8|Afghanistan|AFG|2
-19|Australia|AUS|2
-23|Bahrain|BHR|2
-24|Bangladesh|BAN|2
-31|Bhutan|BHU|2
-37|Brunei Darussalam|BRU|2
-41|Cambodia|CAM|2
-49|China PR|CHN|2
-50|Chinese Taipei|TPE|2
-84|Guam|GUM|2
-91|Hong Kong|HKG|2
-94|India|IND|2
-95|Indonesia|IDN|2
-96|Iran|IRN|2
-97|Iraq|IRQ|2
-102|Japan|JPN|2
-103|Jordan|JOR|2
-106|Korea DPR|PRK|2
-107|Korea Republic|KOR|2
-108|Kuwait|KUW|2
-109|Kyrgyzstan|KGZ|2
-110|Laos|LAO|2
-112|Lebanon|LIB|2
-119|Macao|MAC|2
-123|Malaysia|MAS|2
-124|Maldives|MDV|2
-131|Mongolia|MGL|2
-135|Myanmar|MYA|2
-137|Nepal|NEP|2
-147|Oman|OMA|2
-148|Pakistan|PAK|2
-149|Palestine|PAL|2
-154|Philippines|PHI|2
-158|Qatar|QAT|2
-164|Saudi Arabia|KSA|2
-170|Singapore|SIN|2
-177|Sri Lanka|SRI|2
-186|Syria|SYR|2
-189|Tajikistan|TJK|2
-191|Thailand|THA|2
-197|Turkmenistan|TKM|2
-202|United Arab Emirates|UAE|2
-205|Uzbekistan|UZB|2
-208|Vietnam|VIE|2
-210|Yemen|YEM|2
-221|East Timor|EAT|2
-251|Northern Mariana Islands|NMI|2
-3|Africa||1
-10|Algeria|ALG|3
-13|Angola|ANG|3
-29|Benin|BEN|3
-34|Botswana|BOT|3
-39|Burkina Faso|BFA|3
-40|Burundi|BDI|3
-42|Cameroon|CMR|3
-44|Cape Verde Islands|CPV|3
-46|Central African Republic|CTA|3
-47|Chad|CHA|3
-52|Congo|CGO|3
-53|Congo DR|COD|3
-60|Côte d'Ivoire|CIV|3
-62|Djibouti|DJI|3
-66|Egypt|EGY|3
-69|Equatorial Guinea|EQG|3
-70|Eritrea|ERI|3
-72|Ethiopia|ETH|3
-77|Gabon|GAB|3
-78|Gambia|GAM|3
-81|Ghana|GHA|3
-86|Guinea|GUI|3
-87|Guinea-Bissau|GNB|3
-105|Kenya|KEN|3
-113|Lesotho|LES|3
-114|Liberia|LBR|3
-115|Libya|LBY|3
-121|Madagascar|MAD|3
-122|Malawi|MWI|3
-125|Mali|MLI|3
-127|Mauritania|MTN|3
-128|Mauritius|MRI|3
-133|Morocco|MAR|3
-134|Mozambique|MOZ|3
-136|Namibia|NAM|3
-143|Niger|NIG|3
-144|Nigeria|NGA|3
-161|Rwanda|RWA|3
-166|Senegal|SEN|3
-168|Seychelles|SEY|3
-169|Sierra Leone|SLE|3
-174|Somalia|SOM|3
-175|South Africa|RSA|3
-181|Sudan|SUD|3
-183|Swaziland|SWZ|3
-187|São Tomé e Príncipe|STP|3
-190|Tanzania|TAN|3
-192|Togo|TOG|3
-195|Tunisia|TUN|3
-200|Uganda|UGA|3
-211|Zambia|ZAM|3
-212|Zimbabwe|ZIM|3
-220|Zanzibar|ZAN|3
-223|Reunion|REU|3
-232|Comoros|CMO|3
-255|Mayotte|MYT|3
-256|South Sudan|SSD|3
-4|N/C America||1
-14|Anguilla|AIA|4
-15|Antigua and Barbuda|ATG|4
-18|Aruba|ABW|4
-22|Bahamas|BHS|4
-25|Barbados|BRB|4
-28|Belize|BLZ|4
-30|Bermuda|BMU|4
-36|British Virgin Islands|BVI|4
-43|Canada|CAN|4
-45|Cayman Islands|CYM|4
-55|Costa Rica|CRI|4
-57|Cuba|CUB|4
-63|Dominica|DMA|4
-64|Dominican Republic|DOM|4
-67|El Salvador|SLV|4
-83|Grenada|GRD|4
-85|Guatemala|GTM|4
-88|Guyana|GUY|4
-89|Haiti|HTI|4
-90|Honduras|HND|4
-101|Jamaica|JAM|4
-129|Mexico|MEX|4
-132|Montserrat|MSR|4
-139|Curaçao|CUR|4
-142|Nicaragua|NIC|4
-150|Panama|PAN|4
-157|Puerto Rico|PRI|4
-178|St. Kitts and Nevis|SKN|4
-179|St. Lucia|STL|4
-180|St. Vincent and the Grenadines|SVG|4
-182|Suriname|SUR|4
-194|Trinidad and Tobago|TTO|4
-198|Turks and Caicos Islands|TCA|4
-199|US Virgin Islands|USV|4
-203|United States|USA|4
-227|Guadeloupe|GDL|4
-228|Saint Martin|SMT|4
-229|Martinique|MTQ|4
-230|Sint Maarten|SMA|4
-231|French Guiana|FGU|4
-259|Sint Eustatius|SEU|4
-260|Bonaire|BON|4
-5|South America||1
-16|Argentina|ARG|5
-32|Bolivia|BOL|5
-35|Brazil|BRA|5
-48|Chile|CHL|5
-51|Colombia|COL|5
-65|Ecuador|ECU|5
-152|Paraguay|PRY|5
-153|Peru|PER|5
-204|Uruguay|URY|5
-207|Venezuela|VEN|5
-6|Oceania||1
-11|American Samoa|ASM|6
-54|Cook Islands|COK|6
-74|Fiji|FJI|6
-140|New Caledonia|NCL|6
-141|New Zealand|NZL|6
-151|Papua New Guinea|PNG|6
-162|Samoa|WSM|6
-173|Solomon Islands|SLB|6
-188|Tahiti|TAH|6
-193|Tonga|TON|6
-206|Vanuatu|VUT|6
-233|Tuvalu|TVL|6
-252|Kiribati|KIR|6
-257|Niuē|NIU|6
-258|Nauru|NAU|6
-7|Europe||1
-9|Albania|ALB|7
-12|Andorra|AND|7
-17|Armenia|ARM|7
-20|Austria|AUT|7
-21|Azerbaijan|AZE|7
-26|Belarus|BLR|7
-27|Belgium|BEL|7
-33|Bosnia-Herzegovina|BIH|7
-38|Bulgaria|BGR|7
-56|Croatia|HRV|7
-58|Cyprus|CYP|7
-59|Czech Republic|CZE|7
-61|Denmark|DNK|7
-68|England|ENG|7
-71|Estonia|EST|7
-73|Faroe Islands|FRO|7
-75|Finland|FIN|7
-76|France|FRA|7
-79|Georgia|GEO|7
-80|Germany|DEU|7
-82|Greece|GRC|7
-92|Hungary|HUN|7
-93|Iceland|ISL|7
-98|Ireland Republic|IRL|7
-99|Israel|ISR|7
-100|Italy|ITA|7
-104|Kazakhstan|KAZ|7
-111|Latvia|LVA|7
-116|Liechtenstein|LIE|7
-117|Lithuania|LTU|7
-118|Luxembourg|LUX|7
-120|Macedonia FYR|MKD|7
-126|Malta|MLT|7
-130|Moldova|MHL|7
-138|Netherlands|NLD|7
-145|Northern Ireland|NIR|7
-146|Norway|NOR|7
-155|Poland|POL|7
-156|Portugal|PRT|7
-159|Romania|ROU|7
-160|Russia|RUS|7
-163|San Marino|SMR|7
-165|Scotland|SCO|7
-167|Serbia and Montenegro|SCG|7
-171|Slovakia|SVK|7
-172|Slovenia|SVN|7
-176|Spain|ESP|7
-184|Sweden|SWE|7
-185|Switzerland|CHE|7
-196|Turkey|TUR|7
-201|Ukraine|UKR|7
-209|Wales|WAL|7
-224|Serbia|SER|7
-225|Montenegro|MNE|7
-226|Gibraltar|GIB|7
-235|Jersey|JER|7
-236|Isle of Man|IOM|7
-249|Kosovo|KSV|7
-250|Great Britain|GBR|7
-253|Monaco|MCO|7
-254|Guernsey|GGY|7
+area_id|area_name|country_code
+1|World|
+2|Asia|
+8|Afghanistan|AFG
+19|Australia|AUS
+23|Bahrain|BHR
+24|Bangladesh|BAN
+31|Bhutan|BHU
+37|Brunei Darussalam|BRU
+41|Cambodia|CAM
+49|China PR|CHN
+50|Chinese Taipei|TPE
+84|Guam|GUM
+91|Hong Kong|HKG
+94|India|IND
+95|Indonesia|IDN
+96|Iran|IRN
+97|Iraq|IRQ
+102|Japan|JPN
+103|Jordan|JOR
+106|Korea DPR|PRK
+107|Korea Republic|KOR
+108|Kuwait|KUW
+109|Kyrgyzstan|KGZ
+110|Laos|LAO
+112|Lebanon|LIB
+119|Macao|MAC
+123|Malaysia|MAS
+124|Maldives|MDV
+131|Mongolia|MGL
+135|Myanmar|MYA
+137|Nepal|NEP
+147|Oman|OMA
+148|Pakistan|PAK
+149|Palestine|PAL
+154|Philippines|PHI
+158|Qatar|QAT
+164|Saudi Arabia|KSA
+170|Singapore|SIN
+177|Sri Lanka|SRI
+186|Syria|SYR
+189|Tajikistan|TJK
+191|Thailand|THA
+197|Turkmenistan|TKM
+202|United Arab Emirates|UAE
+205|Uzbekistan|UZB
+208|Vietnam|VIE
+210|Yemen|YEM
+221|East Timor|EAT
+251|Northern Mariana Islands|NMI
+3|Africa|
+10|Algeria|ALG
+13|Angola|ANG
+29|Benin|BEN
+34|Botswana|BOT
+39|Burkina Faso|BFA
+40|Burundi|BDI
+42|Cameroon|CMR
+44|Cape Verde Islands|CPV
+46|Central African Republic|CTA
+47|Chad|CHA
+52|Congo|CGO
+53|Congo DR|COD
+60|Côte d'Ivoire|CIV
+62|Djibouti|DJI
+66|Egypt|EGY
+69|Equatorial Guinea|EQG
+70|Eritrea|ERI
+72|Ethiopia|ETH
+77|Gabon|GAB
+78|Gambia|GAM
+81|Ghana|GHA
+86|Guinea|GUI
+87|Guinea-Bissau|GNB
+105|Kenya|KEN
+113|Lesotho|LES
+114|Liberia|LBR
+115|Libya|LBY
+121|Madagascar|MAD
+122|Malawi|MWI
+125|Mali|MLI
+127|Mauritania|MTN
+128|Mauritius|MRI
+133|Morocco|MAR
+134|Mozambique|MOZ
+136|Namibia|NAM
+143|Niger|NIG
+144|Nigeria|NGA
+161|Rwanda|RWA
+166|Senegal|SEN
+168|Seychelles|SEY
+169|Sierra Leone|SLE
+174|Somalia|SOM
+175|South Africa|RSA
+181|Sudan|SUD
+183|Swaziland|SWZ
+187|São Tomé e Príncipe|STP
+190|Tanzania|TAN
+192|Togo|TOG
+195|Tunisia|TUN
+200|Uganda|UGA
+211|Zambia|ZAM
+212|Zimbabwe|ZIM
+220|Zanzibar|ZAN
+223|Reunion|REU
+232|Comoros|CMO
+255|Mayotte|MYT
+256|South Sudan|SSD
+4|N/C America|
+14|Anguilla|AIA
+15|Antigua and Barbuda|ATG
+18|Aruba|ABW
+22|Bahamas|BHS
+25|Barbados|BRB
+28|Belize|BLZ
+30|Bermuda|BMU
+36|British Virgin Islands|BVI
+43|Canada|CAN
+45|Cayman Islands|CYM
+55|Costa Rica|CRI
+57|Cuba|CUB
+63|Dominica|DMA
+64|Dominican Republic|DOM
+67|El Salvador|SLV
+83|Grenada|GRD
+85|Guatemala|GTM
+88|Guyana|GUY
+89|Haiti|HTI
+90|Honduras|HND
+101|Jamaica|JAM
+129|Mexico|MEX
+132|Montserrat|MSR
+139|Curaçao|CUR
+142|Nicaragua|NIC
+150|Panama|PAN
+157|Puerto Rico|PRI
+178|St. Kitts and Nevis|SKN
+179|St. Lucia|STL
+180|St. Vincent and the Grenadines|SVG
+182|Suriname|SUR
+194|Trinidad and Tobago|TTO
+198|Turks and Caicos Islands|TCA
+199|US Virgin Islands|USV
+203|United States|USA
+227|Guadeloupe|GDL
+228|Saint Martin|SMT
+229|Martinique|MTQ
+230|Sint Maarten|SMA
+231|French Guiana|FGU
+234|North America|
+259|Sint Eustatius|SEU
+260|Bonaire|BON
+5|South America|
+16|Argentina|ARG
+32|Bolivia|BOL
+35|Brazil|BRA
+48|Chile|CHL
+51|Colombia|COL
+65|Ecuador|ECU
+152|Paraguay|PRY
+153|Peru|PER
+204|Uruguay|URY
+207|Venezuela|VEN
+6|Oceania|
+11|American Samoa|ASM
+54|Cook Islands|COK
+74|Fiji|FJI
+140|New Caledonia|NCL
+141|New Zealand|NZL
+151|Papua New Guinea|PNG
+162|Samoa|WSM
+173|Solomon Islands|SLB
+188|Tahiti|TAH
+193|Tonga|TON
+206|Vanuatu|VUT
+233|Tuvalu|TVL
+252|Kiribati|KIR
+257|Niuē|NIU
+258|Nauru|NAU
+7|Europe|
+9|Albania|ALB
+12|Andorra|AND
+17|Armenia|ARM
+20|Austria|AUT
+21|Azerbaijan|AZE
+26|Belarus|BLR
+27|Belgium|BEL
+33|Bosnia-Herzegovina|BIH
+38|Bulgaria|BGR
+56|Croatia|HRV
+58|Cyprus|CYP
+59|Czech Republic|CZE
+61|Denmark|DNK
+68|England|ENG
+71|Estonia|EST
+73|Faroe Islands|FRO
+75|Finland|FIN
+76|France|FRA
+79|Georgia|GEO
+80|Germany|DEU
+82|Greece|GRC
+92|Hungary|HUN
+93|Iceland|ISL
+98|Ireland Republic|IRL
+99|Israel|ISR
+100|Italy|ITA
+104|Kazakhstan|KAZ
+111|Latvia|LVA
+116|Liechtenstein|LIE
+117|Lithuania|LTU
+118|Luxembourg|LUX
+120|Macedonia FYR|MKD
+126|Malta|MLT
+130|Moldova|MHL
+138|Netherlands|NLD
+145|Northern Ireland|NIR
+146|Norway|NOR
+155|Poland|POL
+156|Portugal|PRT
+159|Romania|ROU
+160|Russia|RUS
+163|San Marino|SMR
+165|Scotland|SCO
+167|Serbia and Montenegro|SCG
+171|Slovakia|SVK
+172|Slovenia|SVN
+176|Spain|ESP
+184|Sweden|SWE
+185|Switzerland|CHE
+196|Turkey|TUR
+201|Ukraine|UKR
+209|Wales|WAL
+224|Serbia|SER
+225|Montenegro|MNE
+226|Gibraltar|GIB
+235|Jersey|JER
+236|Isle of Man|IOM
+249|Kosovo|KSV
+250|Great Britain|GBR
+253|Monaco|MCO
+254|Guernsey|GGY

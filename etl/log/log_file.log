@@ -1,0 +1,18 @@
+[H[2JLanding Database is "lnd_sway"
+Found intake data file "/home/gursoy/work/ictsh/etl/data/intake/sway/areas.dat"
+Found target table "areas."
+==============================================
+TRUNCATE TABLE
+COPY 240
+[H[2JLanding Database is "lnd_sway"
+Found intake data file "/home/gursoy/work/ictsh/etl/data/intake/sway/area_parents.dat"
+Found target table "area_parents."
+==============================================
+TRUNCATE TABLE
+COPY 240
+[H[2JLanding Database is "lnd_sway"
+Found intake data file "/home/gursoy/work/ictsh/etl/data/intake/sway/competitions.dat"
+Found target table "competitions."
+==============================================
+TRUNCATE TABLE
+COPY 983

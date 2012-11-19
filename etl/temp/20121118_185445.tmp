@@ -1,0 +1,6 @@
+copy area_parents 
+from '/home/gursoy/work/ictsh/etl/data/intake/sway/area_parents.dat'
+with
+delimiter '|' 
+CSV 
+header 

@@ -1,0 +1,6 @@
+copy areas 
+from '/home/gursoy/work/ictsh/etl/data/intake/sway/areas.dat'
+with
+delimiter '|' 
+CSV 
+header 
