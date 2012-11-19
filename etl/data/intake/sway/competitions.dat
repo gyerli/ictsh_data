@@ -38,12 +38,13 @@ competition_id|name|soccertype|teamtype|display_order|type|format|area_id|area_n
 1018|AFC U22 Asian Cup|youth|youth|410|international|International cup|2|Asia|
 1062|AFF Women's Championship|women|women|480|international|International cup|2|Asia|
 511|ASEAN Football Championship|default|default|18|international|International cup|2|Asia|
-250|Asian Cup|default|default|5|international|International cup|2|Asia|
 766|Asian Cup|women|women|450|international|International cup|2|Asia|
+250|Asian Cup|default|default|5|international|International cup|2|Asia|
 1060|Asian Cup Qualification|default|default|40|international|International cup|2|Asia|
 490|Asian Games|default|default|10|international|International cup|2|Asia|
 869|Asian Games Women|women|women|460|international|International cup|2|Asia|
 815|EAFF East Asian Cup|default|default|19|international|International cup|2|Asia|
+1098|EAFF East Asian Women's Cup|women|women|490|international|International cup|2|Asia|
 773|GCC Champions League|default|default|100|club|International cup|2|Asia|
 516|Gulf Cup|default|default|22|international|International cup|2|Asia|
 1067|Gulf Cup U17|youth|youth|440|international|International cup|2|Asia|
@@ -162,6 +163,7 @@ competition_id|name|soccertype|teamtype|display_order|type|format|area_id|area_n
 472|Prim C Metro|default|default|50|club|Domestic league|16|Argentina|ARG
 481|Prim D Metro|default|default|70|club|Domestic league|16|Argentina|ARG
 87|Primera División|default|default|10|club|Domestic league|16|Argentina|ARG
+1095|Super Cup|default|default|550|club|Domestic super cup|16|Argentina|ARG
 269|Cup|default|default|300|club|Domestic cup|17|Armenia|ARM
 542|First League|default|default|20|club|Domestic league|17|Armenia|ARM
 143|Premier League|default|default|10|club|Domestic league|17|Armenia|ARM
@@ -214,8 +216,8 @@ competition_id|name|soccertype|teamtype|display_order|type|format|area_id|area_n
 451|2e Klasse|women|women|120|club|Domestic league|27|Belgium|BEL
 126|Cup|default|default|100|club|Domestic cup|27|Belgium|BEL
 698|Cup Women|women|women|200|club|Domestic cup|27|Belgium|BEL
-1042|Play-offs 1/2|women|women|220|club|Domestic cup|27|Belgium|BEL
 933|Play-offs 1/2|default|default|300|club|Domestic cup|27|Belgium|BEL
+1042|Play-offs 1/2|women|women|220|club|Domestic cup|27|Belgium|BEL
 1025|Play-offs 2/3|default|default|350|club|Domestic cup|27|Belgium|BEL
 1026|Play-offs 3/4|default|default|360|club|Domestic cup|27|Belgium|BEL
 1027|Play-offs 4/5|default|default|380|club|Domestic cup|27|Belgium|BEL
@@ -308,6 +310,7 @@ competition_id|name|soccertype|teamtype|display_order|type|format|area_id|area_n
 635|Copa Chile|default|default|70|club|Domestic cup|48|Chile|CHL
 582|Play-offs 1/2|default|default|60|club|Domestic cup|48|Chile|CHL
 1021|Play-offs 2/3|default|default|65|club|Domestic cup|48|Chile|CHL
+1099|Play-offs 3/4|default|default|66|club|Domestic cup|48|Chile|CHL
 438|Primera B|default|default|20|club|Domestic league|48|Chile|CHL
 90|Primera División|default|default|10|club|Domestic league|48|Chile|CHL
 1020|Segunda División|default|default|25|club|Domestic league|48|Chile|CHL
@@ -891,6 +894,7 @@ competition_id|name|soccertype|teamtype|display_order|type|format|area_id|area_n
 114|Schweizer Pokal|default|default|100|club|Domestic cup|185|Switzerland|CHE
 673|Schweizer Pokal Frauen|women|women|220|club|Domestic cup|185|Switzerland|CHE
 27|Super League|default|default|10|club|Domestic league|185|Switzerland|CHE
+1096|U18 League|youth|youth|110|club|Domestic league|185|Switzerland|CHE
 212|Premier League|default|default|11|club|Domestic league|186|Syria|SYR
 936|Campeonato Nacional|default|default|10|club|Domestic league|187|São Tomé e Príncipe|STP
 767|Super Ligue Mana|default|default|10|club|Domestic league|188|Tahiti|TAH
@@ -922,8 +926,8 @@ competition_id|name|soccertype|teamtype|display_order|type|format|area_id|area_n
 559|Druha Liga|default|default|34|club|Domestic league|201|Ukraine|UKR
 233|Persha Liga|default|default|20|club|Domestic league|201|Ukraine|UKR
 1037|Play-offs 2/3|default|default|65|club|Domestic cup|201|Ukraine|UKR
-939|Premier League|women|women|70|club|Domestic league|201|Ukraine|UKR
 125|Premier League|default|default|10|club|Domestic league|201|Ukraine|UKR
+939|Premier League|women|women|70|club|Domestic league|201|Ukraine|UKR
 298|Super Cup|default|default|60|club|Domestic super cup|201|Ukraine|UKR
 1077|U19 League|youth|youth|68|club|Domestic league|201|Ukraine|UKR
 1083|U21 League|youth|youth|67|club|Domestic league|201|Ukraine|UKR

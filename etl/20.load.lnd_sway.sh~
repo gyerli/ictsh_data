@@ -115,7 +115,7 @@ clear
 ${PROJECT_RUN}/lnd_load.sh --table=areas --file=areas.dat --src=sway --truncate>>${PROJECT_LOG}/log_file.log 2>&1
 ${PROJECT_RUN}/lnd_load.sh --table=area_parents --file=area_parents.dat --src=sway --truncate>>${PROJECT_LOG}/log_file.log 2>&1
 ${PROJECT_RUN}/lnd_load.sh --table=competitions --file=competitions.dat --src=sway --truncate>>${PROJECT_LOG}/log_file.log 2>&1
-${PROJECT_RUN}/lnd_load.sh --table=competition_urls --file=competition_urls.dat --src=sway --truncate>>${PROJECT_LOG}/log_file.log 2>&1
+${PROJECT_RUN}/lnd_load.sh --table=competition_urls --file=competitions_urls.dat --src=sway --truncate>>${PROJECT_LOG}/log_file.log 2>&1
 
 cat ${PROJECT_LOG}/log_file.log
 

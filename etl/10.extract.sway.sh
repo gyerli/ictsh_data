@@ -111,8 +111,40 @@ done
 . setup_cfg.sh
 clear
 
-ruby ${PROJECT_RUN}/sway_areas.rb ${PROJECT_SRC}/sway/get_areas.xml ${PROJECT_INTAKE}/sway/areas.dat
-ruby ${PROJECT_RUN}/sway_competitions.rb ${PROJECT_SRC}/sway/get_competitions.xml ${PROJECT_INTAKE}/sway/competitions.dat
+# Create areas.dat file
+#ruby ${PROJECT_RUN}/sway_areas.rb ${PROJECT_SRC}/sway/get_areas.xml ${PROJECT_INTAKE}/sway/areas.dat
+
+#create competitions.dat file
+#ruby ${PROJECT_RUN}/sway_competitions.rb ${PROJECT_INTAKE}/sway/competitions.dat
+
+#create competition_urls file
+ts=`date "+%Y%m%d_%H%M%S"`
+sql=${PROJECT_TEMP}/competition_urls_$ts.tmp
+file_out=/usr/local/share/tmp/competition_urls_$ts.dat
+file=${PROJECT_INTAKE}/sway/competition_urls.dat
+cat > ${sql} << EOF
+copy (
+select 
+  a.competition_id,
+  a.loc || '/' || a.a_name || '/' || a.competition_name url
+from (select 
+	c.competition_id,
+	a.area_name,
+	c.name,
+	case 
+	  when a.country_code is null then 'international'
+	  else 'national'
+	end loc,
+	replace(replace(lower(a.area_name),' ','-'),'/','') a_name,
+	replace(replace(replace(replace(replace(lower(c.name),' ','-'),'/',''),'(',''),')',''),'.','') competition_name
+       from competitions c
+    inner join areas a on (c.area_id = a.area_id)
+   ) a 
+) to '${file_out}'
+delimiter '|'
+EOF
+psql -U ${DB_USER} -w -d lnd_sway -f ${sql}
+cp ${file_out} ${file}
 
 # Done
 exit 0

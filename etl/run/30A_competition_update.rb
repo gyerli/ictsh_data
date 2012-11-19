@@ -1,10 +1,8 @@
 require 'watir-webdriver'
-require 'active_record'
 require 'open-uri'
 require 'nokogiri'
 require 'pp'
 require 'pg'
-require 'yaml'
 require 'date'
 
 browser = Watir::Browser.new :chrome
@@ -13,27 +11,9 @@ browser = Watir::Browser.new :chrome
 url = "http://www.soccerway.com/competitions"
 click_away = false
 
-ActiveRecord::Base.establish_connection(
-    :adapter => "postgresql",
-    :database => "ictsh_development",
-    :username => "ictsh",
-    :password => "gyerli"
-)
-
-class SourceSystem < ActiveRecord::Base
-end
-
-class Area < ActiveRecord::Base
-end
-
-class Competition < ActiveRecord::Base
-end
-
-sw = SourceSystem.find_by_source_system_code('SWAY')
 
 browser.goto url
 doc = Nokogiri::HTML(browser.html)
-#doc.css('ul.index-tree li.row').each do |li|
 doc.css('ul.areas li.expandable').each do |li|
   #pp li
   source_system_area_key = li.attribute('data-area_id')

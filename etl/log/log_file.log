@@ -15,4 +15,10 @@ Found intake data file "/home/gursoy/work/ictsh/etl/data/intake/sway/competition
 Found target table "competitions."
 ==============================================
 TRUNCATE TABLE
-COPY 983
+COPY 987
+[H[2JLanding Database is "lnd_sway"
+Found intake data file "/home/gursoy/work/ictsh/etl/data/intake/sway/competition_urls.dat"
+Found target table "competition_urls."
+==============================================
+TRUNCATE TABLE
+COPY 986

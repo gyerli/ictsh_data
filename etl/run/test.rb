@@ -12,18 +12,9 @@ require 'open-uri'
 #(Attr:0xfad430 { name = "area_name", value = "Tuvalu" }),
 #(Attr:0xfad41c { name = "countrycode", value = "TVL" })]
 
-unless ARGV.length == 1
-  puts "Dude, not the right number of arguments."
-  puts "Usage: ruby sway_areas.rb [source system] [outputfile] \n"
-  exit
-end
-
-output_file = ARGV[0]
-
 rec_cnt = 0
 url='http://webpull.globalsportsmedia.com/soccer/get_competitions'
 xml = Nokogiri::HTML(open(url, :http_basic_authentication => ['demo', 'demo']).read)
-#xml = Nokogiri::XML File.open input_file
 file = File.new output_file, 'w'
 
 #write header

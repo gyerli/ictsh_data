@@ -1,0 +1,6 @@
+copy competition_urls 
+from '/home/gursoy/work/ictsh/etl/data/intake/sway/competition_urls.dat'
+with
+delimiter '|' 
+CSV 
+header 
