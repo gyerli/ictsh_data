@@ -1,241 +1,2344 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Ruby on Rails: Welcome aboard</title>
-    <style type="text/css" media="screen">
-      body {
-        margin: 0;
-        margin-bottom: 25px;
-        padding: 0;
-        background-color: #f0f0f0;
-        font-family: "Lucida Grande", "Bitstream Vera Sans", "Verdana";
-        font-size: 13px;
-        color: #333;
+<!--[if lt IE 7 ]><html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]><html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]-->
+<head>
+  <title>Summary - UEFA Champions League - Europe - Results, fixtures, tables and news - Soccerway</title>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Summary - UEFA Champions League - Europe - Results, fixtures, tables and news - Soccerway" />
+  <meta name="keywords" content="Summary - UEFA Champions League - Europe - Results, fixtures, tables and news - Soccerway, soccer, football, soccer results, soccer tables, soccer fixtures, soccer statistics, soccer teams, soccer players, soccer news, football results, football tables, football fixtures, football statistics, football teams, football players, football news" />
+  <meta name="verify-v1" content="YZMe1orngFPI/VHY1nG15dA7JJApmh8u0hkegWp64g8=" />
+  <meta name="alexaVerifyID" content="njeQixLcgBgQ9UllN0-IbVYAz1M" />
+  
+  
+  <link rel="alternate" href="http://syndication.soccerway.com/rss/english.php" type="application/rss+xml" media="screen" charset="utf-8" />
+  
+  <script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  var Config = (function() {
+    var settings = {"cookie_domain":".soccerway.com","ajax_path":"\/a","live_update_path":"\/lu","l10n_cookie_name":"sw_l10n","l10n":"www","default_l10n":"www","base_domain":"soccerway.com","valid_l10ns":["cn","de","www","uk","es","fr","it","nl","pl","pt","br","ro","tr","ru","ar"],"geo_script":"http:\/\/geo.soccerway.com\/geo.php","username_cookie_name":"sw_username"};
+    
+    return {
+      get: function(key) {
+        return settings[key];
       }
+    };
+  })();
+  /* ]]> */
+</script>
+  
+  <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css" charset="utf-8" />
 
-      h1 {
-        font-size: 28px;
-        color: #000;
-      }
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/388/css/white_labels/soccerway.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/388/img/flags/16x16/plain/map.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/388/img/flags/24x24/plain/map.css" type="text/css" charset="utf-8" />
+<!--[if IE]>
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/388/css/ie.css" type="text/css" charset="utf-8" />
+<![endif]-->
 
-      a  {color: #03c}
-      a:hover {
-        background-color: #03c;
-        color: white;
-        text-decoration: none;
-      }
+<script src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js" type="text/javascript"></script>
+<script src="http://s1.swimg.net/gsmf/388/js/all-min.js" type="text/javascript"></script>
 
+  
+  <script type="text/javascript" charset="utf-8">
+  L10nManager.initialize();
+</script>
 
-      #page {
-        background-color: #f0f0f0;
-        width: 750px;
-        margin: 0;
-        margin-left: auto;
-        margin-right: auto;
-      }
+  
+  <script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  dateFormat.i18n = {
+  	dayNames: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat","Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    monthNames: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec","January","February","March","April","May","June","July","August","September","October","November","December"]
+  };
+  /* ]]> */
+</script>
+  
+  <script type="text/javascript" charset="utf-8">
+       document.domain = Config.get('base_domain');
+   </script>
 
-      #content {
-        float: left;
-        background-color: white;
-        border: 3px solid #aaa;
-        border-top: none;
-        padding: 25px;
-        width: 500px;
-      }
+  <script type="text/javascript">
 
-      #sidebar {
-        float: right;
-        width: 175px;
-      }
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-263129-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
 
-      #footer {
-        clear: both;
-      }
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-      #header, #about, #getting-started {
-        padding-left: 75px;
-        padding-right: 30px;
-      }
+  document.observe('dom:loaded', function() {
+    $$('a[target="_blank"]').invoke('observe', 'click', function(evt) {
+      _gaq.push(['_trackPageview', '/outgoing/' + evt.element().readAttribute('href')]);
+    }.bindAsEventListener());
+  });
 
-
-      #header {
-        background-image: url("assets/rails.png");
-        background-repeat: no-repeat;
-        background-position: top left;
-        height: 64px;
-      }
-      #header h1, #header h2 {margin: 0}
-      #header h2 {
-        color: #888;
-        font-weight: normal;
-        font-size: 16px;
-      }
-
-
-      #about h3 {
-        margin: 0;
-        margin-bottom: 10px;
-        font-size: 14px;
-      }
-
-      #about-content {
-        background-color: #ffd;
-        border: 1px solid #fc0;
-        margin-left: -55px;
-        margin-right: -10px;
-      }
-      #about-content table {
-        margin-top: 10px;
-        margin-bottom: 10px;
-        font-size: 11px;
-        border-collapse: collapse;
-      }
-      #about-content td {
-        padding: 10px;
-        padding-top: 3px;
-        padding-bottom: 3px;
-      }
-      #about-content td.name  {color: #555}
-      #about-content td.value {color: #000}
-
-      #about-content ul {
-        padding: 0;
-        list-style-type: none;
-      }
-
-      #about-content.failure {
-        background-color: #fcc;
-        border: 1px solid #f00;
-      }
-      #about-content.failure p {
-        margin: 0;
-        padding: 10px;
-      }
-
-
-      #getting-started {
-        border-top: 1px solid #ccc;
-        margin-top: 25px;
-        padding-top: 15px;
-      }
-      #getting-started h1 {
-        margin: 0;
-        font-size: 20px;
-      }
-      #getting-started h2 {
-        margin: 0;
-        font-size: 14px;
-        font-weight: normal;
-        color: #333;
-        margin-bottom: 25px;
-      }
-      #getting-started ol {
-        margin-left: 0;
-        padding-left: 0;
-      }
-      #getting-started li {
-        font-size: 18px;
-        color: #888;
-        margin-bottom: 25px;
-      }
-      #getting-started li h2 {
-        margin: 0;
-        font-weight: normal;
-        font-size: 18px;
-        color: #333;
-      }
-      #getting-started li p {
-        color: #555;
-        font-size: 13px;
-      }
-
-
-      #sidebar ul {
-        margin-left: 0;
-        padding-left: 0;
-      }
-      #sidebar ul h3 {
-        margin-top: 25px;
-        font-size: 16px;
-        padding-bottom: 10px;
-        border-bottom: 1px solid #ccc;
-      }
-      #sidebar li {
-        list-style-type: none;
-      }
-      #sidebar ul.links li {
-        margin-bottom: 5px;
-      }
-
-      .filename {
-        font-style: italic;
-      }
-    </style>
-    <script type="text/javascript">
-      function about() {
-        info = document.getElementById('about-content');
-        if (window.XMLHttpRequest)
-          { xhr = new XMLHttpRequest(); }
-        else
-          { xhr = new ActiveXObject("Microsoft.XMLHTTP"); }
-        xhr.open("GET","rails/info/properties",false);
-        xhr.send("");
-        info.innerHTML = xhr.responseText;
-        info.style.display = 'block'
-      }
-    </script>
+</script>
   </head>
-  <body>
-    <div id="page">
-      <div id="sidebar">
-        <ul id="sidebar-items">
-          <li>
-            <h3>Browse the documentation</h3>
-            <ul class="links">
-              <li><a href="http://guides.rubyonrails.org/">Rails Guides</a></li>
-              <li><a href="http://api.rubyonrails.org/">Rails API</a></li>
-              <li><a href="http://www.ruby-doc.org/core/">Ruby core</a></li>
-              <li><a href="http://www.ruby-doc.org/stdlib/">Ruby standard library</a></li>
+<body id="page_competition">
+<div id="top-bar">
+	<div class="container clearfix">
+		<ul class="social">
+			<li class="like_us"><a href="http://www.facebook.com/soccerway" class="facebook" target="_blank">Like Us</a></li>
+			<li class="follow_us"><a href="http://www.twitter.com/soccerway" class="twitter" target="_blank">Follow Us</a></li>
+		</ul>
+		<ul class="flyout">
+      <li class="t_l h_d sport_select">
+  <a href="http://scoresway.com/" class="t_l">Sport<span></span></a>
+  <div class="submenu" id="sport_picker">
+    <div class="col">
+      <ul>
+        <li><a href="http://www.soccerway.com/" class="sport soccer" target="_self">Soccer</a></li>
+        <li><a href="http://women.soccerway.com/" class="sport women_soccer" target="_blank">Women soccer</a></li>
+        <li><a href="http://www.scoresway.com/?sport=american_football" class="sport american_football" target="_blank">American Football</a></li>
+        <li><a href="http://www.scoresway.com/?sport=baseball" class="sport baseball" target="_blank">Baseball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=basketball" class="sport basketball" target="_blank">Basketball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=cricket" class="sport cricket" target="_blank">Cricket</a></li>
+        <li><a href="http://www.scoresway.com/?sport=handball" class="sport handball" target="_blank">Handball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=hockey" class="sport hockey" target="_blank">Hockey</a></li>
+        <li><a href="http://www.scoresway.com/?sport=motorsports" class="sport motorsports" target="_blank">Motorsports</a></li>
+        <li><a href="http://www.scoresway.com/?sport=rugby" class="sport rugby" target="_blank">Rugby</a></li>
+        <li><a href="http://www.scoresway.com/?sport=tennis" class="sport tennis" target="_blank">Tennis</a></li>
+        <li><a href="http://www.scoresway.com/?sport=volleyball" class="sport volleyball" target="_blank">Volleyball</a></li>
+      </ul>
+    </div>
+  </div>
+</li>
+
+      <li class="t_l h_d language_search">
+  <a href="/" class="t_l">English - International<span></span></a>
+  <div class="submenu" id="language_picker">
+    <div class="col">
+      <ul>
+        <li><a href="http://cn.soccerway.com" data-l10n="cn" class="flag_16 left_16 china-pr_16_left" onclick="L10nManager.process('cn');return false;">Chinese (simplified)</a></li>
+        <li><a href="http://de.soccerway.com" data-l10n="de" class="flag_16 left_16 germany_16_left" onclick="L10nManager.process('de');return false;">Deutsch</a></li>
+        <li><a href="http://www.soccerway.com" data-l10n="www" class="flag_16 left_16 world_16_left" onclick="L10nManager.process('www');return false;">English - International</a></li>
+        <li><a href="http://uk.soccerway.com" data-l10n="uk" class="flag_16 left_16 great-britain_16_left" onclick="L10nManager.process('uk');return false;">English - United Kingdom</a></li>
+        <li><a href="http://es.soccerway.com" data-l10n="es" class="flag_16 left_16 spain_16_left" onclick="L10nManager.process('es');return false;">Español</a></li>
+        <li><a href="http://fr.soccerway.com" data-l10n="fr" class="flag_16 left_16 france_16_left" onclick="L10nManager.process('fr');return false;">Français</a></li>
+        <li><a href="http://it.soccerway.com" data-l10n="it" class="flag_16 left_16 italy_16_left" onclick="L10nManager.process('it');return false;">Italiano</a></li>
+        <li><a href="http://nl.soccerway.com" data-l10n="nl" class="flag_16 left_16 netherlands_16_left" onclick="L10nManager.process('nl');return false;">Nederlands</a></li>
+        <li><a href="http://pl.soccerway.com" data-l10n="pl" class="flag_16 left_16 poland_16_left" onclick="L10nManager.process('pl');return false;">Polski</a></li>
+        <li><a href="http://pt.soccerway.com" data-l10n="pt" class="flag_16 left_16 portugal_16_left" onclick="L10nManager.process('pt');return false;">Português</a></li>
+        <li><a href="http://br.soccerway.com" data-l10n="br" class="flag_16 left_16 brazil_16_left" onclick="L10nManager.process('br');return false;">Brazil</a></li>
+        <li><a href="http://ro.soccerway.com" data-l10n="ro" class="flag_16 left_16 romania_16_left" onclick="L10nManager.process('ro');return false;">Româna</a></li>
+        <li><a href="http://tr.soccerway.com" data-l10n="tr" class="flag_16 left_16 turkey_16_left" onclick="L10nManager.process('tr');return false;">Türkçe</a></li>
+        <li><a href="http://ru.soccerway.com" data-l10n="ru" class="flag_16 left_16 russia_16_left" onclick="L10nManager.process('ru');return false;">Русский</a></li>
+        <li><a href="http://ar.soccerway.com" data-l10n="ar" class="flag_16 left_16 world_16_left" onclick="L10nManager.process('ar');return false;">العربية</a></li>
+      </ul>
+    </div>
+  </div>
+</li>
+
+    
+    </ul>
+	</div>
+</div>
+<header id="site-header">
+	<div class="container">
+    <div id="logo-bar" class="big-localized-www">
+  <a href="/" id="logo" class="localized-www">Soccerway</a>
+  <div class="banner-content">
+    <div id="top-right-banner">
+      <div class="block_ad ad_header block clearfix">
+  
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Run of Site - Other // Placement: Run of Site - Leaderboard-728 x 90 (1689338) // created at: Jan 11, 2012 4:14:29 PM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|1689338|0|225|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|1689338|0|225|ADTECH;loc=300;sub1=[subst]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|1689338|0|225|ADTECH;cookie=info;loc=300" border="0" width="728" height="90"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+</div>
+    </div>
+  </div>
+</div>
+
+
+    <nav id="main">
+  <ul class="clearfix t_l">
+    <li class="t_l has-dropdown">
+      <a href="/" class="t_l">Today</a>
+      <a href="/" class="dropdown-button" id="today-dropdown-button">#</a>    
+      <div class="dropdown cal-dropdown" style="display: none;" id="today-dropdown">
+        <h2>Calendar</h2>
+        <div class="calendar-container clearfix">
+  <div id="dropdown-cal" class="calendar"></div>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  (function() {
+    Object.extend(Date.prototype, {
+      monthnames: dateFormat.i18n.monthNames.slice(0, 11),
+      short_monthnames: dateFormat.i18n.monthNames.slice(11, 21),
+      daynames: dateFormat.i18n.dayNames.slice(0, 7),
+      short_daynames: dateFormat.i18n.dayNames.slice(7, 13)
+    });
+
+    var changeHandler = function(date) {
+      var year = date.getFullYear().toString(),
+          month = (date.getMonth() + 1).toString(),
+          day = date.getDate().toString(),
+          url,
+          url_prefix = '/matches/',
+          url_suffix = '';
+      var today = new Date();
+      var today_year = today.getFullYear().toString(),
+          today_month = (today.getMonth() + 1).toString(),
+          today_day = today.getDate().toString(),
+          today_url = '';
+
+      if (today_url != '' && year == today_year && month == today_month && day == today_day) {
+        window.location.href = today_url;
+      } else {
+        if (month.length === 1) month = '0' + month;
+        if (day.length === 1) day = '0' + day;
+        url = url_prefix + year + '/' + month + '/' + day + '/';
+        if (url_suffix != '' && url_suffix != '/') {
+          url += url_suffix;
+        }
+        window.location.href = url;
+      }
+    };
+
+    var cal_initialized = false;
+    function initializeCalendar(){
+      if (cal_initialized == false) {
+        var cal = new scal('dropdown-cal', changeHandler, {
+          dayheadlength: 3,
+          highlightselected: ('2012' != ''),
+          year: parseInt('2012'),
+          month: parseInt('11'),
+          day: parseInt('22')
+        });
+        cal_initialized = true;
+      }
+    }
+
+    if (1){
+      $('today-dropdown-button').observe('click', initializeCalendar);
+    }
+    else{
+      initializeCalendar();
+    }
+
+  })();
+  /* ]]> */
+</script>
+      </div>
+    </li>
+    <li class="t_l"><a href="/news/" class="t_l">News</a></li>
+    <li class="t_l h_d">
+      <a href="/competitions/" class="t_l">Competitions</a>
+      <div class="submenu col_4 clearfix">
+        <div class="col">
+          <ul>
+            <li class="title">Club Domestic</li>
+            <li><a href="/national/england/premier-league/" class="flag_16 left_16 england_16_left">Premier League</a></li>
+            <li><a href="/national/italy/serie-a/" class="flag_16 left_16 italy_16_left">Serie A</a></li>
+            <li><a href="/national/spain/primera-division/" class="flag_16 left_16 spain_16_left">Primera División</a></li>
+            <li><a href="/national/germany/bundesliga/" class="flag_16 left_16 germany_16_left">Bundesliga</a></li>
+            <li><a href="/national/france/ligue-1/" class="flag_16 left_16 france_16_left">Ligue 1</a></li>
+            <li><a href="/national/netherlands/eredivisie/" class="flag_16 left_16 netherlands_16_left">Eredivisie</a></li>
+            <li><a href="/national/turkey/super-lig/" class="flag_16 left_16 turkey_16_left">Süper Lig</a></li>
+            <li><a href="/national/portugal/portuguese-liga-/" class="flag_16 left_16 portugal_16_left">Primeira Liga</a></li>
+            <li><a href="/national/england/championship/" class="flag_16 left_16 england_16_left">Championship</a></li>
+            <li><a href="/national/brazil/serie-a/" class="flag_16 left_16 brazil_16_left">Serie A</a></li>
+          </ul>
+          <a href="/competitions/club-domestic/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">Club International</li>
+            <li class="sub-title">Europe</li>
+            <li><a href="/international/europe/uefa-champions-league/" class="flag_16 left_16 europe_16_left">Champions League</a></li>
+            <li><a href="/international/europe/uefa-cup/" class="flag_16 left_16 europe_16_left">Europa League</a></li>
+            <li><a href="/international/europe/uefa-super-cup/" class="flag_16 left_16 europe_16_left">Super Cup</a></li>
+            <li class="sub-title">Asia</li>
+            <li><a href="/international/asia/afc-champions-league/" class="flag_16 left_16 asia_16_left">Champions League</a></li>
+            <li><a href="/international/asia/afc-cup/" class="flag_16 left_16 asia_16_left">AFC Cup</a></li>
+            <li class="sub-title">South America</li>
+            <li><a href="/international/south-america/copa-libertadores/" class="flag_16 left_16 south-america_16_left">Copa Libertadores</a></li>
+            <li><a href="/international/south-america/copa-sudamericana/" class="flag_16 left_16 south-america_16_left">Copa Sudamericana</a></li>
+          </ul>
+          <a href="/competitions/club-international/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">National</li>
+            <li><a href="/international/world/world-cup/" class="flag_16 left_16 world_16_left" title="World Cup">World Cup</a></li>
+            <li><a href="/international/world/olympics/" class="flag_16 left_16 world_16_left" title="Olympics">Olympics</a></li>
+            <li><a href="/international/europe/european-championships/" class="flag_16 left_16 europe_16_left" title="European Championship">Euro 2012</a></li>
+            <li><a href="/international/south-america/copa-america/" class="flag_16 left_16 south-america_16_left" title="Copa America">Copa America</a></li>
+            <li><a href="/international/nc-america/concacaf-gold-cup/" class="flag_16 left_16 nc-america_16_left" title="CONCACAF Gold Cup">Gold Cup</a></li>
+            <li><a href="/international/asia/asian-cup/" class="flag_16 left_16 asia_16_left" title="Asian Cup">Asian Cup</a></li>
+            <li><a href="/international/africa/africa-cup-of-nations/" class="flag_16 left_16 africa_16_left" title="Africa Cup of Nations">Africa Cup of Nations</a></li>
+            <li><a href="/international/world/confederations-cup/" class="flag_16 left_16 world_16_left" title="Confederations Cup">Confederations Cup</a></li>
+            <li><a href="/international/world/u20-world-cup/" class="flag_16 left_16 world_16_left" title="U20 World Cup">U20 World Cup</a></li>
+            <li><a href="/international/europe/uefa-u21-championship/" class="flag_16 left_16 europe_16_left" title="UEFA U21 Championship">Euro U21 Champ</a></li>
+          </ul>
+          <a href="/competitions/national/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">Women</li>
+            <li><a href="http://women.soccerway.com/national/germany/frauen-bundesliga/" class="flag_16 left_16 germany_16_left" target="_blank">Frauen Bundesliga</a></li>
+            <li><a href="http://women.soccerway.com/national/sweden/damallsvenskan/" class="flag_16 left_16 sweden_16_left" target="_blank">Damallsvenskan</a></li>
+            <li><a href="http://women.soccerway.com/national/england/wsl/" class="flag_16 left_16 england_16_left" target="_blank">WSL</a></li>
+            <li><a href="http://women.soccerway.com/national/united-states/wps/" class="flag_16 left_16 united-states_16_left" target="_blank">WPS</a></li>
+            <li><a href="http://women.soccerway.com/national/norway/toppserien/" class="flag_16 left_16 norway_16_left" target="_blank">Toppserien</a></li>
+            <li><a href="http://women.soccerway.com/national/france/feminine-division-1/" class="flag_16 left_16 france_16_left" target="_blank">Feminine Division 1</a></li>
+            <li><a href="http://women.soccerway.com/international/world/womens-world-cup/" class="flag_16 left_16 world_16_left" target="_blank">Women's World Cup</a></li>
+            <li><a href="http://women.soccerway.com/international/world/olympics-women/" class="flag_16 left_16 world_16_left" target="_blank">Olympics Women</a></li>
+            <li><a href="http://women.soccerway.com/international/europe/uefa-womens-championship/" class="flag_16 left_16 europe_16_left" target="_blank">Women's Euro</a></li>
+            <li><a href="http://women.soccerway.com/international/europe/uefa-womens-champions-league/" class="flag_16 left_16 europe_16_left" target="_blank">Champions League</a></li>
+          </ul>
+          <a href="/competitions/women/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+        </div>
+      </div>
+    </li>
+    <li class="t_l h_d">
+      <a href="/teams/" class="t_l">Teams</a>
+      <div class="submenu col_3 clearfix">
+        <div class="col">
+          <ul>
+            <li class="title">Club teams</li>
+            <li><a href="/teams/spain/futbol-club-barcelona/" class="flag_16 left_16 spain_16_left">Barcelona</a></li>
+            <li><a href="/teams/spain/real-madrid-club-de-futbol/" class="flag_16 left_16 spain_16_left">Real Madrid</a></li>
+            <li><a href="/teams/england/manchester-united-fc/" class="flag_16 left_16 england_16_left">Manchester United</a></li>
+            <li><a href="/teams/england/arsenal-fc/" class="flag_16 left_16 england_16_left">Arsenal</a></li>
+            <li><a href="/teams/england/liverpool-fc/" class="flag_16 left_16 england_16_left">Liverpool</a></li>
+            <li><a href="/teams/italy/fc-internazionale-milano/" class="flag_16 left_16 italy_16_left">Internazionale</a></li>
+            <li><a href="/teams/italy/ac-milan/" class="flag_16 left_16 italy_16_left">Milan</a></li>
+            <li><a href="/teams/germany/fc-bayern-munchen/" class="flag_16 left_16 germany_16_left">Bayern München</a></li>
+            <li><a href="/teams/portugal/futebol-clube-do-porto/" class="flag_16 left_16 portugal_16_left">Porto</a></li>
+            <li><a href="/teams/argentina/boca-juniors/" class="flag_16 left_16 argentina_16_left">Boca Juniors</a></li>
+            <a href="/teams/club-teams/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">National Teams</li>
+            <li><a href="/teams/spain/spain/" class="flag_16 left_16 spain_16_left">Spain</a></li>
+            <li><a href="/teams/netherlands/netherlands/" class="flag_16 left_16 netherlands_16_left">Netherlands</a></li>
+            <li><a href="/teams/germany/germany/" class="flag_16 left_16 germany_16_left">Germany</a></li>
+            <li><a href="/teams/england/england/" class="flag_16 left_16 england_16_left">England</a></li>
+            <li><a href="/teams/brazil/brazil/" class="flag_16 left_16 brazil_16_left">Brazil</a></li>
+            <li><a href="/teams/argentina/argentina/" class="flag_16 left_16 argentina_16_left">Argentina</a></li>
+            <li><a href="/teams/italy/italy/" class="flag_16 left_16 italy_16_left">Italy</a></li>
+            <li><a href="/teams/portugal/portugal/" class="flag_16 left_16 portugal_16_left">Portugal</a></li>
+            <li><a href="/teams/france/france/" class="flag_16 left_16 france_16_left">France</a></li>
+            <li><a href="/teams/russia/russia/" class="flag_16 left_16 russia_16_left">Russia</a></li>
+            <a href="/teams/national-teams/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">More</li>
+            <li><a href="/teams/rankings/fifa/">FIFA Rankings</a></li>
+            <li><a href="/teams/comparison/">H2H Comparison</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li class="t_l h_d">
+      <a href="/players/" class="t_l">Players</a>
+      <div class="submenu col_2 clearfix">
+        <div class="col">
+          <ul>
+            <li class="title">Players</li>
+            <li><a href="/players/lionel-andres-messi/119/" class="flag_16 left_16 argentina_16_left">L. Messi</a></li>
+            <li><a href="/players/cristiano-ronaldo-dos-santos-aveiro/382/" class="flag_16 left_16 portugal_16_left">C. Ronaldo</a></li>
+            <li><a href="/players/wayne-rooney/193/" class="flag_16 left_16 england_16_left">W. Rooney</a></li>
+            <li><a href="/players/xavier-hernandez-creus/333/" class="flag_16 left_16 spain_16_left">X. Hernández</a></li>
+            <li><a href="/players/didier-drogba/310/" class="flag_16 left_16 cote-divoire_16_left">D. Drogba</a></li>
+            <li><a href="/players/andres-iniesta-lujan/329/" class="flag_16 left_16 spain_16_left">A. Iniesta</a></li>
+            <li><a href="/players/fernando-jose-torres-sanz/334/" class="flag_16 left_16 spain_16_left">F. Torres</a></li>
+            <li><a href="/players/steven-gerrard/186/" class="flag_16 left_16 england_16_left">S. Gerrard</a></li>
+            <li><a href="/players/samuel-eto-o/2994/" class="flag_16 left_16 cameroon_16_left">S. Eto'o</a></li>
+            <li><a href="/players/francesc-fabregas-soler/328/" class="flag_16 left_16 spain_16_left">C. Fàbregas</a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">More</li>
+            <li><a href="/players/transfers/">Transfers &amp; Loans</a></li>
+            <li><a href="/players/topscorers/">Topscorers</a></li>
+            <li><a href="/players/disciplinary/">Disciplinary</a></li>
+            <li><a href="/players/birthday/">Born today</a></li>
+            <li><a href="/players/players_abroad/">Players abroad</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li class="t_l"><a href="/betting/" class="t_l">Odds</a></li>
+    <li class="t_l"><a href="/videos/" class="t_l">Videos</a></li>
+    <li class="t_l h_d more">
+      <a href="/about/" class="t_l">More</a>
+      <div class="submenu col_2 clearfix" id="submenu_more">
+        <div class="col">
+          <ul>
+            <li class="title">About</li>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/advertising/">Advertising</a></li>
+            <li><a href="/contact/">Contact us</a></li>
+            <li><a href="/terms/">Terms</a></li>
+          </ul>
+          <ul>
+            <li class="title">Content</li>
+            <li><a href="http://syndication.soccerway.com/rss/english.php">RSS</a></li>
+            <li><a href="http://widgets.soccerway.com/">Widgets</a></li>
+            <li><a href="/syndication/">Content</a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">Mobile</li>
+            <li><a href="/iphone/">iPhone</a></li>
+            <li><a href="/iphone/">iPad</a></li>
+            <li><a href="http://www.soccerway.mobi/">PDA/WAP</a></li>
+            <li><a href="http://smsalerts.soccerway.com/">SMS Alerts</a></li>
+          </ul>
+          <ul>
+            <li class="title">Social</li>
+            <li><a href="http://www.facebook.com/soccerway" class="facebook" target="_blank">Facebook</a></li>
+            <li><a href="http://www.twitter.com/soccerway" class="twitter" target="_blank">Twitter</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+  </ul>
+</nav>
+<form accept-charset="utf-8" method="get" action="/search/" id="search">
+  <div id="search-input-wrap">
+    <input type="text" id="search-input" value="Search" name="q">
+    <div id="search-input-submit">&nbsp;</div>
+  </div>
+  <input type="hidden" value="all" name="module">
+</form>
+
+<script type="text/javascript">
+  (function(){
+    DropdownManager.create('today-dropdown', 'today-dropdown-button');
+
+    // delay submenu hovers
+    var timer;
+    $('main').select('li.h_d').each(function(el){
+      el.observe('mouseenter', function(evt){
+        var that = this;
+        timer = window.setTimeout(function(){
+          that.addClassName('active');
+        }, 250);
+      });
+      el.observe('mouseleave', function(evt){
+        window.clearTimeout(timer);
+        el.removeClassName('active');
+      });
+    });
+
+    var searchbox = $('search-input-submit');
+    var searchinput = $('search-input');
+    Event.observe(searchbox, 'click', function(event){ $('search').submit();});
+    Event.observe(searchinput, 'focus', function(event){ if( searchinput.value == 'Search') searchinput.value = '';});
+    Event.observe(searchinput, 'blur', function(event){ if( searchinput.value.trim() == '') searchinput.value = 'Search';});
+  })();
+</script>
+ 		
+	</div>
+</header>
+
+<div id="doc4" class="yui-t6">  
+  <div id="hd">
+    <div class="block_navbar block block-nomb clearfix" id="block_navbar_13">
+  <div id="navbar" class="clearfix">
+  <div id="navbar-left">
+    <select size="1" class="first  nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">Popular</option>
+
+      <option value="/national/england/premier-league/">Premier League</option><option value="/national/germany/bundesliga/">Bundesliga</option><option value="/national/italy/serie-a/">Serie A</option><option value="/national/spain/primera-division/">Primera División</option><option value="/national/france/ligue-1/">Ligue 1</option><option value="/national/netherlands/eredivisie/">Eredivisie</option><option value="/national/turkey/super-lig/">Süper Lig</option><option value="/national/brazil/serie-a/">Serie A</option><option value="/national/portugal/portuguese-liga-/">Primeira Liga</option><option value="/national/scotland/premier-league/">Premier League</option><option value="/national/belgium/pro-league/">Pro League</option><option value="/international/europe/uefa-champions-league/">UEFA Champions League</option><option value="/international/europe/uefa-cup/">UEFA Europa League</option><option value="/international/europe/european-championships/">European Championship</option>
+
+    </select>
+    <select size="1" class="  nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">Club Domestic (734)</option>
+
+      <option value="/national/afghanistan/">Afghanistan (1)</option><option value="/national/albania/">Albania (7)</option><option value="/national/algeria/">Algeria (3)</option><option value="/national/american-samoa/">American Samoa (1)</option><option value="/national/andorra/">Andorra (5)</option><option value="/national/angola/">Angola (2)</option><option value="/national/antigua-and-barbuda/">Antigua and Barbuda (1)</option><option value="/national/argentina/">Argentina (13)</option><option value="/national/armenia/">Armenia (4)</option><option value="/national/aruba/">Aruba (1)</option><option value="/national/australia/">Australia (14)</option><option value="/national/austria/">Austria (7)</option><option value="/national/azerbaijan/">Azerbaijan (3)</option><option value="/national/bahamas/">Bahamas (1)</option><option value="/national/bahrain/">Bahrain (3)</option><option value="/national/bangladesh/">Bangladesh (1)</option><option value="/national/barbados/">Barbados (1)</option><option value="/national/belarus/">Belarus (6)</option><option value="/national/belgium/">Belgium (12)</option><option value="/national/belize/">Belize (1)</option><option value="/national/benin/">Benin (1)</option><option value="/national/bermuda/">Bermuda (1)</option><option value="/national/bhutan/">Bhutan (1)</option><option value="/national/bolivia/">Bolivia (2)</option><option value="/national/bosnia-herzegovina/">Bosnia-Herzegovina (3)</option><option value="/national/botswana/">Botswana (1)</option><option value="/national/brazil/">Brazil (47)</option><option value="/national/british-virgin-islands/">British Virgin Islands (1)</option><option value="/national/brunei-darussalam/">Brunei Darussalam (1)</option><option value="/national/bulgaria/">Bulgaria (7)</option><option value="/national/burkina-faso/">Burkina Faso (1)</option><option value="/national/burundi/">Burundi (1)</option><option value="/national/cambodia/">Cambodia (2)</option><option value="/national/cameroon/">Cameroon (1)</option><option value="/national/canada/">Canada (3)</option><option value="/national/cape-verde-islands/">Cape Verde Islands (1)</option><option value="/national/cayman-islands/">Cayman Islands (1)</option><option value="/national/chad/">Chad (1)</option><option value="/national/chile/">Chile (8)</option><option value="/national/china-pr/">China PR (4)</option><option value="/national/chinese-taipei/">Chinese Taipei (2)</option><option value="/national/colombia/">Colombia (5)</option><option value="/national/congo/">Congo (1)</option><option value="/national/congo-dr/">Congo DR (1)</option><option value="/national/cook-islands/">Cook Islands (1)</option><option value="/national/costa-rica/">Costa Rica (3)</option><option value="/national/cote-divoire/">Côte d'Ivoire (1)</option><option value="/national/croatia/">Croatia (7)</option><option value="/national/cuba/">Cuba (1)</option><option value="/national/curacao/">Curaçao (2)</option><option value="/national/cyprus/">Cyprus (5)</option><option value="/national/czech-republic/">Czech Republic (8)</option><option value="/national/denmark/">Denmark (8)</option><option value="/national/djibouti/">Djibouti (1)</option><option value="/national/dominican-republic/">Dominican Republic (1)</option><option value="/national/ecuador/">Ecuador (2)</option><option value="/national/egypt/">Egypt (4)</option><option value="/national/el-salvador/">El Salvador (1)</option><option value="/national/england/">England (17)</option><option value="/national/estonia/">Estonia (7)</option><option value="/national/ethiopia/">Ethiopia (1)</option><option value="/national/faroe-islands/">Faroe Islands (7)</option><option value="/national/fiji/">Fiji (1)</option><option value="/national/finland/">Finland (7)</option><option value="/national/france/">France (9)</option><option value="/national/french-guyana/">French Guiana (1)</option><option value="/national/gabon/">Gabon (1)</option><option value="/national/gambia/">Gambia (1)</option><option value="/national/georgia/">Georgia (6)</option><option value="/national/germany/">Germany (12)</option><option value="/national/ghana/">Ghana (1)</option><option value="/national/greece/">Greece (9)</option><option value="/national/grenada/">Grenada (1)</option><option value="/national/guadeloupe/">Guadeloupe (1)</option><option value="/national/guam/">Guam (1)</option><option value="/national/guatemala/">Guatemala (2)</option><option value="/national/guyana/">Guyana (1)</option><option value="/national/haiti/">Haiti (3)</option><option value="/national/honduras/">Honduras (1)</option><option value="/national/hong-kong/">Hong Kong (5)</option><option value="/national/hungary/">Hungary (7)</option><option value="/national/iceland/">Iceland (5)</option><option value="/national/india/">India (7)</option><option value="/national/indonesia/">Indonesia (4)</option><option value="/national/iran/">Iran (3)</option><option value="/national/iraq/">Iraq (1)</option><option value="/national/ireland-republic/">Ireland Republic (7)</option><option value="/national/israel/">Israel (9)</option><option value="/national/italy/">Italy (13)</option><option value="/national/jamaica/">Jamaica (1)</option><option value="/national/japan/">Japan (6)</option><option value="/national/jordan/">Jordan (4)</option><option value="/national/kazakhstan/">Kazakhstan (4)</option><option value="/national/kenya/">Kenya (1)</option><option value="/national/korea-republic/">Korea Republic (5)</option><option value="/national/kuwait/">Kuwait (8)</option><option value="/national/kyrgyzstan/">Kyrgyzstan (1)</option><option value="/national/latvia/">Latvia (4)</option><option value="/national/lebanon/">Lebanon (4)</option><option value="/national/lesotho/">Lesotho (1)</option><option value="/national/libya/">Libya (2)</option><option value="/national/liechtenstein/">Liechtenstein (1)</option><option value="/national/lithuania/">Lithuania (5)</option><option value="/national/luxembourg/">Luxembourg (6)</option><option value="/national/macao/">Macao (1)</option><option value="/national/macedonia-fyr/">Macedonia FYR (5)</option><option value="/national/madagascar/">Madagascar (1)</option><option value="/national/malawi/">Malawi (1)</option><option value="/national/malaysia/">Malaysia (7)</option><option value="/national/maldives/">Maldives (1)</option><option value="/national/mali/">Mali (1)</option><option value="/national/malta/">Malta (5)</option><option value="/national/martinique/">Martinique (1)</option><option value="/national/mauritania/">Mauritania (1)</option><option value="/national/mauritius/">Mauritius (1)</option><option value="/national/mexico/">Mexico (5)</option><option value="/national/moldova/">Moldova (6)</option><option value="/national/mongolia/">Mongolia (1)</option><option value="/national/montenegro/">Montenegro (4)</option><option value="/national/morocco/">Morocco (3)</option><option value="/national/mozambique/">Mozambique (1)</option><option value="/national/myanmar/">Myanmar (1)</option><option value="/national/namibia/">Namibia (1)</option><option value="/national/nepal/">Nepal (2)</option><option value="/national/netherlands/">Netherlands (13)</option><option value="/national/new-caledonia/">New Caledonia (1)</option><option value="/national/new-zealand/">New Zealand (2)</option><option value="/national/nicaragua/">Nicaragua (1)</option><option value="/national/niger/">Niger (1)</option><option value="/national/nigeria/">Nigeria (1)</option><option value="/national/northern-ireland/">Northern Ireland (6)</option><option value="/national/norway/">Norway (7)</option><option value="/national/oman/">Oman (3)</option><option value="/national/pakistan/">Pakistan (2)</option><option value="/national/palestine/">Palestine (1)</option><option value="/national/panama/">Panama (1)</option><option value="/national/papua-new-guinea/">Papua New Guinea (1)</option><option value="/national/paraguay/">Paraguay (3)</option><option value="/national/peru/">Peru (3)</option><option value="/national/philippines/">Philippines (1)</option><option value="/national/poland/">Poland (9)</option><option value="/national/portugal/">Portugal (9)</option><option value="/national/puerto-rico/">Puerto Rico (1)</option><option value="/national/qatar/">Qatar (7)</option><option value="/national/reunion/">Reunion (1)</option><option value="/national/romania/">Romania (5)</option><option value="/national/russia/">Russia (9)</option><option value="/national/rwanda/">Rwanda (1)</option><option value="/national/samoa/">Samoa (1)</option><option value="/national/san-marino/">San Marino (3)</option><option value="/national/sao-tome-e-principe/">São Tomé e Príncipe (1)</option><option value="/national/saudi-arabia/">Saudi Arabia (6)</option><option value="/national/scotland/">Scotland (13)</option><option value="/national/senegal/">Senegal (1)</option><option value="/national/serbia/">Serbia (4)</option><option value="/national/serbia-and-montenegro/">Serbia and Montenegro (4)</option><option value="/national/seychelles/">Seychelles (1)</option><option value="/national/sierra-leone/">Sierra Leone (1)</option><option value="/national/singapore/">Singapore (3)</option><option value="/national/slovakia/">Slovakia (5)</option><option value="/national/slovenia/">Slovenia (6)</option><option value="/national/solomon-islands/">Solomon Islands (1)</option><option value="/national/south-africa/">South Africa (6)</option><option value="/national/spain/">Spain (9)</option><option value="/national/sri-lanka/">Sri Lanka (1)</option><option value="/national/st-kitts-and-nevis/">St. Kitts and Nevis (1)</option><option value="/national/sudan/">Sudan (1)</option><option value="/national/surinam/">Suriname (3)</option><option value="/national/swaziland/">Swaziland (1)</option><option value="/national/sweden/">Sweden (10)</option><option value="/national/switzerland/">Switzerland (8)</option><option value="/national/syria/">Syria (1)</option><option value="/national/tahiti/">Tahiti (1)</option><option value="/national/tajikistan/">Tajikistan (1)</option><option value="/national/tanzania/">Tanzania (1)</option><option value="/national/thailand/">Thailand (2)</option><option value="/national/togo/">Togo (1)</option><option value="/national/trinidad-and-tobago/">Trinidad and Tobago (1)</option><option value="/national/tunisia/">Tunisia (3)</option><option value="/national/turkey/">Turkey (11)</option><option value="/national/turkmenistan/">Turkmenistan (1)</option><option value="/national/turks-and-caicos-islands/">Turks and Caicos Islands (1)</option><option value="/national/tuvalu/">Tuvalu (2)</option><option value="/national/uganda/">Uganda (1)</option><option value="/national/ukraine/">Ukraine (8)</option><option value="/national/united-arab-emirates/">United Arab Emirates (9)</option><option value="/national/united-states/">United States (7)</option><option value="/national/uruguay/">Uruguay (3)</option><option value="/national/uzbekistan/">Uzbekistan (3)</option><option value="/national/vanuatu/">Vanuatu (1)</option><option value="/national/venezuela/">Venezuela (3)</option><option value="/national/vietnam/">Vietnam (3)</option><option value="/national/wales/">Wales (4)</option><option value="/national/yemen/">Yemen (3)</option><option value="/national/zambia/">Zambia (1)</option><option value="/national/zimbabwe/">Zimbabwe (1)</option>
+
+    </select>
+    <select size="1" class="  nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">Club International (33)</option>
+
+
+      <optgroup label="Africa">
+        <option value="/international/africa/caf-champions-league/">CAF Champions League</option><option value="/international/africa/caf-confederation-cup/">CAF Confederation Cup</option><option value="/international/africa/caf-super-cup/">CAF Super Cup</option>
+      </optgroup>
+      <optgroup label="Asia">
+        <option value="/international/asia/afc-champions-league/">AFC Champions League</option><option value="/international/asia/afc-cup/">AFC Cup</option><option value="/international/asia/afc-presidents-cup/">AFC President's Cup</option><option value="/international/asia/gulf-clubs-championship/">GCC Champions League</option>
+      </optgroup>
+      <optgroup label="Europe">
+        <option value="/international/europe/uefa-champions-league/">UEFA Champions League</option><option value="/international/europe/uefa-cup/">UEFA Europa League</option><option value="/international/europe/uefa-super-cup/">UEFA Super Cup</option><option value="/international/europe/uefa-intertoto-cup/">UEFA Intertoto Cup</option><option value="/international/europe/scandinavian-royal-league/">Scandinavian Royal League</option><option value="/international/europe/setanta-cup/">Setanta Cup</option><option value="/international/europe/the-nextgen-series/">The NextGen Series</option><option value="/international/europe/baltic-league/">Baltic League</option><option value="/international/europe/baltic-champions-cup/">Baltic Champions Cup</option>
+      </optgroup>
+      <optgroup label="N/C America">
+        <option value="/international/nc-america/concacaf-champions-league/">CONCACAF Champions League</option><option value="/international/nc-america/cfu-club-championship/">CFU Club Championship</option><option value="/international/nc-america/cup-winners-cup/">Cup Winners Cup</option><option value="/international/nc-america/super-liga/">Super Liga</option><option value="/international/nc-america/uncaf-clubs-cup/">UNCAF Clubs Cup</option><option value="/international/nc-america/giants-cup/">Giants Cup</option>
+      </optgroup>
+      <optgroup label="Oceania">
+        <option value="/international/oceania/ofc-champions-league/">OFC Champions League</option>
+      </optgroup>
+      <optgroup label="South America">
+        <option value="/international/south-america/copa-libertadores/">Copa Libertadores</option><option value="/international/south-america/copa-libertadores-u20/">Copa Libertadores U20</option><option value="/international/south-america/copa-sudamericana/">Copa Sudamericana</option><option value="/international/south-america/recopa-sudamericana/">Recopa Sudamericana</option>
+      </optgroup>
+      <optgroup label="World">
+        <option value="/international/world/fifa-club-world-cup/">FIFA Club World Cup</option><option value="/international/world/inter-continental-cup/">Inter Continental Cup</option><option value="/international/world/arab-champions-league/">Arab Champions League</option><option value="/international/world/pan-pacific-championship/">Pan-Pacific Championship</option><option value="/international/world/suruga-bank-championship/">Suruga Bank Championship</option><option value="/international/world/club-friendlies/">Club Friendlies</option>
+      </optgroup>
+    </select>
+    <select size="1" class=" last nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">National Teams (66)</option>
+
+
+      <optgroup label="Africa">
+        <option value="/international/africa/africa-cup-of-nations/">Africa Cup of Nations</option><option value="/international/africa/wc-qualifying-africa/">WC Qualification Africa</option><option value="/international/africa/africa-cup-of-nations-qualification/">Africa Cup of Nations Qualification</option><option value="/international/africa/african-nations-championship/">African Nations Championship</option><option value="/international/africa/caf-u20-championship/">CAF U20 Championship</option><option value="/international/africa/caf-u17-championship/">CAF U17 Championship</option><option value="/international/africa/all-africa-games/">All Africa Games</option><option value="/international/africa/cecafa-senior-challenge-cup/">CECAFA Senior Challenge Cup</option><option value="/international/africa/nile-basin-tournament/">Nile Basin Tournament</option>
+      </optgroup>
+      <optgroup label="Asia">
+        <option value="/international/asia/asian-cup/">Asian Cup</option><option value="/international/asia/wc-qualifying-asia/">WC Qualification Asia</option><option value="/international/asia/asian-games/">Asian Games</option><option value="/international/asia/afc-challenge-cup/">AFC Challenge Cup</option><option value="/international/asia/asean-football-championship/">ASEAN Football Championship</option><option value="/international/asia/east-asian-football-championship/">EAFF East Asian Cup</option><option value="/international/asia/west-asian-federation-championship/">West Asian Federation Championship</option><option value="/international/asia/gulf-cup/">Gulf Cup</option><option value="/international/asia/asian-cup-qualification/">Asian Cup Qualification</option><option value="/international/asia/nehru-cup/">Nehru Cup</option><option value="/international/asia/southeast-asian-games/">Southeast Asian Games</option><option value="/international/asia/gulf-olympic-cup/">Gulf Olympic Cup</option><option value="/international/asia/south-asian-football-federation-championship/">SAFF Championship</option><option value="/international/asia/afc-u22-asian-cup/">AFC U22 Asian Cup</option><option value="/international/asia/afc-u19-championship/">AFC U19 Championship</option><option value="/international/asia/afc-u17-championship/">AFC U17 Championship</option><option value="/international/asia/gulf-cup-u17/">Gulf Cup U17</option>
+      </optgroup>
+      <optgroup label="Europe">
+        <option value="/international/europe/european-championships/">European Championship</option><option value="/international/europe/european-championship-qualification/">EC Qualification</option><option value="/international/europe/wc-qualifying-europe/">WC Qualification Europe</option><option value="/international/europe/uefa-u21-championship/">UEFA U21 Championship</option><option value="/international/europe/uefa-u19-championship/">UEFA U19 Championship</option><option value="/international/europe/uefa-u17-championship/">UEFA U17 Championship</option><option value="/international/europe/baltic-cup/">Baltic Cup</option><option value="/international/europe/nations-cup/">Nations Cup</option>
+      </optgroup>
+      <optgroup label="N/C America">
+        <option value="/international/nc-america/concacaf-gold-cup/">CONCACAF Gold Cup</option><option value="/international/nc-america/copa-centroamericana/">Copa Centroamericana</option><option value="/international/nc-america/caribbean-cup/">Caribbean Cup</option><option value="/international/nc-america/olympic-qualifying-concacaf/">Olympic Qualifying CONCACAF</option><option value="/international/nc-america/pre-concacaf-championships/">Pre-CONCACAF Championships</option><option value="/international/nc-america/concacaf-nations-cup/">CONCACAF Nations Cup</option><option value="/international/nc-america/wc-qualifying-concacaf/">WC Qualification CONCACAF</option><option value="/international/nc-america/concacaf-u20/">CONCACAF U20</option><option value="/international/nc-america/concacaf-u17/">CONCACAF U17</option>
+      </optgroup>
+      <optgroup label="Oceania">
+        <option value="/international/oceania/ofc-u20-championship/">OFC U20 Championship</option><option value="/international/oceania/ofc-u17-championship/">OFC U17 Championship</option><option value="/international/oceania/wc-qualifying-oceania/">WC Qualification Oceania</option><option value="/international/oceania/pacific-games/">Pacific Games</option><option value="/international/oceania/ofc-nations-cup/">OFC Nations Cup</option>
+      </optgroup>
+      <optgroup label="South America">
+        <option value="/international/south-america/wc-qualifying-south-america/">WC Qualification South-America</option><option value="/international/south-america/copa-america/">Copa America</option><option value="/international/south-america/sudamericano-u20/">Sudamericano U20</option><option value="/international/south-america/sudamericano-u17/">Sudamericano U17</option>
+      </optgroup>
+      <optgroup label="World">
+        <option value="/international/world/world-cup/">World Cup</option><option value="/international/world/wc-qualifying-intercontinental-play-offs/">WC Qualification Intercontinental Play-offs</option><option value="/international/world/confederations-cup/">Confederations Cup</option><option value="/international/world/olympics/">Olympics</option><option value="/international/world/world-youth-festival-toulon/">World Youth Festival Toulon</option><option value="/international/world/u20-world-cup/">U20 World Cup</option><option value="/international/world/u17-world-cup/">U17 World Cup</option><option value="/international/world/pan-american-games/">Pan American Games</option><option value="/international/world/pan-arab-games/">Pan Arab Games</option><option value="/international/world/arab-u20-championship/">U20 Arab Championship</option><option value="/international/world/arab-u17-championship/">U17 Arab Championship</option><option value="/international/world/kirin-cup/">Kirin Cup</option><option value="/international/world/cac-games/">CAC Games</option><option value="/international/world/friendlies/">Friendlies</option>
+      </optgroup>
+    </select>
+  </div>
+  
+  <div id="navbar-right">
+	<div class="block_ad ad_navbar_right block clearfix">
+  <div class="ad_navbar_right">
+
+<div id="div-gpt-ad-1325073145951-5" style="width:240px; height:27px;">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325073145951-5'); });
+</script>
+</div>
+</div>
+</div>
+
+  </div>
+</div>
+
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('block_navbar_13', 'block_navbar', null);
+    
+    
+    
+    TimestampFormatter.format('block_navbar_13');
+  })();
+</script>    
+  </div>
+  <div id="bd">
+    <div id="subheading" style="position: relative;">
+  <h1><span class="flag_24 left_24 europe_24_left"></span>UEFA Champions League</h1>
+    
+	    <div id="submenu-container">
+
+      <div class="clearfix" id="submenu" style="background: url(http://s1.swimg.net/gsmf/388/img/flags/230x70/7.png) top right no-repeat;">
+  <ul>
+    <li class="current"><a href="/international/europe/uefa-champions-league/20122013/group-stage/">Summary</a></li><li class=""><a href="/international/europe/uefa-champions-league/20122013/group-stage/matches/">Matches</a></li><li class=""><a href="/international/europe/uefa-champions-league/20122013/group-stage/players/">Players</a></li><li class=""><a href="/international/europe/uefa-champions-league/20122013/group-stage/news/">News</a></li><li class=""><a href="/international/europe/uefa-champions-league/archive/">Archive</a></li><li class=""><a href="/international/europe/uefa-champions-league/20122013/group-stage/map/">Map</a></li><li class=""><a href="/international/europe/uefa-champions-league/odds/">Odds</a></li>
+    
+  </ul>
+</div>
+        <div class="submenu_dropdown"> 
+        <select name="season_id" id="season_id_selector" class="dropdown-selector" size="1" style="max-width: 125px;">
+  <option value="/international/europe/uefa-champions-league/20122013/" selected="selected">2012/2013</option><option value="/international/europe/uefa-champions-league/2011-2012/">2011/2012</option><option value="/international/europe/uefa-champions-league/2010-2011/">2010/2011</option><option value="/international/europe/uefa-champions-league/2009-2010/">2009/2010</option><option value="/international/europe/uefa-champions-league/2008-2009/">2008/2009</option><option value="/international/europe/uefa-champions-league/2007-2008/">2007/2008</option><option value="/international/europe/uefa-champions-league/2006-2007/">2006/2007</option><option value="/international/europe/uefa-champions-league/2005-2006/">2005/2006</option><option value="/international/europe/uefa-champions-league/2004-2005/">2004/2005</option><option value="/international/europe/uefa-champions-league/2003-2004/">2003/2004</option><option value="/international/europe/uefa-champions-league/20022003/">2002/2003</option><option value="/international/europe/uefa-champions-league/2001-2002/">2001/2002</option><option value="/international/europe/uefa-champions-league/2000-2001/">2000/2001</option>
+</select>
+
+<span style="font-weight: bold; color: #333;">&gt;</span>
+<select name="round_id" id="round_id_selector" class="dropdown-selector" size="1" style="max-width: 125px;">
+  <option value="/international/europe/uefa-champions-league/20122013/final/">Final</option><option value="/international/europe/uefa-champions-league/20122013/semi-finals/">Semi-finals</option><option value="/international/europe/uefa-champions-league/20122013/quarter-finals/">Quarter-finals</option><option value="/international/europe/uefa-champions-league/20122013/8th-finals/">8th Finals</option><option value="/international/europe/uefa-champions-league/20122013/group-stage/" selected="selected">Group stage</option><option value="/international/europe/uefa-champions-league/20122013/play-off-round/">Play-off Round</option><option value="/international/europe/uefa-champions-league/20122013/3rd-qualifying-round/">3rd Qualifying Round</option><option value="/international/europe/uefa-champions-league/20122013/2nd-qualifying-round/">2nd Qualifying Round</option><option value="/international/europe/uefa-champions-league/20122013/1st-qualifying-round/">1st Qualifying Round</option>
+</select>
+
+<span style="font-weight: bold; color: #333;">&gt;</span>
+<select name="group_id" id="group_id_selector" class="dropdown-selector" size="1" style="max-width: 125px;">
+  <option value="/international/europe/uefa-champions-league/20122013/group-stage/"></option>
+  <option value="/international/europe/uefa-champions-league/20122013/group-stage/group-a/">Group A</option><option value="/international/europe/uefa-champions-league/20122013/group-stage/group-b/">Group B</option><option value="/international/europe/uefa-champions-league/20122013/group-stage/group-c/">Group C</option><option value="/international/europe/uefa-champions-league/20122013/group-stage/group-d/">Group D</option><option value="/international/europe/uefa-champions-league/20122013/group-stage/group-e/">Group E</option><option value="/international/europe/uefa-champions-league/20122013/group-stage/group-f/">Group F</option><option value="/international/europe/uefa-champions-league/20122013/group-stage/group-g/">Group G</option><option value="/international/europe/uefa-champions-league/20122013/group-stage/group-h/" selected="selected">Group H</option>
+</select>
+
+<script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  $$('.dropdown-selector').invoke('observe', 'change', function() {
+    window.location.href = $F(this);
+  });
+  /* ]]> */
+</script>
+        </div>
+  
+    </div>
+</div>
+    
+<div id="yui-main">
+  <div class="yui-b">
+    <div class="clearfix">
+      <div class="small-column">
+				<div class="block  clearfix block_competition_left_tree-wrapper" id="page_competition_1_block_competition_left_tree_2-wrapper">
+  
+  <h2>Europe</h2>
+  
+  
+  <div class="content plain ">
+    <div class="block_competition_left_tree real-content clearfix " id="page_competition_1_block_competition_left_tree_2">
+
+      <ul class="left-tree">
+  <li class="  odd">
+    <a href="/international/europe/european-championships/" class="flag_16 left_16 europe_16_left" title="European Championship">European Cham&hellip;</a>
+  </li>
+  <li class="  even">
+    <a href="/international/europe/european-championship-qualification/" class="flag_16 left_16 europe_16_left" title="EC Qualification">EC Qualification</a>
+  </li>
+  <li class="  odd">
+    <a href="/international/europe/wc-qualifying-europe/" class="flag_16 left_16 europe_16_left" title="WC Qualification Europe">WC Qualificat&hellip;</a>
+  </li>
+  <li class="expanded  even">
+    <a href="/international/europe/uefa-champions-league/" class="flag_16 left_16 europe_16_left" title="UEFA Champions League">UEFA Champion&hellip;</a>
+    <ul class="level-1 expanded">
+      <li class="expanded ">
+        <a href="/international/europe/uefa-champions-league/20122013/">2012/2013</a>
+        <ul class="level-2 expanded">
+          <li class=" leaf">
+            <a href="/international/europe/uefa-champions-league/20122013/1st-qualifying-round/">1st Qualifying Round</a>
+          </li>
+          <li class=" leaf">
+            <a href="/international/europe/uefa-champions-league/20122013/2nd-qualifying-round/">2nd Qualifying Round</a>
+          </li>
+          <li class=" leaf">
+            <a href="/international/europe/uefa-champions-league/20122013/3rd-qualifying-round/">3rd Qualifying Round</a>
+          </li>
+          <li class=" leaf">
+            <a href="/international/europe/uefa-champions-league/20122013/play-off-round/">Play-off Round</a>
+          </li>
+          <li class=" expanded">
+            <a href="/international/europe/uefa-champions-league/20122013/group-stage/">Group stage</a>
+            <ul class="level-3 expanded">
+              <li class=" leaf"><a href="/international/europe/uefa-champions-league/20122013/group-stage/group-a/">Group A</a></li>
+              <li class=" leaf"><a href="/international/europe/uefa-champions-league/20122013/group-stage/group-b/">Group B</a></li>
+              <li class=" leaf"><a href="/international/europe/uefa-champions-league/20122013/group-stage/group-c/">Group C</a></li>
+              <li class=" leaf"><a href="/international/europe/uefa-champions-league/20122013/group-stage/group-d/">Group D</a></li>
+              <li class=" leaf"><a href="/international/europe/uefa-champions-league/20122013/group-stage/group-e/">Group E</a></li>
+              <li class=" leaf"><a href="/international/europe/uefa-champions-league/20122013/group-stage/group-f/">Group F</a></li>
+              <li class=" leaf"><a href="/international/europe/uefa-champions-league/20122013/group-stage/group-g/">Group G</a></li>
+              <li class="current leaf"><a href="/international/europe/uefa-champions-league/20122013/group-stage/group-h/">Group H</a></li>
             </ul>
           </li>
+          <li class=" leaf">
+            <a href="/international/europe/uefa-champions-league/20122013/final-stages/">Final Stages</a>
+          </li>
         </ul>
-      </div>
-
-      <div id="content">
-        <div id="header">
-          <h1>Welcome aboard</h1>
-          <h2>You&rsquo;re riding Ruby on Rails!</h2>
-        </div>
-
-        <div id="about">
-          <h3><a href="rails/info/properties" onclick="about(); return false">About your application&rsquo;s environment</a></h3>
-          <div id="about-content" style="display: none"></div>
-        </div>
-
-        <div id="getting-started">
-          <h1>Getting started</h1>
-          <h2>Here&rsquo;s how to get rolling:</h2>
-
-          <ol>
-            <li>
-              <h2>Use <code>rails generate</code> to create your models and controllers</h2>
-              <p>To see all available options, run it without parameters.</p>
-            </li>
-
-            <li>
-              <h2>Set up a default route and remove <span class="filename">public/index.html</span></h2>
-              <p>Routes are set up in <span class="filename">config/routes.rb</span>.</p>
-            </li>
-
-            <li>
-              <h2>Create your database</h2>
-              <p>Run <code>rake db:create</code> to create your database. If you're not using SQLite (the default), edit <span class="filename">config/database.yml</span> with your username and password.</p>
-            </li>
-          </ol>
-        </div>
-      </div>
-
-      <div id="footer">&nbsp;</div>
+      </li>
+    </ul>
+  </li>
+  <li class="  odd">
+    <a href="/international/europe/uefa-cup/" class="flag_16 left_16 europe_16_left" title="UEFA Europa League">UEFA Europa L&hellip;</a>
+  </li>
+  <li class="  even">
+    <a href="/international/europe/uefa-super-cup/" class="flag_16 left_16 europe_16_left" title="UEFA Super Cup">UEFA Super Cup</a>
+  </li>
+  <li class="  odd">
+    <a href="/international/europe/uefa-intertoto-cup/" class="flag_16 left_16 europe_16_left" title="UEFA Intertoto Cup">UEFA Intertot&hellip;</a>
+  </li>
+  <li class="  even">
+    <a href="/international/europe/scandinavian-royal-league/" class="flag_16 left_16 europe_16_left" title="Scandinavian Royal League">Scandinavian &hellip;</a>
+  </li>
+  <li class="  odd">
+    <a href="/international/europe/setanta-cup/" class="flag_16 left_16 europe_16_left" title="Setanta Cup">Setanta Cup</a>
+  </li>
+  <li class="  even">
+    <a href="/international/europe/uefa-u21-championship/" class="flag_16 left_16 europe_16_left" title="UEFA U21 Championship">UEFA U21 Cham&hellip;</a>
+  </li>
+  <li class="  odd">
+    <a href="/international/europe/uefa-u19-championship/" class="flag_16 left_16 europe_16_left" title="UEFA U19 Championship">UEFA U19 Cham&hellip;</a>
+  </li>
+  <li class="  even">
+    <a href="/international/europe/uefa-u17-championship/" class="flag_16 left_16 europe_16_left" title="UEFA U17 Championship">UEFA U17 Cham&hellip;</a>
+  </li>
+  <li class="  odd">
+    <a href="/international/europe/the-nextgen-series/" class="flag_16 left_16 europe_16_left" title="The NextGen Series">The NextGen S&hellip;</a>
+  </li>
+  <li class="  even">
+    <a href="/international/europe/baltic-cup/" class="flag_16 left_16 europe_16_left" title="Baltic Cup">Baltic Cup</a>
+  </li>
+  <li class="  odd">
+    <a href="/international/europe/baltic-league/" class="flag_16 left_16 europe_16_left" title="Baltic League">Baltic League</a>
+  </li>
+  <li class="  even">
+    <a href="/international/europe/nations-cup/" class="flag_16 left_16 europe_16_left" title="Nations Cup">Nations Cup</a>
+  </li>
+  <li class="  odd">
+    <a href="/international/europe/baltic-champions-cup/" class="flag_16 left_16 europe_16_left" title="Baltic Champions Cup">Baltic Champi&hellip;</a>
+  </li>
+</ul>
     </div>
-  </body>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_competition_1_block_competition_left_tree_2', 'block_competition_left_tree', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_competition_left_tree_2');
+  })();
+</script>
+
+				
+
+				<div class="block_ad ad_120 block clearfix">
+  
+
+<div class="tag">
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Run of Site - Other // Placement: Run of Site - Other-Other-120 x 240 (3442160) // created at: Jan 11, 2012 4:15:26 PM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|3442160|0|30|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|3442160|0|30|ADTECH;loc=300;sub1=[subst]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|3442160|0|30|ADTECH;cookie=info;loc=300" border="0" width="120" height="240"></a></noscript>
+<!-- End of JavaScript Tag -->
+</div>
+
+<div class="tag">
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Run of Site - Other // Placement: Run of Site - Skyscraper-120 x 600 (1689339) // created at: Jan 11, 2012 4:15:04 PM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|1689339|0|168|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|1689339|0|168|ADTECH;loc=300;sub1=[subst]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|1689339|0|168|ADTECH;cookie=info;loc=300" border="0" width="120" height="600"></a></noscript>
+<!-- End of JavaScript Tag -->
+</div>
+
+
+</div>
+			</div>
+      <div class="content-column">
+    
+    
+    
+    <div class="block  clearfix block_competition_matches_summary-wrapper" id="page_competition_1_block_competition_matches_summary_7-wrapper">
+  <h2><a href="/international/europe/uefa-champions-league/20122013/group-stage/matches/">Matches</a></h2>
+  
+  
+  
+  <div class="content  ">
+    <div class="subnav clearfix  subnav-first subnav-last">
+      <ul id="page_competition_1_block_competition_matches_summary_7_subnav">
+          <li class="selected">
+            <a id="page_competition_1_block_competition_matches_summary_7_1_1">By date</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_matches_summary_7_1_2">By game week</a>
+          </li>
+      </ul>
+    </div>
+    <div class="block_competition_matches_summary real-content clearfix " id="page_competition_1_block_competition_matches_summary_7">
+
+      <div id="page_competition_1_block_competition_matches_summary_7_pagination" class="pagination match-pagination">
+  <span class="nav_description">
+  <a rel="previous" class="previous disabled" id="page_competition_1_block_competition_matches_summary_7_previous">&laquo; Previous</a>
+  <a rel="next" class="next " id="page_competition_1_block_competition_matches_summary_7_next">Next &raquo;</a>
+  </span>
+</div>
+
+
+<div class="table-container">
+  <table class="matches   ">
+    <thead>
+      <tr class="sub-head">
+        <th class="day">Day</th>
+        <th class="date">Date</th>
+        
+        
+        
+        
+        
+        <th class="team team-a">Home team</th>
+        
+        <th class="score-time">Score/Time</th>
+        <th class="team team-b">Away team</th>
+        
+        
+        <th class="events-button button">&nbsp;</th>
+        <th class="info-button button">&nbsp;</th>
+        
+        
+        
+      </tr>
+    </thead>
+    <tbody>
+          
+          <tr class="even  expanded    match no-date-repetition" data-timestamp="1348080300" id="page_competition_1_block_competition_matches_summary_7_match-1388726">
+            <td class="day no-repetition"><span class='timestamp' data-value='1348080300' data-format='ddd'>Wed</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1348080300' data-format='dd/mm/yy'>19/09/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/portugal/sporting-braga/" class="flag_16 right_16 portugal_16_right" title="Sporting Braga">
+                    Sporting Braga
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/09/19/europe/uefa-champions-league/sporting-braga/scs-cfr-1907-cluj-sa/1388726/">
+                
+                0 - 2
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/romania/scs-cfr-1907-cluj-sa/" class="flag_16 left_16 romania_16_left" title="CFR Cluj">
+                  CFR Cluj
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/09/19/europe/uefa-champions-league/sporting-braga/scs-cfr-1907-cluj-sa/1388726/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/09/19/europe/uefa-champions-league/sporting-braga/scs-cfr-1907-cluj-sa/1388726/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="odd  expanded    match no-date-repetition" data-timestamp="1348080300" id="page_competition_1_block_competition_matches_summary_7_match-1388664">
+            <td class="day no-repetition"><span class='timestamp' data-value='1348080300' data-format='ddd'>Wed</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1348080300' data-format='dd/mm/yy'>19/09/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/manchester-united-fc/" class="flag_16 right_16 england_16_right" title="Manchester United">
+                    Manchester United
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/09/19/europe/uefa-champions-league/manchester-united-fc/galatasaray-sk/1388664/">
+                
+                1 - 0
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/galatasaray-sk/" class="flag_16 left_16 turkey_16_left" title="Galatasaray">
+                  Galatasaray
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/09/19/europe/uefa-champions-league/manchester-united-fc/galatasaray-sk/1388664/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/09/19/europe/uefa-champions-league/manchester-united-fc/galatasaray-sk/1388664/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="even  expanded    match no-date-repetition" data-timestamp="1349203500" id="page_competition_1_block_competition_matches_summary_7_match-1388665">
+            <td class="day no-repetition"><span class='timestamp' data-value='1349203500' data-format='ddd'>Tue</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1349203500' data-format='dd/mm/yy'>02/10/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/romania/scs-cfr-1907-cluj-sa/" class="flag_16 right_16 romania_16_right" title="CFR Cluj">
+                    CFR Cluj
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/10/02/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/manchester-united-fc/1388665/">
+                
+                1 - 2
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/manchester-united-fc/" class="flag_16 left_16 england_16_left" title="Manchester United">
+                  Manchester United
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/10/02/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/manchester-united-fc/1388665/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/10/02/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/manchester-united-fc/1388665/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="odd  expanded    match no-date-repetition" data-timestamp="1349203500" id="page_competition_1_block_competition_matches_summary_7_match-1388731">
+            <td class="day no-repetition"><span class='timestamp' data-value='1349203500' data-format='ddd'>Tue</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1349203500' data-format='dd/mm/yy'>02/10/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/galatasaray-sk/" class="flag_16 right_16 turkey_16_right" title="Galatasaray">
+                    Galatasaray
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/10/02/europe/uefa-champions-league/galatasaray-sk/sporting-braga/1388731/">
+                
+                0 - 2
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/portugal/sporting-braga/" class="flag_16 left_16 portugal_16_left" title="Sporting Braga">
+                  Sporting Braga
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/10/02/europe/uefa-champions-league/galatasaray-sk/sporting-braga/1388731/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/10/02/europe/uefa-champions-league/galatasaray-sk/sporting-braga/1388731/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="even  expanded    match no-date-repetition" data-timestamp="1351017900" id="page_competition_1_block_competition_matches_summary_7_match-1388736">
+            <td class="day no-repetition"><span class='timestamp' data-value='1351017900' data-format='ddd'>Tue</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1351017900' data-format='dd/mm/yy'>23/10/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/galatasaray-sk/" class="flag_16 right_16 turkey_16_right" title="Galatasaray">
+                    Galatasaray
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/10/23/europe/uefa-champions-league/galatasaray-sk/scs-cfr-1907-cluj-sa/1388736/">
+                
+                1 - 1
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/romania/scs-cfr-1907-cluj-sa/" class="flag_16 left_16 romania_16_left" title="CFR Cluj">
+                  CFR Cluj
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/10/23/europe/uefa-champions-league/galatasaray-sk/scs-cfr-1907-cluj-sa/1388736/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/10/23/europe/uefa-champions-league/galatasaray-sk/scs-cfr-1907-cluj-sa/1388736/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="odd  expanded    match no-date-repetition" data-timestamp="1351017900" id="page_competition_1_block_competition_matches_summary_7_match-1388666">
+            <td class="day no-repetition"><span class='timestamp' data-value='1351017900' data-format='ddd'>Tue</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1351017900' data-format='dd/mm/yy'>23/10/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/manchester-united-fc/" class="flag_16 right_16 england_16_right" title="Manchester United">
+                    Manchester United
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/10/23/europe/uefa-champions-league/manchester-united-fc/sporting-braga/1388666/">
+                
+                3 - 2
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/portugal/sporting-braga/" class="flag_16 left_16 portugal_16_left" title="Sporting Braga">
+                  Sporting Braga
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/10/23/europe/uefa-champions-league/manchester-united-fc/sporting-braga/1388666/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/10/23/europe/uefa-champions-league/manchester-united-fc/sporting-braga/1388666/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="even  expanded    match no-date-repetition" data-timestamp="1352317500" id="page_competition_1_block_competition_matches_summary_7_match-1388741">
+            <td class="day no-repetition"><span class='timestamp' data-value='1352317500' data-format='ddd'>Wed</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1352317500' data-format='dd/mm/yy'>07/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/romania/scs-cfr-1907-cluj-sa/" class="flag_16 right_16 romania_16_right" title="CFR Cluj">
+                    CFR Cluj
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/07/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/galatasaray-sk/1388741/">
+                
+                1 - 3
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/galatasaray-sk/" class="flag_16 left_16 turkey_16_left" title="Galatasaray">
+                  Galatasaray
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/07/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/galatasaray-sk/1388741/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/07/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/galatasaray-sk/1388741/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="odd  expanded    match no-date-repetition" data-timestamp="1352317500" id="page_competition_1_block_competition_matches_summary_7_match-1388667">
+            <td class="day no-repetition"><span class='timestamp' data-value='1352317500' data-format='ddd'>Wed</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1352317500' data-format='dd/mm/yy'>07/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/portugal/sporting-braga/" class="flag_16 right_16 portugal_16_right" title="Sporting Braga">
+                    Sporting Braga
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/07/europe/uefa-champions-league/sporting-braga/manchester-united-fc/1388667/">
+                
+                1 - 3
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/manchester-united-fc/" class="flag_16 left_16 england_16_left" title="Manchester United">
+                  Manchester United
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/07/europe/uefa-champions-league/sporting-braga/manchester-united-fc/1388667/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/07/europe/uefa-champions-league/sporting-braga/manchester-united-fc/1388667/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="even  expanded    match no-date-repetition" data-timestamp="1353440700" id="page_competition_1_block_competition_matches_summary_7_match-1388668">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353440700' data-format='ddd'>Tue</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353440700' data-format='dd/mm/yy'>20/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/galatasaray-sk/" class="flag_16 right_16 turkey_16_right" title="Galatasaray">
+                    Galatasaray
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/20/europe/uefa-champions-league/galatasaray-sk/manchester-united-fc/1388668/">
+                
+                1 - 0
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/manchester-united-fc/" class="flag_16 left_16 england_16_left" title="Manchester United">
+                  Manchester United
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/20/europe/uefa-champions-league/galatasaray-sk/manchester-united-fc/1388668/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/20/europe/uefa-champions-league/galatasaray-sk/manchester-united-fc/1388668/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="odd  expanded    match no-date-repetition" data-timestamp="1353440700" id="page_competition_1_block_competition_matches_summary_7_match-1388746">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353440700' data-format='ddd'>Tue</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353440700' data-format='dd/mm/yy'>20/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/romania/scs-cfr-1907-cluj-sa/" class="flag_16 right_16 romania_16_right" title="CFR Cluj">
+                    CFR Cluj
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/20/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/sporting-braga/1388746/">
+                
+                3 - 1
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/portugal/sporting-braga/" class="flag_16 left_16 portugal_16_left" title="Sporting Braga">
+                  Sporting Braga
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/20/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/sporting-braga/1388746/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/20/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/sporting-braga/1388746/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+    </tbody>
+  </table>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  /* ]]> */
+</script>
+
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new MatchesBlock('page_competition_1_block_competition_matches_summary_7', 'block_competition_matches_summary', {"page":0,"round_id":17916,"group_id":5229,"outgroup":false,"view":2});
+    block.registerForCallbacks();
+    block.addCallbackObserver('page_competition_1_block_competition_matches_summary_7_1_1', 'changeView', {"view":2});
+block.addCallbackObserver('page_competition_1_block_competition_matches_summary_7_1_2', 'changeView', {"view":1});
+    
+        
+    
+      block.setAttribute('colspan_left', 3);
+  block.setAttribute('colspan_right', 3);
+  
+  block.setAttribute('has_previous_page', true);
+  block.setAttribute('has_next_page', true);
+
+    
+    TimestampFormatter.format('page_competition_1_block_competition_matches_summary_7');
+  })();
+</script>
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="block_ad ad_sb_text block clearfix">
+  
+<div id='div-gpt-ad-1325580837273-0' style='width:557px; height:45px;'>
+<div style="color: #999999; font-size: 10px">Sponsored links</div>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+  googletag.pubads().setTargeting('page', 'competition');
+  googletag.pubads().setTargeting('caption', "UEFA Champions League");
+});
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325580837273-0'); });
+</script>
+</div>
+
+</div>
+
+    <div class="block  clearfix block_competition_tables-wrapper" id="page_competition_1_block_competition_tables_9-wrapper">
+  <h2><a href="/international/europe/uefa-champions-league/20122013/group-stage/group-h/tables/">Tables</a></h2>
+  
+  
+  <div class="top-right">
+      <span class="details"></span>
+
+  </div>
+  
+  <div class="content  ">
+    <div class="subnav clearfix  subnav-first subnav-last">
+      <ul id="page_competition_1_block_competition_tables_9_subnav">
+          <li class="selected">
+            <a id="page_competition_1_block_competition_tables_9_1_1">League table</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_tables_9_1_2">Half-time</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_tables_9_1_3">Wide</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_tables_9_1_4">Form</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_tables_9_1_5">Statistics</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_tables_9_1_6">Over/under</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_tables_9_1_7">Attendance</a>
+          </li>
+      </ul>
+    </div>
+    <div class="block_competition_tables real-content clearfix " id="page_competition_1_block_competition_tables_9">
+
+      <div class="block_competition_league_table block block-nomb clearfix" id="page_competition_1_block_competition_tables_9_block_competition_league_table_1">
+  <form action="/teams/comparison/" method="get" accept-charset="utf-8">
+  <table class="leaguetable sortable table detailed-table" id="page_competition_1_block_competition_tables_9_block_competition_league_table_1_table" data-round_id="17916" data-group_id="5229">
+    <thead>
+      <tr class="sub-head">
+        <th title="Rank" class="sortasc sortdefaultasc">#</th>
+        <th class="direction nosort">&nbsp;</th>
+        <th class="text team sortdefaultasc">Team</th>
+
+        <th class="number total mp"><acronym title="Matches played">MP</acronym></th>
+
+        <th class="number total won total_won"><acronym title="Wins">W</acronym></th>
+        <th class="number total drawn total_drawn"><acronym title="Draws">D</acronym></th>
+        <th class="number total lost total_lost"><acronym title="Losses">L</acronym></th>
+        <th class="number total gf total_gf"><acronym title="Goals for">F</acronym></th>
+        <th class="number total ga total_ga"><acronym title="Goals against">A</acronym></th>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <th class="number gd"><acronym title="Goal difference">D</acronym></th>
+        <th class="number points"><acronym title="Points">P</acronym></th>
+
+        <th class="form nosort">Last 5 matches</th>
+
+        <th class="compare"><acronym title="Head 2 Head">H2H</acronym></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="odd   team_rank"  id="team_rank_row_662" data-team_id="662">
+        <td class="rank rank-light-blue">1</td>
+        <td class="direction">
+        </td>
+        <td class="text team large-link"><a href="/teams/england/manchester-united-fc/" title="Manchester United">Manchester United</a></td>
+
+        <td class="number total mp">5</td>
+        <td class="number total won total_won">4</td>
+        <td class="number total drawn total_drawn">0</td>
+        <td class="number total lost total_lost">1</td>
+        <td class="number total gf total_gf">9</td>
+        <td class="number total ga total_ga">5</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+4</td>
+        <td class="number points">12</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/20/europe/uefa-champions-league/galatasaray-sk/manchester-united-fc/1388668/" class="form-icon form-loss " title="Galatasaray - Manchester United 1 - 0">L</a>
+          <a href="/matches/2012/11/07/europe/uefa-champions-league/sporting-braga/manchester-united-fc/1388667/" class="form-icon form-win " title="Sporting Braga - Manchester United 1 - 3">W</a>
+          <a href="/matches/2012/10/23/europe/uefa-champions-league/manchester-united-fc/sporting-braga/1388666/" class="form-icon form-win " title="Manchester United - Sporting Braga 3 - 2">W</a>
+          <a href="/matches/2012/10/02/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/manchester-united-fc/1388665/" class="form-icon form-win " title="CFR Cluj - Manchester United 1 - 2">W</a>
+          <a href="/matches/2012/09/19/europe/uefa-champions-league/manchester-united-fc/galatasaray-sk/1388664/" class="form-icon form-win last" title="Manchester United - Galatasaray 1 - 0">W</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="662" />
+        </td>
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_2217" data-team_id="2217">
+        <td class="rank rank-light-blue">2</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_plus.gif" width="7" height="4" title="Previous rank: 3" alt="Previous rank: 3" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/galatasaray-sk/" title="Galatasaray">Galatasaray</a></td>
+
+        <td class="number total mp">5</td>
+        <td class="number total won total_won">2</td>
+        <td class="number total drawn total_drawn">1</td>
+        <td class="number total lost total_lost">2</td>
+        <td class="number total gf total_gf">5</td>
+        <td class="number total ga total_ga">5</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+0</td>
+        <td class="number points">7</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/20/europe/uefa-champions-league/galatasaray-sk/manchester-united-fc/1388668/" class="form-icon form-win " title="Galatasaray - Manchester United 1 - 0">W</a>
+          <a href="/matches/2012/11/07/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/galatasaray-sk/1388741/" class="form-icon form-win " title="CFR Cluj - Galatasaray 1 - 3">W</a>
+          <a href="/matches/2012/10/23/europe/uefa-champions-league/galatasaray-sk/scs-cfr-1907-cluj-sa/1388736/" class="form-icon form-draw " title="Galatasaray - CFR Cluj 1 - 1">D</a>
+          <a href="/matches/2012/10/02/europe/uefa-champions-league/galatasaray-sk/sporting-braga/1388731/" class="form-icon form-loss " title="Galatasaray - Sporting Braga 0 - 2">L</a>
+          <a href="/matches/2012/09/19/europe/uefa-champions-league/manchester-united-fc/galatasaray-sk/1388664/" class="form-icon form-loss last" title="Manchester United - Galatasaray 1 - 0">L</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2217" />
+        </td>
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_1824" data-team_id="1824">
+        <td class="rank rank-dark-blue">3</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_min.gif" width="7" height="4" title="Previous rank: 2" alt="Previous rank: 2" />
+        </td>
+        <td class="text team large-link"><a href="/teams/romania/scs-cfr-1907-cluj-sa/" title="CFR Cluj">CFR Cluj</a></td>
+
+        <td class="number total mp">5</td>
+        <td class="number total won total_won">2</td>
+        <td class="number total drawn total_drawn">1</td>
+        <td class="number total lost total_lost">2</td>
+        <td class="number total gf total_gf">8</td>
+        <td class="number total ga total_ga">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+1</td>
+        <td class="number points">7</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/20/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/sporting-braga/1388746/" class="form-icon form-win " title="CFR Cluj - Sporting Braga 3 - 1">W</a>
+          <a href="/matches/2012/11/07/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/galatasaray-sk/1388741/" class="form-icon form-loss " title="CFR Cluj - Galatasaray 1 - 3">L</a>
+          <a href="/matches/2012/10/23/europe/uefa-champions-league/galatasaray-sk/scs-cfr-1907-cluj-sa/1388736/" class="form-icon form-draw " title="Galatasaray - CFR Cluj 1 - 1">D</a>
+          <a href="/matches/2012/10/02/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/manchester-united-fc/1388665/" class="form-icon form-loss " title="CFR Cluj - Manchester United 1 - 2">L</a>
+          <a href="/matches/2012/09/19/europe/uefa-champions-league/sporting-braga/scs-cfr-1907-cluj-sa/1388726/" class="form-icon form-win last" title="Sporting Braga - CFR Cluj 0 - 2">W</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="1824" />
+        </td>
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_1682" data-team_id="1682">
+        <td class="rank ">4</td>
+        <td class="direction">
+        </td>
+        <td class="text team large-link"><a href="/teams/portugal/sporting-braga/" title="Sporting Braga">Sporting Braga</a></td>
+
+        <td class="number total mp">5</td>
+        <td class="number total won total_won">1</td>
+        <td class="number total drawn total_drawn">0</td>
+        <td class="number total lost total_lost">4</td>
+        <td class="number total gf total_gf">6</td>
+        <td class="number total ga total_ga">11</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-5</td>
+        <td class="number points">3</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/20/europe/uefa-champions-league/scs-cfr-1907-cluj-sa/sporting-braga/1388746/" class="form-icon form-loss " title="CFR Cluj - Sporting Braga 3 - 1">L</a>
+          <a href="/matches/2012/11/07/europe/uefa-champions-league/sporting-braga/manchester-united-fc/1388667/" class="form-icon form-loss " title="Sporting Braga - Manchester United 1 - 3">L</a>
+          <a href="/matches/2012/10/23/europe/uefa-champions-league/manchester-united-fc/sporting-braga/1388666/" class="form-icon form-loss " title="Manchester United - Sporting Braga 3 - 2">L</a>
+          <a href="/matches/2012/10/02/europe/uefa-champions-league/galatasaray-sk/sporting-braga/1388731/" class="form-icon form-win " title="Galatasaray - Sporting Braga 0 - 2">W</a>
+          <a href="/matches/2012/09/19/europe/uefa-champions-league/sporting-braga/scs-cfr-1907-cluj-sa/1388726/" class="form-icon form-loss last" title="Sporting Braga - CFR Cluj 0 - 2">L</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="1682" />
+        </td>
+      </tr>
+    </tbody>
+    <tfoot>   
+      <tr>        
+        <td colspan="14" class="compare-teams">
+          <input type="submit" value="Compare two teams" class="compare-button" />
+        </td>        
+      </tr>
+      
+      <tr>
+        <td colspan="14" class="zones-legend">
+          <div class="clearfix zone-legend-line">
+            <div class="zone-legend-item-container">
+              <div class="zone-legend-item legend-light-blue">
+        				Next Round
+        			</div>
+            </div>
+            <div class="zone-legend-item-container">
+              <div class="zone-legend-item legend-dark-blue">
+        				UEFA Europa League
+        			</div>
+            </div>
+          </div>
+        </td>
+      </tr>       
+      
+    </tfoot>
+  </table>
+</form>
+<script type="text/javascript" charset="utf-8">
+  LeagueTable('page_competition_1_block_competition_tables_9_block_competition_league_table_1_table');  
+</script>
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('page_competition_1_block_competition_tables_9_block_competition_league_table_1', 'block_competition_league_table', null);
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_competition_tables_9_block_competition_league_table_1');
+  })();
+</script>
+
+
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_competition_1_block_competition_tables_9', 'block_competition_tables', {"season_id":7238,"round_id":17916,"outgroup":false,"group_id":5229});
+    block.registerForCallbacks();
+    block.addCallbackObserver('page_competition_1_block_competition_tables_9_1_1', 'changeTable', {"type":"competition_league_table"});
+block.addCallbackObserver('page_competition_1_block_competition_tables_9_1_2', 'changeTable', {"type":"competition_halftime_table"});
+block.addCallbackObserver('page_competition_1_block_competition_tables_9_1_3', 'changeTable', {"type":"competition_wide_table"});
+block.addCallbackObserver('page_competition_1_block_competition_tables_9_1_4', 'changeTable', {"type":"competition_form_table"});
+block.addCallbackObserver('page_competition_1_block_competition_tables_9_1_5', 'changeTable', {"type":"competition_statsplus_table"});
+block.addCallbackObserver('page_competition_1_block_competition_tables_9_1_6', 'changeTable', {"type":"competition_overunder_table"});
+block.addCallbackObserver('page_competition_1_block_competition_tables_9_1_7', 'changeTable', {"type":"competition_attendance_table"});
+    
+        
+    
+      var details_nodes = block.el.parentNode.parentNode.select('.top-right .details');
+  first_details_node = details_nodes.first();
+  if (first_details_node) {
+    Popupizer.setup(details_nodes, 'competition_league_table_details', {season_id: '7238'});
+    new PopupManager(first_details_node.parentNode);
+  }
+
+    
+    TimestampFormatter.format('page_competition_1_block_competition_tables_9');
+  })();
+</script>
+
+    <div class="block_ad ad_sb_text2 block clearfix">
+  
+<div id='div-gpt-ad-1325073145951-1' style='width:557px; height:45px;'>
+<div style="color: #999999; font-size: 10px">Sponsored links</div>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+  googletag.pubads().setTargeting('page', 'competition');
+  googletag.pubads().setTargeting('caption', "UEFA Champions League");
+});
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325073145951-1'); });
+</script>
+</div>
+
+</div>
+
+    
+    <div class="block  clearfix block_competition_playerstats-wrapper" id="page_competition_1_block_competition_playerstats_8-wrapper">
+  <h2><a href="/international/europe/uefa-champions-league/20122013/group-stage/players/">Players</a></h2>
+  
+  
+  
+  <div class="content  ">
+    <div class="subnav clearfix  subnav-first subnav-last">
+      <ul id="page_competition_1_block_competition_playerstats_8_subnav">
+          <li class="selected">
+            <a id="page_competition_1_block_competition_playerstats_8_1_1">Topscorers</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_playerstats_8_1_2">Disciplinary</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_playerstats_8_1_3">Assists</a>
+          </li>
+      </ul>
+    </div>
+    <div class="block_competition_playerstats real-content clearfix " id="page_competition_1_block_competition_playerstats_8">
+
+      <div class="container-full">
+<div class="block  clearfix block_competition_playerstats_topscores-wrapper" id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1-wrapper">
+  
+  
+  
+  
+  <div class="content  ">
+    <div id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1_pagination" class="pagination match-pagination clearfix">
+      <div class="nav_description">
+        <a rel="previous" class="previous disabled" id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1_previous">&laquo; Previous</a>
+        <a rel="next" class="next " id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1_next">Next &raquo;</a>
+      </div>
+    </div>
+    <div class="block_competition_playerstats_topscores real-content clearfix " id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1">
+
+        <table class="playerstats table" id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1_table" data-round_id="17916" data-season_id="0">
+    <thead>
+      <tr class="sub-head">
+        <th class="player">Player</th>
+        <th class="team">Team</th>
+        <th class="number goals"><img src="http://s1.swimg.net/gsmf/388/img/events/G.png" width="13" height="13" alt="Goal" title="Goal" /></th>
+        <th class="number penalties"><img src="http://s1.swimg.net/gsmf/388/img/events/PG.png" width="13" height="13" alt="Penalty goals" title="Penalty goals" /></th>
+        <th class="number first-goals"><img src="http://s1.swimg.net/gsmf/388/img/events/firstgoal.png" width="13" height="13" alt="First goals" title="First goals" /></th>
+      </tr>
+    </thead>
+    <tbody>
+      
+      <tr class="odd" data-people_id="382" data-team_id="2016">
+        <td class="player large-link"><a href="/players/cristiano-ronaldo-dos-santos-aveiro/382/" class="flag_16 left_16 portugal_16_left">Cristiano Ronaldo</a></td>
+        <td class="team large-link"><a href="/teams/spain/real-madrid-club-de-futbol/" title="Real Madrid">Real Madrid</a></td>
+        <td class="number goals">5</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="even" data-people_id="119" data-team_id="2017">
+        <td class="player large-link"><a href="/players/lionel-andres-messi/119/" class="flag_16 left_16 argentina_16_left">L. Messi</a></td>
+        <td class="team large-link"><a href="/teams/spain/futbol-club-barcelona/" title="Barcelona">Barcelona</a></td>
+        <td class="number goals">5</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">1</td>
+      </tr>
+      <tr class="odd" data-people_id="5283" data-team_id="1682">
+        <td class="player large-link"><a href="/players/alan-osorio-da-costa--silva/5283/" class="flag_16 left_16 portugal_16_left">Alan</a></td>
+        <td class="team large-link"><a href="/teams/portugal/sporting-braga/" title="Sporting Braga">Sporting Braga</a></td>
+        <td class="number goals">5</td>
+        <td class="number penalties">1</td>
+        <td class="number first-goals">3</td>
+      </tr>
+      <tr class="even" data-people_id="4788" data-team_id="2217">
+        <td class="player large-link"><a href="/players/burak-yilmaz/4788/" class="flag_16 left_16 turkey_16_left">B. Yılmaz</a></td>
+        <td class="team large-link"><a href="/teams/turkey/galatasaray-sk/" title="Galatasaray">Galatasaray</a></td>
+        <td class="number goals">5</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">3</td>
+      </tr>
+      <tr class="odd" data-people_id="9051" data-team_id="2254">
+        <td class="player large-link"><a href="/players/willian-borges-da-silva/9051/" class="flag_16 left_16 brazil_16_left">Willian</a></td>
+        <td class="team large-link"><a href="/teams/ukraine/joint-stock-company-fc-shakhtar-donetsk/" title="Shakhtar Donetsk">Shakhtar Donetsk</a></td>
+        <td class="number goals">4</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">1</td>
+      </tr>
+      <tr class="even" data-people_id="57860" data-team_id="661">
+        <td class="player large-link"><a href="/players/oscar-dos-santos-emboaba/57860/" class="flag_16 left_16 brazil_16_left">Oscar</a></td>
+        <td class="team large-link"><a href="/teams/england/chelsea-football-club/" title="Chelsea">Chelsea</a></td>
+        <td class="number goals">4</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="odd" data-people_id="2179" data-team_id="966">
+        <td class="player large-link"><a href="/players/klaas-jan-huntelaar/2179/" class="flag_16 left_16 netherlands_16_left">K. Huntelaar</a></td>
+        <td class="team large-link"><a href="/teams/germany/fc-schalke-04/" title="Schalke 04">Schalke 04</a></td>
+        <td class="number goals">4</td>
+        <td class="number penalties">1</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="even" data-people_id="41310" data-team_id="964">
+        <td class="player large-link"><a href="/players/robert-lewandowski/41310/" class="flag_16 left_16 poland_16_left">R. Lewandowski</a></td>
+        <td class="team large-link"><a href="/teams/germany/bv-borussia-09-dortmund/" title="Borussia Dortmund">Borussia Dortmund</a></td>
+        <td class="number goals">4</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="odd" data-people_id="3967" data-team_id="2015">
+        <td class="player large-link"><a href="/players/roberto-soldado-rillo/3967/" class="flag_16 left_16 spain_16_left">Soldado</a></td>
+        <td class="team large-link"><a href="/teams/spain/valencia-club-de-futbol/" title="Valencia">Valencia</a></td>
+        <td class="number goals">4</td>
+        <td class="number penalties">2</td>
+        <td class="number first-goals">1</td>
+      </tr>
+      <tr class="even" data-people_id="1595" data-team_id="2016">
+        <td class="player large-link"><a href="/players/karim-benzema/1595/" class="flag_16 left_16 france_16_left">K. Benzema</a></td>
+        <td class="team large-link"><a href="/teams/spain/real-madrid-club-de-futbol/" title="Real Madrid">Real Madrid</a></td>
+        <td class="number goals">3</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">1</td>
+      </tr>
+      <tr class="odd" data-people_id="30482" data-team_id="1824">
+        <td class="player large-link"><a href="/players/rui-pedro-couto-ramalho/30482/" class="flag_16 left_16 portugal_16_left">Rui Pedro</a></td>
+        <td class="team large-link"><a href="/teams/romania/scs-cfr-1907-cluj-sa/" title="CFR Cluj">CFR Cluj</a></td>
+        <td class="number goals">3</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">1</td>
+      </tr>
+      <tr class="even" data-people_id="20321" data-team_id="1515">
+        <td class="player large-link"><a href="/players/siem-de-jong/20321/" class="flag_16 left_16 netherlands_16_left">S. de Jong</a></td>
+        <td class="team large-link"><a href="/teams/netherlands/afc-ajax/" title="Ajax">Ajax</a></td>
+        <td class="number goals">3</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="odd" data-people_id="39454" data-team_id="2015">
+        <td class="player large-link"><a href="/players/sofiane-feghouli/39454/" class="flag_16 left_16 algeria_16_left">S. Feghouli</a></td>
+        <td class="team large-link"><a href="/teams/spain/valencia-club-de-futbol/" title="Valencia">Valencia</a></td>
+        <td class="number goals">3</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">1</td>
+      </tr>
+      <tr class="even" data-people_id="9367" data-team_id="2015">
+        <td class="player large-link"><a href="/players/jonas-goncalves-oliveira/9367/" class="flag_16 left_16 brazil_16_left">Jonas</a></td>
+        <td class="team large-link"><a href="/teams/spain/valencia-club-de-futbol/" title="Valencia">Valencia</a></td>
+        <td class="number goals">3</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="odd" data-people_id="53937" data-team_id="662">
+        <td class="player large-link"><a href="/players/javier-hernandez/53937/" class="flag_16 left_16 mexico_16_left">J. Hernández</a></td>
+        <td class="team large-link"><a href="/teams/england/manchester-united-fc/" title="Manchester United">Manchester United</a></td>
+        <td class="number goals">3</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">1</td>
+      </tr>
+    </tbody>
+  </table>
+
+<script type="text/javascript" charset="utf-8">
+  (function(){
+    var table = $('page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1_table');
+    Popupizer.setup(table.select('tbody td[class*="goals"]'), 'player_events', { column: 'goals' });
+    Popupizer.setup(table.select('tbody td[class*="penalties"]'), 'player_events', { column: 'penalty_goals' });
+    Popupizer.setup(table.select('tbody td[class*="first-goals"]'), 'player_first_goals');
+    new PopupManager(table);
+  })();
+</script>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new PaginatedBlock('page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1', 'block_competition_playerstats_topscores', {"page":0,"per_page":15,"round_id":17916,"season_id":0});
+    block.registerForCallbacks();
+        
+        
+    block.setAttribute('has_previous_page', false);
+    block.setAttribute('has_next_page', true);
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1');
+  })();
+</script>
+
+
+</div>
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_competition_1_block_competition_playerstats_8', 'block_competition_playerstats', {"round_id":17916,"view":1});
+    block.registerForCallbacks();
+    block.addCallbackObserver('page_competition_1_block_competition_playerstats_8_1_1', 'changeView', {"view":1});
+block.addCallbackObserver('page_competition_1_block_competition_playerstats_8_1_2', 'changeView', {"view":2});
+block.addCallbackObserver('page_competition_1_block_competition_playerstats_8_1_3', 'changeView', {"view":3});
+    
+        
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_competition_playerstats_8');
+  })();
+</script>
+    
+    
+    
+
+    
+  
+      </div>
+    </div>
+  </div>
+</div>
+<div class="yui-b">
+  
+  <div class="block  clearfix block_video_list-wrapper" id="page_competition_1_block_video_list_1-wrapper">
+  <h2><a href="/videos/europe/uefa-champions-league/">Videos</a></h2>
+  
+  
+  
+  <div class="content  ">
+    <div class="block_video_list real-content clearfix " id="page_competition_1_block_video_list_1">
+
+      <ul>
+  <li class="fully-padded" style="margin-top: 5px; background-color: #F4F4f4 ">
+    <a href="/videos/europe/uefa-champions-league/v6kyadwy76091d7jlps5v9elp/">
+      <img alt="Klopp ecstatic after extraordinary display" src="http://images.eplayer.performgroup.com/javaImages/f4/5a/0,,~11426548,00.jpeg" style="float:left; border:1px solid black; margin-right: 5px;"/>
+      <span>Klopp ecstatic after extraordinary display</span>
+    </a>
+    <div style="clear: both;"/>
+  </li>
+  <li class="fully-padded" style="margin-top: 5px; background-color: #FFFFFF ">
+    <a href="/videos/europe/uefa-champions-league/1mp4xqaw8s6j116ebirxlbzdi4/">
+      <img alt="Stevens wants more goals" src="http://images.eplayer.performgroup.com/javaImages/d1/5a/0,,~11426513,00.jpeg" style="float:left; border:1px solid black; margin-right: 5px;"/>
+      <span>Stevens wants more goals</span>
+    </a>
+    <div style="clear: both;"/>
+  </li>
+  <li class="fully-padded" style="margin-top: 5px; background-color: #F4F4f4 ">
+    <a href="/videos/europe/uefa-champions-league/1hqfu923smznj1e71nupl8hu7k/">
+      <img alt="Big club had to go - Mourinho" src="http://images.eplayer.performgroup.com/javaImages/ad/5a/0,,~11426477,00.jpeg" style="float:left; border:1px solid black; margin-right: 5px;"/>
+      <span>Big club had to go - Mourinho</span>
+    </a>
+    <div style="clear: both;"/>
+  </li>
+</ul>
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_competition_1_block_video_list_1', 'block_video_list', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_video_list_1');
+  })();
+</script>
+
+	
+	
+  <div class="block_ad ad_rectangle block clearfix">
+  
+
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Run of Site - Other // Placement: Run of Site - Other-MPU-300 x 250 (1770451) // created at: Jan 11, 2012 4:14:50 PM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|1770451|0|170|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|1770451|0|170|ADTECH;loc=300;sub1=[subst]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|1770451|0|170|ADTECH;cookie=info;loc=300" border="0" width="300" height="250"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+</div>
+  
+  
+  
+  <div class="block_ad ad_betting_right block clearfix">
+  
+<div id='div-gpt-ad-1325580837273-7' style='width:300px; height:100px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325580837273-7'); });
+</script>
+</div>
+
+
+<div id='div-gpt-ad-1325073145951-4' style='width:300px; height:100px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325073145951-4'); });
+</script>
+</div>
+
+</div>
+
+  <div class="block  clearfix block_ad_sponsored_links_localized-wrapper" id="page_match_1_block_ad_sponsored_links_localized_19-wrapper">
+  
+  <h2>Sponsored links</h2>
+  
+  
+  <div class="content  ">
+    <div class="block_ad_sponsored_links_localized real-content clearfix " id="page_match_1_block_ad_sponsored_links_localized_19">
+
+      <div class="clearfix">
+  <div class="sl-first ">
+      <p><a href="http://www.olbg.com/free.php" target="new_ads"><strong>OLBG.com Exclusive Free Bets</strong></a></p>
+      <p><a href="http://www.olbg.com/free.php" target="new_ads">Claim the best free bets on the web at OLBG</a></p>
+  </div>
+  <div class=" ">
+      <p><a href="http://www.betrescue.com/cgi-bin/clickthrough.pl" target="new_ads"><strong>Claim 2500 EUR/GBP In Free Bets</strong></a></p>
+      <p><a href="http://www.betrescue.com/cgi-bin/clickthrough.pl" target="new_ads">Free Bets From Over 30 Bookmakers and Casinos. Many Exclusives. Click here to visit betrescue.com</a></p>
+  </div>
+  <div class=" ">
+      <p><a href="http://www.olbg.com/football.php" target="new_ads"><strong>Free Soccer Tips</strong></a></p>
+      <p><a href="http://www.olbg.com/football.php" target="new_ads">Click here to get free soccer tips from the experts</a></p>
+  </div>
+  <div class=" ">
+      <p><a href="http://www.sign-up-bonus.net/" target="new_ads"><strong>Free Bonus News</strong></a></p>
+      <p><a href="http://www.sign-up-bonus.net/" target="new_ads">Sign-Up-Bonus.net is the best resource for bonus news and details from all </a></p>
+  </div>
+  <div class=" ">
+      <p><a href="http://www.betting-directory.com/football/" target="new_ads"><strong>Betting Directory Football </strong></a></p>
+      <p><a href="http://www.betting-directory.com/football/" target="new_ads">Latest news and odds for all major football competitions & matches, together with opinions and tips from Steve Claridge</a></p>
+  </div>
+  <div class=" sl-last">
+      <p><a href="http://www.protipster.com" target="new_ads"><strong>ProTipster - Winners United!</strong></a></p>
+      <p><a href="http://www.protipster.com" target="new_ads">BUY or SELL sportsbetting picks, infos and live reports at ProTipster. Join now for Free!</a></p>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_match_1_block_ad_sponsored_links_localized_19', 'block_ad_sponsored_links_localized', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_ad_sponsored_links_localized_19');
+  })();
+</script>
+  
+
+	<div class="block  clearfix block_home_table-wrapper" id="page_competition_1_block_home_table_2-wrapper">
+  
+  <h2>Tables</h2>
+  
+  
+  <div class="content  ">
+    <div class="subnav clearfix  subnav-first subnav-last">
+      <ul id="page_competition_1_block_home_table_2_subnav">
+          <li class="selected">
+            <a id="page_competition_1_block_home_table_2_1_1">ENG</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_home_table_2_1_2">FRA</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_home_table_2_1_3">GER</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_home_table_2_1_4">ITA</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_home_table_2_1_5">SPA</a>
+          </li>
+      </ul>
+    </div>
+    <div class="block_home_table real-content clearfix " id="page_competition_1_block_home_table_2">
+
+      <div class="block_home_table_small block block-nomb clearfix" id="page_competition_1_block_home_table_2_block_home_table_small_1">
+  <form action="/teams/comparison/" method="get" accept-charset="utf-8">
+  <table class="leaguetable sortable table " id="page_competition_1_block_home_table_2_block_home_table_small_1_table" data-round_id="17950">
+    <thead>
+      <tr class="sub-head">
+        <th title="Rank" class="sortasc sortdefaultasc">#</th>
+        
+        <th class="text team sortdefaultasc">Team</th>
+
+        <th class="number total mp"><acronym title="Matches played">MP</acronym></th>
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <th class="number gd"><acronym title="Goal difference">D</acronym></th>
+        <th class="number points"><acronym title="Points">P</acronym></th>
+
+        
+
+        
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="odd   team_rank"  id="team_rank_row_676" data-team_id="676">
+        <td class="rank rank-dark-green">1</td>
+        <td class="text team large-link"><a href="/teams/england/manchester-city-football-club/" title="Manchester City">Manchester City</a></td>
+
+        <td class="number total mp">12</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+15</td>
+        <td class="number points">28</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_662" data-team_id="662">
+        <td class="rank rank-dark-green">2</td>
+        <td class="text team large-link"><a href="/teams/england/manchester-united-fc/" title="Manchester United">Manchester United</a></td>
+
+        <td class="number total mp">12</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+12</td>
+        <td class="number points">27</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_661" data-team_id="661">
+        <td class="rank rank-dark-green">3</td>
+        <td class="text team large-link"><a href="/teams/england/chelsea-football-club/" title="Chelsea">Chelsea</a></td>
+
+        <td class="number total mp">12</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+11</td>
+        <td class="number points">24</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_678" data-team_id="678">
+        <td class="rank rank-light-green">4</td>
+        <td class="text team large-link"><a href="/teams/england/west-bromwich-albion-football-club/" title="West Bromwich Albion">West Bromwich &hellip;</a></td>
+
+        <td class="number total mp">12</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+6</td>
+        <td class="number points">23</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_674" data-team_id="674">
+        <td class="rank rank-dark-blue">5</td>
+        <td class="text team large-link"><a href="/teams/england/everton-football-club/" title="Everton">Everton</a></td>
+
+        <td class="number total mp">12</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+6</td>
+        <td class="number points">20</td>
+
+
+      </tr>
+    </tbody>
+  </table>
+</form>
+<script type="text/javascript" charset="utf-8">
+  LeagueTable('page_competition_1_block_home_table_2_block_home_table_small_1_table');  
+</script>
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('page_competition_1_block_home_table_2_block_home_table_small_1', 'block_home_table_small', null);
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_home_table_2_block_home_table_small_1');
+  })();
+</script>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_competition_1_block_home_table_2', 'block_home_table', {"competition_id":8});
+    block.registerForCallbacks();
+    block.addCallbackObserver('page_competition_1_block_home_table_2_1_1', 'changeCompetition', {"competition_id":8});
+block.addCallbackObserver('page_competition_1_block_home_table_2_1_2', 'changeCompetition', {"competition_id":16});
+block.addCallbackObserver('page_competition_1_block_home_table_2_1_3', 'changeCompetition', {"competition_id":9});
+block.addCallbackObserver('page_competition_1_block_home_table_2_1_4', 'changeCompetition', {"competition_id":13});
+block.addCallbackObserver('page_competition_1_block_home_table_2_1_5', 'changeCompetition', {"competition_id":7});
+    
+        
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_home_table_2');
+  })();
+</script>
+
+	
+	
+</div>
+
+  </div>
+  <div id="ft">
+    <div class="block_footer block  clearfix" id="block_footer_11">
+  <div id="footer" class="clearfix">
+  <h4 class="title">Soccerway</h4>
+  <div class="cols">
+    <div class="col">
+      <ul>
+        <li class="title">About</li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/advertising/">Advertising</a></li>
+        <li><a href="/contact/">Contact us</a></li>
+        <li><a href="/terms/">Terms</a></li>
+      </li>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Content</li>
+        <li><a href="http://syndication.soccerway.com/rss/english.php">RSS</a></li>
+        <li><a href="http://widgets.soccerway.com/">Widgets</a></li>
+        <li><a href="/syndication/">Content</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Mobile</li>
+        <li><a href="/iphone/">iPhone</a></li>
+        <li><a href="/iphone/">iPad</a></li>
+        <li><a href="http://www.soccerway.mobi/">PDA/WAP</a></li>
+        <li><a href="http://smsalerts.soccerway.com/">SMS alerts</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Social</li>
+        <li><a href="http://www.facebook.com/soccerway" class="facebook" target="_blank">Facebook</a></li>
+        <li><a href="http://www.twitter.com/soccerway" class="twitter" target="_blank">Twitter</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Kick-off Times</li>
+        <li>Kick-off times are converted to your local PC time.<li>
+      </ul>
+    </div>
+  </div>
+  <h4 class="title">GSM Brands</h4>
+  <div class="cols">
+    <div class="col">
+      <ul>
+        <li class="title">Soccerway</li>
+        <li><a href="http://www.soccerway.com/">www.soccerway.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="/national/england/premier-league/">Premier League</a></li>
+        <li><a href="/national/italy/serie-a/">Serie A</a></li>
+        <li><a href="/national/spain/primera-division/">Primera División</a></li>
+        <li><a href="/national/germany/bundesliga/">Bundesliga</a></li>
+        <li><a href="/national/france/ligue-1/">Ligue 1</a></li>
+        <li><a href="/national/netherlands/eredivisie/">Eredivisie</a></li>
+      </ul>
+      <ul>
+        <li><a href="/international/europe/uefa-champions-league/">UEFA Champions League</a></li>
+        <li><a href="/international/europe/uefa-cup/">UEFA Europa League</a></li>
+        <li><a href="/international/world/world-cup/">World Cup</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Scoresway</li>
+        <li><a href="http://www.scoresway.com/" target="_blank">www.scoresway.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.scoresway.com/?sport=american_football" target="_blank">American Football</a></li>
+        <li><a href="http://www.scoresway.com/?sport=baseball" target="_blank">Baseball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=basketball" target="_blank">Basketball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=cricket" target="_blank">Cricket</a></li>
+        <li><a href="http://www.scoresway.com/?sport=handball" target="_blank">Handball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=hockey" target="_blank">Hockey</a></li>
+        <li><a href="http://www.scoresway.com/?sport=motorsports" target="_blank">Motorsports</a></li>
+        <li><a href="http://www.scoresway.com/?sport=rugby" target="_blank">Rugby</a></li>
+        <li><a href="http://www.scoresway.com/?sport=tennis" target="_blank">Tennis</a></li>
+        <li><a href="http://www.scoresway.com/?sport=volleyball" target="_blank">Volleyball</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Oddsway</li>
+        <li><a href="http://www.oddsway.com/" target="_blank">www.oddsway.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.oddsway.com/betting?competitionid=115" target="_blank">World Cup Odds</a></li>
+        <li><a href="http://www.oddsway.com/betting?competitionid=20" target="_blank">Champions League Odds</a></li>
+        <li><a href="http://www.oddsway.com/betting?competitionid=1" target="_blank">Premier League Odds</a></li>
+        <li><a href="http://www.oddsway.com/betting?competitionid=17" target="_blank">Primera División Odds</a></li>
+        <li><a href="http://www.oddsway.com/betting?competitionid=6" target="_blank">Serie A Odds</a></li>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">GSM</li>
+        <li><a href="http://www.globalsportsmedia.com/" target="_blank">www.globalsportsmedia.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.globalsportsmedia.com/sports" target="_blank">Sports coverage</a></li>
+        <li><a href="http://www.globalsportsmedia.com/products" target="_blank">Products</a></li>
+        <li><a href="http://www.globalsportsmedia.com/industries" target="_blank">Industries</a></li>
+        <li><a href="http://www.globalsportsmedia.com/brands" target="_blank">Brands</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.globalsportsmedia.com/" class="gsm-logo" target="_blank"></a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li style="height:195px">&nbsp;</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="copyright">
+  Copyright &copy;2012 <a href="http://www.globalsportsmedia.com/" target="_blank">Global Sports Media</a>. All rights reserved.
+</div>
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('block_footer_11', 'block_footer', null);
+    
+    
+    
+    TimestampFormatter.format('block_footer_11');
+  })();
+</script>
+  </div>
+  
+</div>
+
+<div class="block_ad ad_floating_bar block clearfix">
+  <div id='div-gpt-ad-1325073145951-2' style='width:1000px; height:50px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325073145951-2'); });
+</script>
+<span class="close">&nbsp;</span>
+</div>
+
+<script type="text/javascript">
+(function(){
+  var el = $$('.ad_floating_bar')[0];
+  if (el) {
+    var cookie_name = 'sw_no_ad_floating_bar';
+    if (!Cookie.get(cookie_name)) {
+      googletag.cmd.push(function() { el.style.display = 'block'; });
+
+      Element.select(el, '.close')[0].observe('click', function(evt){
+        el.style.display = 'none';
+
+        var date = new Date();
+        date.setTime(date.getTime()+(24*60*60*1000)); // 24h
+
+        Cookie.set(cookie_name, 1, {expires: date.toUTCString(), path: '/', domain: Config.get('base_domain')});
+        Event.stop(evt);
+      });
+    }
+  }
+})();
+</script>
+</div>
+
+<div id="popup" class="hidden">
+  <div class="content"></div>
+  <div class="handle"></div>
+  <a class="close-button"></a>
+</div>
+
+
+
+</body>
 </html>

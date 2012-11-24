@@ -1,0 +1,46 @@
+[0.000][INFO]:      ChromeDriver 23.0.1240.0 /usr/bin/chromedriver
+[0.244][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.245][INFO]:      Using named testing interface
+[0.781][INFO]:      Connected to Chrome successfully. Version: 20.0.1132.47
+[0.815][FINE]:      Command received (/session/3a62001c04f80d1a563be87ae87203f6)
+[0.815][FINE]:      Command finished (/session/3a62001c04f80d1a563be87ae87203f6) with response {
+   "sessionId": "3a62001c04f80d1a563be87ae87203f6",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "23.0.1240.0",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "linux",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "20.0.1132.47",
+      "webStorageEnabled": true
+   }
+}
+
+[3.051][FINE]:      Command received (/session/3a62001c04f80d1a563be87ae87203f6)
+[14.118][WARNING]:  Chrome still running, terminating...
+[14.118][INFO]:     Chrome shutdown
