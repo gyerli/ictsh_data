@@ -1,5 +1,5 @@
 [0.000][INFO]:      ChromeDriver 23.0.1240.0 /usr/bin/chromedriver
-[0.275][FINE]:      Initializing session with capabilities {
+[0.267][FINE]:      Initializing session with capabilities {
    "browserName": "chrome",
    "chrome.detach": true,
    "chromeOptions": {
@@ -14,11 +14,11 @@
    "version": ""
 }
 
-[0.276][INFO]:      Using named testing interface
-[0.725][INFO]:      Connected to Chrome successfully. Version: 20.0.1132.47
-[0.741][FINE]:      Command received (/session/276ced17c5d459967c2f2abf0f59ba36)
-[0.741][FINE]:      Command finished (/session/276ced17c5d459967c2f2abf0f59ba36) with response {
-   "sessionId": "276ced17c5d459967c2f2abf0f59ba36",
+[0.267][INFO]:      Using named testing interface
+[0.689][INFO]:      Connected to Chrome successfully. Version: 20.0.1132.47
+[0.751][FINE]:      Command received (/session/524e30aa824d3fbb6b6906c161fe4ed4)
+[0.752][FINE]:      Command finished (/session/524e30aa824d3fbb6b6906c161fe4ed4) with response {
+   "sessionId": "524e30aa824d3fbb6b6906c161fe4ed4",
    "status": 0,
    "value": {
       "acceptSslCerts": false,
@@ -41,44 +41,44 @@
    }
 }
 
-[0.765][FINE]:      Command received (/session/276ced17c5d459967c2f2abf0f59ba36/url) with params {
+[0.756][FINE]:      Command received (/session/524e30aa824d3fbb6b6906c161fe4ed4/url) with params {
    "url": "http://localhost:3000"
 }
 
-[0.765][FINER]:     Waiting for all views to stop loading...
-[0.770][FINER]:     Done waiting for all views to stop loading
-[6.812][FINER]:     Waiting for all views to stop loading...
-[7.308][FINER]:     Done waiting for all views to stop loading
-[7.309][FINE]:      Command finished (/session/276ced17c5d459967c2f2abf0f59ba36/url) with response {
-   "sessionId": "276ced17c5d459967c2f2abf0f59ba36",
+[0.756][FINER]:     Waiting for all views to stop loading...
+[0.761][FINER]:     Done waiting for all views to stop loading
+[5.478][FINER]:     Waiting for all views to stop loading...
+[5.485][FINER]:     Done waiting for all views to stop loading
+[5.485][FINE]:      Command finished (/session/524e30aa824d3fbb6b6906c161fe4ed4/url) with response {
+   "sessionId": "524e30aa824d3fbb6b6906c161fe4ed4",
    "status": 0,
    "value": {
 
    }
 }
 
-[7.309][FINE]:      Command received (/session/276ced17c5d459967c2f2abf0f59ba36/url)
-[7.310][FINER]:     Waiting for all views to stop loading...
-[7.325][FINER]:     Done waiting for all views to stop loading
-[7.337][FINER]:     Waiting for all views to stop loading...
-[7.337][FINER]:     Done waiting for all views to stop loading
-[7.337][FINE]:      Command finished (/session/276ced17c5d459967c2f2abf0f59ba36/url) with response {
-   "sessionId": "276ced17c5d459967c2f2abf0f59ba36",
+[5.487][FINE]:      Command received (/session/524e30aa824d3fbb6b6906c161fe4ed4/url)
+[5.487][FINER]:     Waiting for all views to stop loading...
+[5.977][FINER]:     Done waiting for all views to stop loading
+[5.994][FINER]:     Waiting for all views to stop loading...
+[5.995][FINER]:     Done waiting for all views to stop loading
+[5.995][FINE]:      Command finished (/session/524e30aa824d3fbb6b6906c161fe4ed4/url) with response {
+   "sessionId": "524e30aa824d3fbb6b6906c161fe4ed4",
    "status": 0,
    "value": "http://localhost:3000/"
 }
 
-[7.339][FINE]:      Command received (/session/276ced17c5d459967c2f2abf0f59ba36/source)
-[7.339][FINER]:     Waiting for all views to stop loading...
-[7.340][FINER]:     Done waiting for all views to stop loading
-[7.408][FINER]:     Waiting for all views to stop loading...
-[7.409][FINER]:     Done waiting for all views to stop loading
-[7.409][FINE]:      Command finished (/session/276ced17c5d459967c2f2abf0f59ba36/source) with response {
-   "sessionId": "276ced17c5d459967c2f2abf0f59ba36",
+[5.996][FINE]:      Command received (/session/524e30aa824d3fbb6b6906c161fe4ed4/source)
+[5.996][FINER]:     Waiting for all views to stop loading...
+[5.996][FINER]:     Done waiting for all views to stop loading
+[6.032][FINER]:     Waiting for all views to stop loading...
+[6.033][FINER]:     Done waiting for all views to stop loading
+[6.033][FINE]:      Command finished (/session/524e30aa824d3fbb6b6906c161fe4ed4/source) with response {
+   "sessionId": "524e30aa824d3fbb6b6906c161fe4ed4",
    "status": 0,
    "value": "\u003C!DOCTYPE html\u003E\u003C!--[if lt IE 7 ]\u003E\u003Chtml lang=\"en\" class=\"ie6\"\u003E \u003C![endif]--\u003E\u003C!--[if IE 7 ]\u003E\u003Chtml la..."
 }
 
-[7.474][FINE]:      Command received (/session/276ced17c5d459967c2f2abf0f59ba36)
-[18.529][WARNING]:  Chrome still running, terminating...
-[18.529][INFO]:     Chrome shutdown
+[6.079][FINE]:      Command received (/session/524e30aa824d3fbb6b6906c161fe4ed4)
+[17.135][WARNING]:  Chrome still running, terminating...
+[17.135][INFO]:     Chrome shutdown

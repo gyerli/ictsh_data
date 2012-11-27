@@ -1,0 +1,2845 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]><html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]-->
+<head>
+  <title>Summary - 1. Lig - Turkey - Results, fixtures, tables and news - Soccerway</title>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Summary - 1. Lig - Turkey - Results, fixtures, tables and news - Soccerway" />
+  <meta name="keywords" content="Summary - 1. Lig - Turkey - Results, fixtures, tables and news - Soccerway, soccer, football, soccer results, soccer tables, soccer fixtures, soccer statistics, soccer teams, soccer players, soccer news, football results, football tables, football fixtures, football statistics, football teams, football players, football news" />
+  <meta name="verify-v1" content="YZMe1orngFPI/VHY1nG15dA7JJApmh8u0hkegWp64g8=" />
+  <meta name="alexaVerifyID" content="njeQixLcgBgQ9UllN0-IbVYAz1M" />
+  
+  
+  <link rel="alternate" href="http://syndication.soccerway.com/rss/english.php" type="application/rss+xml" media="screen" charset="utf-8" />
+  
+  <script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  var Config = (function() {
+    var settings = {"cookie_domain":".soccerway.com","ajax_path":"\/a","live_update_path":"\/lu","l10n_cookie_name":"sw_l10n","l10n":"www","default_l10n":"www","base_domain":"soccerway.com","valid_l10ns":["cn","de","www","uk","es","fr","it","nl","pl","pt","br","ro","tr","ru","ar"],"geo_script":"http:\/\/geo.soccerway.com\/geo.php","username_cookie_name":"sw_username"};
+    
+    return {
+      get: function(key) {
+        return settings[key];
+      }
+    };
+  })();
+  /* ]]> */
+</script>
+  
+  <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css" charset="utf-8" />
+
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/388/css/white_labels/soccerway.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/388/img/flags/16x16/plain/map.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/388/img/flags/24x24/plain/map.css" type="text/css" charset="utf-8" />
+<!--[if IE]>
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/388/css/ie.css" type="text/css" charset="utf-8" />
+<![endif]-->
+
+<script src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js" type="text/javascript"></script>
+<script src="http://s1.swimg.net/gsmf/388/js/all-min.js" type="text/javascript"></script>
+
+  
+  <script type="text/javascript" charset="utf-8">
+  L10nManager.initialize();
+</script>
+
+  
+  <script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  dateFormat.i18n = {
+  	dayNames: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat","Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    monthNames: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec","January","February","March","April","May","June","July","August","September","October","November","December"]
+  };
+  /* ]]> */
+</script>
+  
+  <script type="text/javascript" charset="utf-8">
+       document.domain = Config.get('base_domain');
+   </script>
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-263129-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  document.observe('dom:loaded', function() {
+    $$('a[target="_blank"]').invoke('observe', 'click', function(evt) {
+      _gaq.push(['_trackPageview', '/outgoing/' + evt.element().readAttribute('href')]);
+    }.bindAsEventListener());
+  });
+
+</script>
+  </head>
+<body id="page_competition">
+<div id="top-bar">
+	<div class="container clearfix">
+		<ul class="social">
+			<li class="like_us"><a href="http://www.facebook.com/soccerway" class="facebook" target="_blank">Like Us</a></li>
+			<li class="follow_us"><a href="http://www.twitter.com/soccerway" class="twitter" target="_blank">Follow Us</a></li>
+		</ul>
+		<ul class="flyout">
+      <li class="t_l h_d sport_select">
+  <a href="http://scoresway.com/" class="t_l">Sport<span></span></a>
+  <div class="submenu" id="sport_picker">
+    <div class="col">
+      <ul>
+        <li><a href="http://www.soccerway.com/" class="sport soccer" target="_self">Soccer</a></li>
+        <li><a href="http://women.soccerway.com/" class="sport women_soccer" target="_blank">Women soccer</a></li>
+        <li><a href="http://www.scoresway.com/?sport=american_football" class="sport american_football" target="_blank">American Football</a></li>
+        <li><a href="http://www.scoresway.com/?sport=baseball" class="sport baseball" target="_blank">Baseball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=basketball" class="sport basketball" target="_blank">Basketball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=cricket" class="sport cricket" target="_blank">Cricket</a></li>
+        <li><a href="http://www.scoresway.com/?sport=handball" class="sport handball" target="_blank">Handball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=hockey" class="sport hockey" target="_blank">Hockey</a></li>
+        <li><a href="http://www.scoresway.com/?sport=motorsports" class="sport motorsports" target="_blank">Motorsports</a></li>
+        <li><a href="http://www.scoresway.com/?sport=rugby" class="sport rugby" target="_blank">Rugby</a></li>
+        <li><a href="http://www.scoresway.com/?sport=tennis" class="sport tennis" target="_blank">Tennis</a></li>
+        <li><a href="http://www.scoresway.com/?sport=volleyball" class="sport volleyball" target="_blank">Volleyball</a></li>
+      </ul>
+    </div>
+  </div>
+</li>
+
+      <li class="t_l h_d language_search">
+  <a href="/" class="t_l">English - International<span></span></a>
+  <div class="submenu" id="language_picker">
+    <div class="col">
+      <ul>
+        <li><a href="http://cn.soccerway.com" data-l10n="cn" class="flag_16 left_16 china-pr_16_left" onclick="L10nManager.process('cn');return false;">Chinese (simplified)</a></li>
+        <li><a href="http://de.soccerway.com" data-l10n="de" class="flag_16 left_16 germany_16_left" onclick="L10nManager.process('de');return false;">Deutsch</a></li>
+        <li><a href="http://www.soccerway.com" data-l10n="www" class="flag_16 left_16 world_16_left" onclick="L10nManager.process('www');return false;">English - International</a></li>
+        <li><a href="http://uk.soccerway.com" data-l10n="uk" class="flag_16 left_16 great-britain_16_left" onclick="L10nManager.process('uk');return false;">English - United Kingdom</a></li>
+        <li><a href="http://es.soccerway.com" data-l10n="es" class="flag_16 left_16 spain_16_left" onclick="L10nManager.process('es');return false;">Español</a></li>
+        <li><a href="http://fr.soccerway.com" data-l10n="fr" class="flag_16 left_16 france_16_left" onclick="L10nManager.process('fr');return false;">Français</a></li>
+        <li><a href="http://it.soccerway.com" data-l10n="it" class="flag_16 left_16 italy_16_left" onclick="L10nManager.process('it');return false;">Italiano</a></li>
+        <li><a href="http://nl.soccerway.com" data-l10n="nl" class="flag_16 left_16 netherlands_16_left" onclick="L10nManager.process('nl');return false;">Nederlands</a></li>
+        <li><a href="http://pl.soccerway.com" data-l10n="pl" class="flag_16 left_16 poland_16_left" onclick="L10nManager.process('pl');return false;">Polski</a></li>
+        <li><a href="http://pt.soccerway.com" data-l10n="pt" class="flag_16 left_16 portugal_16_left" onclick="L10nManager.process('pt');return false;">Português</a></li>
+        <li><a href="http://br.soccerway.com" data-l10n="br" class="flag_16 left_16 brazil_16_left" onclick="L10nManager.process('br');return false;">Brazil</a></li>
+        <li><a href="http://ro.soccerway.com" data-l10n="ro" class="flag_16 left_16 romania_16_left" onclick="L10nManager.process('ro');return false;">Româna</a></li>
+        <li><a href="http://tr.soccerway.com" data-l10n="tr" class="flag_16 left_16 turkey_16_left" onclick="L10nManager.process('tr');return false;">Türkçe</a></li>
+        <li><a href="http://ru.soccerway.com" data-l10n="ru" class="flag_16 left_16 russia_16_left" onclick="L10nManager.process('ru');return false;">Русский</a></li>
+        <li><a href="http://ar.soccerway.com" data-l10n="ar" class="flag_16 left_16 world_16_left" onclick="L10nManager.process('ar');return false;">العربية</a></li>
+      </ul>
+    </div>
+  </div>
+</li>
+
+    
+    </ul>
+	</div>
+</div>
+<header id="site-header">
+	<div class="container">
+    <div id="logo-bar" class="big-localized-www">
+  <a href="/" id="logo" class="localized-www">Soccerway</a>
+  <div class="banner-content">
+    <div id="top-right-banner">
+      <div class="block_ad ad_header block clearfix">
+  
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Run of Site - Other // Placement: Run of Site - Leaderboard-728 x 90 (1689338) // created at: Jan 11, 2012 4:14:29 PM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|1689338|0|225|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|1689338|0|225|ADTECH;loc=300;sub1=[subst]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|1689338|0|225|ADTECH;cookie=info;loc=300" border="0" width="728" height="90"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+</div>
+    </div>
+  </div>
+</div>
+
+
+    <nav id="main">
+  <ul class="clearfix t_l">
+    <li class="t_l has-dropdown">
+      <a href="/" class="t_l">Today</a>
+      <a href="/" class="dropdown-button" id="today-dropdown-button">#</a>    
+      <div class="dropdown cal-dropdown" style="display: none;" id="today-dropdown">
+        <h2>Calendar</h2>
+        <div class="calendar-container clearfix">
+  <div id="dropdown-cal" class="calendar"></div>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  (function() {
+    Object.extend(Date.prototype, {
+      monthnames: dateFormat.i18n.monthNames.slice(0, 11),
+      short_monthnames: dateFormat.i18n.monthNames.slice(11, 21),
+      daynames: dateFormat.i18n.dayNames.slice(0, 7),
+      short_daynames: dateFormat.i18n.dayNames.slice(7, 13)
+    });
+
+    var changeHandler = function(date) {
+      var year = date.getFullYear().toString(),
+          month = (date.getMonth() + 1).toString(),
+          day = date.getDate().toString(),
+          url,
+          url_prefix = '/matches/',
+          url_suffix = '';
+      var today = new Date();
+      var today_year = today.getFullYear().toString(),
+          today_month = (today.getMonth() + 1).toString(),
+          today_day = today.getDate().toString(),
+          today_url = '';
+
+      if (today_url != '' && year == today_year && month == today_month && day == today_day) {
+        window.location.href = today_url;
+      } else {
+        if (month.length === 1) month = '0' + month;
+        if (day.length === 1) day = '0' + day;
+        url = url_prefix + year + '/' + month + '/' + day + '/';
+        if (url_suffix != '' && url_suffix != '/') {
+          url += url_suffix;
+        }
+        window.location.href = url;
+      }
+    };
+
+    var cal_initialized = false;
+    function initializeCalendar(){
+      if (cal_initialized == false) {
+        var cal = new scal('dropdown-cal', changeHandler, {
+          dayheadlength: 3,
+          highlightselected: ('2012' != ''),
+          year: parseInt('2012'),
+          month: parseInt('11'),
+          day: parseInt('27')
+        });
+        cal_initialized = true;
+      }
+    }
+
+    if (1){
+      $('today-dropdown-button').observe('click', initializeCalendar);
+    }
+    else{
+      initializeCalendar();
+    }
+
+  })();
+  /* ]]> */
+</script>
+      </div>
+    </li>
+    <li class="t_l"><a href="/news/" class="t_l">News</a></li>
+    <li class="t_l h_d">
+      <a href="/competitions/" class="t_l">Competitions</a>
+      <div class="submenu col_4 clearfix">
+        <div class="col">
+          <ul>
+            <li class="title">Club Domestic</li>
+            <li><a href="/national/england/premier-league/" class="flag_16 left_16 england_16_left">Premier League</a></li>
+            <li><a href="/national/italy/serie-a/" class="flag_16 left_16 italy_16_left">Serie A</a></li>
+            <li><a href="/national/spain/primera-division/" class="flag_16 left_16 spain_16_left">Primera División</a></li>
+            <li><a href="/national/germany/bundesliga/" class="flag_16 left_16 germany_16_left">Bundesliga</a></li>
+            <li><a href="/national/france/ligue-1/" class="flag_16 left_16 france_16_left">Ligue 1</a></li>
+            <li><a href="/national/netherlands/eredivisie/" class="flag_16 left_16 netherlands_16_left">Eredivisie</a></li>
+            <li><a href="/national/turkey/super-lig/" class="flag_16 left_16 turkey_16_left">Süper Lig</a></li>
+            <li><a href="/national/portugal/portuguese-liga-/" class="flag_16 left_16 portugal_16_left">Primeira Liga</a></li>
+            <li><a href="/national/england/championship/" class="flag_16 left_16 england_16_left">Championship</a></li>
+            <li><a href="/national/brazil/serie-a/" class="flag_16 left_16 brazil_16_left">Serie A</a></li>
+          </ul>
+          <a href="/competitions/club-domestic/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">Club International</li>
+            <li class="sub-title">Europe</li>
+            <li><a href="/international/europe/uefa-champions-league/" class="flag_16 left_16 europe_16_left">Champions League</a></li>
+            <li><a href="/international/europe/uefa-cup/" class="flag_16 left_16 europe_16_left">Europa League</a></li>
+            <li><a href="/international/europe/uefa-super-cup/" class="flag_16 left_16 europe_16_left">Super Cup</a></li>
+            <li class="sub-title">Asia</li>
+            <li><a href="/international/asia/afc-champions-league/" class="flag_16 left_16 asia_16_left">Champions League</a></li>
+            <li><a href="/international/asia/afc-cup/" class="flag_16 left_16 asia_16_left">AFC Cup</a></li>
+            <li class="sub-title">South America</li>
+            <li><a href="/international/south-america/copa-libertadores/" class="flag_16 left_16 south-america_16_left">Copa Libertadores</a></li>
+            <li><a href="/international/south-america/copa-sudamericana/" class="flag_16 left_16 south-america_16_left">Copa Sudamericana</a></li>
+          </ul>
+          <a href="/competitions/club-international/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">National</li>
+            <li><a href="/international/world/world-cup/" class="flag_16 left_16 world_16_left" title="World Cup">World Cup</a></li>
+            <li><a href="/international/world/olympics/" class="flag_16 left_16 world_16_left" title="Olympics">Olympics</a></li>
+            <li><a href="/international/europe/european-championships/" class="flag_16 left_16 europe_16_left" title="European Championship">Euro 2012</a></li>
+            <li><a href="/international/south-america/copa-america/" class="flag_16 left_16 south-america_16_left" title="Copa America">Copa America</a></li>
+            <li><a href="/international/nc-america/concacaf-gold-cup/" class="flag_16 left_16 nc-america_16_left" title="CONCACAF Gold Cup">Gold Cup</a></li>
+            <li><a href="/international/asia/asian-cup/" class="flag_16 left_16 asia_16_left" title="Asian Cup">Asian Cup</a></li>
+            <li><a href="/international/africa/africa-cup-of-nations/" class="flag_16 left_16 africa_16_left" title="Africa Cup of Nations">Africa Cup of Nations</a></li>
+            <li><a href="/international/world/confederations-cup/" class="flag_16 left_16 world_16_left" title="Confederations Cup">Confederations Cup</a></li>
+            <li><a href="/international/world/u20-world-cup/" class="flag_16 left_16 world_16_left" title="U20 World Cup">U20 World Cup</a></li>
+            <li><a href="/international/europe/uefa-u21-championship/" class="flag_16 left_16 europe_16_left" title="UEFA U21 Championship">Euro U21 Champ</a></li>
+          </ul>
+          <a href="/competitions/national/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">Women</li>
+            <li><a href="http://women.soccerway.com/national/germany/frauen-bundesliga/" class="flag_16 left_16 germany_16_left" target="_blank">Frauen Bundesliga</a></li>
+            <li><a href="http://women.soccerway.com/national/sweden/damallsvenskan/" class="flag_16 left_16 sweden_16_left" target="_blank">Damallsvenskan</a></li>
+            <li><a href="http://women.soccerway.com/national/england/wsl/" class="flag_16 left_16 england_16_left" target="_blank">WSL</a></li>
+            <li><a href="http://women.soccerway.com/national/united-states/wps/" class="flag_16 left_16 united-states_16_left" target="_blank">WPS</a></li>
+            <li><a href="http://women.soccerway.com/national/norway/toppserien/" class="flag_16 left_16 norway_16_left" target="_blank">Toppserien</a></li>
+            <li><a href="http://women.soccerway.com/national/france/feminine-division-1/" class="flag_16 left_16 france_16_left" target="_blank">Feminine Division 1</a></li>
+            <li><a href="http://women.soccerway.com/international/world/womens-world-cup/" class="flag_16 left_16 world_16_left" target="_blank">Women's World Cup</a></li>
+            <li><a href="http://women.soccerway.com/international/world/olympics-women/" class="flag_16 left_16 world_16_left" target="_blank">Olympics Women</a></li>
+            <li><a href="http://women.soccerway.com/international/europe/uefa-womens-championship/" class="flag_16 left_16 europe_16_left" target="_blank">Women's Euro</a></li>
+            <li><a href="http://women.soccerway.com/international/europe/uefa-womens-champions-league/" class="flag_16 left_16 europe_16_left" target="_blank">Champions League</a></li>
+          </ul>
+          <a href="/competitions/women/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+        </div>
+      </div>
+    </li>
+    <li class="t_l h_d">
+      <a href="/teams/" class="t_l">Teams</a>
+      <div class="submenu col_3 clearfix">
+        <div class="col">
+          <ul>
+            <li class="title">Club teams</li>
+            <li><a href="/teams/spain/futbol-club-barcelona/" class="flag_16 left_16 spain_16_left">Barcelona</a></li>
+            <li><a href="/teams/spain/real-madrid-club-de-futbol/" class="flag_16 left_16 spain_16_left">Real Madrid</a></li>
+            <li><a href="/teams/england/manchester-united-fc/" class="flag_16 left_16 england_16_left">Manchester United</a></li>
+            <li><a href="/teams/england/arsenal-fc/" class="flag_16 left_16 england_16_left">Arsenal</a></li>
+            <li><a href="/teams/england/liverpool-fc/" class="flag_16 left_16 england_16_left">Liverpool</a></li>
+            <li><a href="/teams/italy/fc-internazionale-milano/" class="flag_16 left_16 italy_16_left">Internazionale</a></li>
+            <li><a href="/teams/italy/ac-milan/" class="flag_16 left_16 italy_16_left">Milan</a></li>
+            <li><a href="/teams/germany/fc-bayern-munchen/" class="flag_16 left_16 germany_16_left">Bayern München</a></li>
+            <li><a href="/teams/portugal/futebol-clube-do-porto/" class="flag_16 left_16 portugal_16_left">Porto</a></li>
+            <li><a href="/teams/argentina/boca-juniors/" class="flag_16 left_16 argentina_16_left">Boca Juniors</a></li>
+            <a href="/teams/club-teams/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">National Teams</li>
+            <li><a href="/teams/spain/spain/" class="flag_16 left_16 spain_16_left">Spain</a></li>
+            <li><a href="/teams/netherlands/netherlands/" class="flag_16 left_16 netherlands_16_left">Netherlands</a></li>
+            <li><a href="/teams/germany/germany/" class="flag_16 left_16 germany_16_left">Germany</a></li>
+            <li><a href="/teams/england/england/" class="flag_16 left_16 england_16_left">England</a></li>
+            <li><a href="/teams/brazil/brazil/" class="flag_16 left_16 brazil_16_left">Brazil</a></li>
+            <li><a href="/teams/argentina/argentina/" class="flag_16 left_16 argentina_16_left">Argentina</a></li>
+            <li><a href="/teams/italy/italy/" class="flag_16 left_16 italy_16_left">Italy</a></li>
+            <li><a href="/teams/portugal/portugal/" class="flag_16 left_16 portugal_16_left">Portugal</a></li>
+            <li><a href="/teams/france/france/" class="flag_16 left_16 france_16_left">France</a></li>
+            <li><a href="/teams/russia/russia/" class="flag_16 left_16 russia_16_left">Russia</a></li>
+            <a href="/teams/national-teams/" class="all">All<img src="http://s1.swimg.net/gsmf/388/img/spacer.gif" alt="" /></a>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">More</li>
+            <li><a href="/teams/rankings/fifa/">FIFA Rankings</a></li>
+            <li><a href="/teams/comparison/">H2H Comparison</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li class="t_l h_d">
+      <a href="/players/" class="t_l">Players</a>
+      <div class="submenu col_2 clearfix">
+        <div class="col">
+          <ul>
+            <li class="title">Players</li>
+            <li><a href="/players/lionel-andres-messi/119/" class="flag_16 left_16 argentina_16_left">L. Messi</a></li>
+            <li><a href="/players/cristiano-ronaldo-dos-santos-aveiro/382/" class="flag_16 left_16 portugal_16_left">C. Ronaldo</a></li>
+            <li><a href="/players/wayne-rooney/193/" class="flag_16 left_16 england_16_left">W. Rooney</a></li>
+            <li><a href="/players/xavier-hernandez-creus/333/" class="flag_16 left_16 spain_16_left">X. Hernández</a></li>
+            <li><a href="/players/didier-drogba/310/" class="flag_16 left_16 cote-divoire_16_left">D. Drogba</a></li>
+            <li><a href="/players/andres-iniesta-lujan/329/" class="flag_16 left_16 spain_16_left">A. Iniesta</a></li>
+            <li><a href="/players/fernando-jose-torres-sanz/334/" class="flag_16 left_16 spain_16_left">F. Torres</a></li>
+            <li><a href="/players/steven-gerrard/186/" class="flag_16 left_16 england_16_left">S. Gerrard</a></li>
+            <li><a href="/players/samuel-eto-o/2994/" class="flag_16 left_16 cameroon_16_left">S. Eto'o</a></li>
+            <li><a href="/players/francesc-fabregas-soler/328/" class="flag_16 left_16 spain_16_left">C. Fàbregas</a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">More</li>
+            <li><a href="/players/transfers/">Transfers &amp; Loans</a></li>
+            <li><a href="/players/topscorers/">Topscorers</a></li>
+            <li><a href="/players/disciplinary/">Disciplinary</a></li>
+            <li><a href="/players/birthday/">Born today</a></li>
+            <li><a href="/players/players_abroad/">Players abroad</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li class="t_l"><a href="/betting/" class="t_l">Odds</a></li>
+    <li class="t_l"><a href="/videos/" class="t_l">Videos</a></li>
+    <li class="t_l h_d more">
+      <a href="/about/" class="t_l">More</a>
+      <div class="submenu col_2 clearfix" id="submenu_more">
+        <div class="col">
+          <ul>
+            <li class="title">About</li>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/advertising/">Advertising</a></li>
+            <li><a href="/contact/">Contact us</a></li>
+            <li><a href="/terms/">Terms</a></li>
+          </ul>
+          <ul>
+            <li class="title">Content</li>
+            <li><a href="http://syndication.soccerway.com/rss/english.php">RSS</a></li>
+            <li><a href="http://widgets.soccerway.com/">Widgets</a></li>
+            <li><a href="/syndication/">Content</a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">Mobile</li>
+            <li><a href="/iphone/">iPhone</a></li>
+            <li><a href="/iphone/">iPad</a></li>
+            <li><a href="http://www.soccerway.mobi/">PDA/WAP</a></li>
+            <li><a href="http://smsalerts.soccerway.com/">SMS Alerts</a></li>
+          </ul>
+          <ul>
+            <li class="title">Social</li>
+            <li><a href="http://www.facebook.com/soccerway" class="facebook" target="_blank">Facebook</a></li>
+            <li><a href="http://www.twitter.com/soccerway" class="twitter" target="_blank">Twitter</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+  </ul>
+</nav>
+<form accept-charset="utf-8" method="get" action="/search/" id="search">
+  <div id="search-input-wrap">
+    <input type="text" id="search-input" value="Search" name="q">
+    <div id="search-input-submit">&nbsp;</div>
+  </div>
+  <input type="hidden" value="all" name="module">
+</form>
+
+<script type="text/javascript">
+  (function(){
+    DropdownManager.create('today-dropdown', 'today-dropdown-button');
+
+    // delay submenu hovers
+    var timer;
+    $('main').select('li.h_d').each(function(el){
+      el.observe('mouseenter', function(evt){
+        var that = this;
+        timer = window.setTimeout(function(){
+          that.addClassName('active');
+        }, 250);
+      });
+      el.observe('mouseleave', function(evt){
+        window.clearTimeout(timer);
+        el.removeClassName('active');
+      });
+    });
+
+    var searchbox = $('search-input-submit');
+    var searchinput = $('search-input');
+    Event.observe(searchbox, 'click', function(event){ $('search').submit();});
+    Event.observe(searchinput, 'focus', function(event){ if( searchinput.value == 'Search') searchinput.value = '';});
+    Event.observe(searchinput, 'blur', function(event){ if( searchinput.value.trim() == '') searchinput.value = 'Search';});
+  })();
+</script>
+ 		
+	</div>
+</header>
+
+<div id="doc4" class="yui-t6">  
+  <div id="hd">
+    <div class="block_navbar block block-nomb clearfix" id="block_navbar_13">
+  <div id="navbar" class="clearfix">
+  <div id="navbar-left">
+    <select size="1" class="first  nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">Popular</option>
+
+      <option value="/national/england/premier-league/">Premier League</option><option value="/national/germany/bundesliga/">Bundesliga</option><option value="/national/italy/serie-a/">Serie A</option><option value="/national/spain/primera-division/">Primera División</option><option value="/national/france/ligue-1/">Ligue 1</option><option value="/national/netherlands/eredivisie/">Eredivisie</option><option value="/national/turkey/super-lig/">Süper Lig</option><option value="/national/brazil/serie-a/">Serie A</option><option value="/national/portugal/portuguese-liga-/">Primeira Liga</option><option value="/national/scotland/premier-league/">Premier League</option><option value="/national/belgium/pro-league/">Pro League</option><option value="/international/europe/uefa-champions-league/">UEFA Champions League</option><option value="/international/europe/uefa-cup/">UEFA Europa League</option><option value="/international/europe/european-championships/">European Championship</option>
+
+    </select>
+    <select size="1" class="  nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">Club Domestic (734)</option>
+
+      <option value="/national/afghanistan/">Afghanistan (1)</option><option value="/national/albania/">Albania (7)</option><option value="/national/algeria/">Algeria (3)</option><option value="/national/american-samoa/">American Samoa (1)</option><option value="/national/andorra/">Andorra (5)</option><option value="/national/angola/">Angola (2)</option><option value="/national/antigua-and-barbuda/">Antigua and Barbuda (1)</option><option value="/national/argentina/">Argentina (13)</option><option value="/national/armenia/">Armenia (4)</option><option value="/national/aruba/">Aruba (1)</option><option value="/national/australia/">Australia (14)</option><option value="/national/austria/">Austria (7)</option><option value="/national/azerbaijan/">Azerbaijan (3)</option><option value="/national/bahamas/">Bahamas (1)</option><option value="/national/bahrain/">Bahrain (3)</option><option value="/national/bangladesh/">Bangladesh (1)</option><option value="/national/barbados/">Barbados (1)</option><option value="/national/belarus/">Belarus (6)</option><option value="/national/belgium/">Belgium (12)</option><option value="/national/belize/">Belize (1)</option><option value="/national/benin/">Benin (1)</option><option value="/national/bermuda/">Bermuda (1)</option><option value="/national/bhutan/">Bhutan (1)</option><option value="/national/bolivia/">Bolivia (2)</option><option value="/national/bosnia-herzegovina/">Bosnia-Herzegovina (3)</option><option value="/national/botswana/">Botswana (1)</option><option value="/national/brazil/">Brazil (47)</option><option value="/national/british-virgin-islands/">British Virgin Islands (1)</option><option value="/national/brunei-darussalam/">Brunei Darussalam (1)</option><option value="/national/bulgaria/">Bulgaria (7)</option><option value="/national/burkina-faso/">Burkina Faso (1)</option><option value="/national/burundi/">Burundi (1)</option><option value="/national/cambodia/">Cambodia (2)</option><option value="/national/cameroon/">Cameroon (1)</option><option value="/national/canada/">Canada (3)</option><option value="/national/cape-verde-islands/">Cape Verde Islands (1)</option><option value="/national/cayman-islands/">Cayman Islands (1)</option><option value="/national/chad/">Chad (1)</option><option value="/national/chile/">Chile (8)</option><option value="/national/china-pr/">China PR (4)</option><option value="/national/chinese-taipei/">Chinese Taipei (2)</option><option value="/national/colombia/">Colombia (5)</option><option value="/national/congo/">Congo (1)</option><option value="/national/congo-dr/">Congo DR (1)</option><option value="/national/cook-islands/">Cook Islands (1)</option><option value="/national/costa-rica/">Costa Rica (3)</option><option value="/national/cote-divoire/">Côte d'Ivoire (1)</option><option value="/national/croatia/">Croatia (7)</option><option value="/national/cuba/">Cuba (1)</option><option value="/national/curacao/">Curaçao (2)</option><option value="/national/cyprus/">Cyprus (5)</option><option value="/national/czech-republic/">Czech Republic (8)</option><option value="/national/denmark/">Denmark (8)</option><option value="/national/djibouti/">Djibouti (1)</option><option value="/national/dominican-republic/">Dominican Republic (1)</option><option value="/national/ecuador/">Ecuador (2)</option><option value="/national/egypt/">Egypt (4)</option><option value="/national/el-salvador/">El Salvador (1)</option><option value="/national/england/">England (17)</option><option value="/national/estonia/">Estonia (7)</option><option value="/national/ethiopia/">Ethiopia (1)</option><option value="/national/faroe-islands/">Faroe Islands (7)</option><option value="/national/fiji/">Fiji (1)</option><option value="/national/finland/">Finland (7)</option><option value="/national/france/">France (9)</option><option value="/national/french-guyana/">French Guiana (1)</option><option value="/national/gabon/">Gabon (1)</option><option value="/national/gambia/">Gambia (1)</option><option value="/national/georgia/">Georgia (6)</option><option value="/national/germany/">Germany (12)</option><option value="/national/ghana/">Ghana (1)</option><option value="/national/greece/">Greece (9)</option><option value="/national/grenada/">Grenada (1)</option><option value="/national/guadeloupe/">Guadeloupe (1)</option><option value="/national/guam/">Guam (1)</option><option value="/national/guatemala/">Guatemala (2)</option><option value="/national/guyana/">Guyana (1)</option><option value="/national/haiti/">Haiti (3)</option><option value="/national/honduras/">Honduras (1)</option><option value="/national/hong-kong/">Hong Kong (5)</option><option value="/national/hungary/">Hungary (7)</option><option value="/national/iceland/">Iceland (5)</option><option value="/national/india/">India (7)</option><option value="/national/indonesia/">Indonesia (4)</option><option value="/national/iran/">Iran (3)</option><option value="/national/iraq/">Iraq (1)</option><option value="/national/ireland-republic/">Ireland Republic (7)</option><option value="/national/israel/">Israel (9)</option><option value="/national/italy/">Italy (13)</option><option value="/national/jamaica/">Jamaica (1)</option><option value="/national/japan/">Japan (6)</option><option value="/national/jordan/">Jordan (4)</option><option value="/national/kazakhstan/">Kazakhstan (4)</option><option value="/national/kenya/">Kenya (1)</option><option value="/national/korea-republic/">Korea Republic (5)</option><option value="/national/kuwait/">Kuwait (8)</option><option value="/national/kyrgyzstan/">Kyrgyzstan (1)</option><option value="/national/latvia/">Latvia (4)</option><option value="/national/lebanon/">Lebanon (4)</option><option value="/national/lesotho/">Lesotho (1)</option><option value="/national/libya/">Libya (2)</option><option value="/national/liechtenstein/">Liechtenstein (1)</option><option value="/national/lithuania/">Lithuania (5)</option><option value="/national/luxembourg/">Luxembourg (6)</option><option value="/national/macao/">Macao (1)</option><option value="/national/macedonia-fyr/">Macedonia FYR (5)</option><option value="/national/madagascar/">Madagascar (1)</option><option value="/national/malawi/">Malawi (1)</option><option value="/national/malaysia/">Malaysia (7)</option><option value="/national/maldives/">Maldives (1)</option><option value="/national/mali/">Mali (1)</option><option value="/national/malta/">Malta (5)</option><option value="/national/martinique/">Martinique (1)</option><option value="/national/mauritania/">Mauritania (1)</option><option value="/national/mauritius/">Mauritius (1)</option><option value="/national/mexico/">Mexico (5)</option><option value="/national/moldova/">Moldova (6)</option><option value="/national/mongolia/">Mongolia (1)</option><option value="/national/montenegro/">Montenegro (4)</option><option value="/national/morocco/">Morocco (3)</option><option value="/national/mozambique/">Mozambique (1)</option><option value="/national/myanmar/">Myanmar (1)</option><option value="/national/namibia/">Namibia (1)</option><option value="/national/nepal/">Nepal (2)</option><option value="/national/netherlands/">Netherlands (13)</option><option value="/national/new-caledonia/">New Caledonia (1)</option><option value="/national/new-zealand/">New Zealand (2)</option><option value="/national/nicaragua/">Nicaragua (1)</option><option value="/national/niger/">Niger (1)</option><option value="/national/nigeria/">Nigeria (1)</option><option value="/national/northern-ireland/">Northern Ireland (6)</option><option value="/national/norway/">Norway (7)</option><option value="/national/oman/">Oman (3)</option><option value="/national/pakistan/">Pakistan (2)</option><option value="/national/palestine/">Palestine (1)</option><option value="/national/panama/">Panama (1)</option><option value="/national/papua-new-guinea/">Papua New Guinea (1)</option><option value="/national/paraguay/">Paraguay (3)</option><option value="/national/peru/">Peru (3)</option><option value="/national/philippines/">Philippines (1)</option><option value="/national/poland/">Poland (9)</option><option value="/national/portugal/">Portugal (9)</option><option value="/national/puerto-rico/">Puerto Rico (1)</option><option value="/national/qatar/">Qatar (7)</option><option value="/national/reunion/">Reunion (1)</option><option value="/national/romania/">Romania (5)</option><option value="/national/russia/">Russia (9)</option><option value="/national/rwanda/">Rwanda (1)</option><option value="/national/samoa/">Samoa (1)</option><option value="/national/san-marino/">San Marino (3)</option><option value="/national/sao-tome-e-principe/">São Tomé e Príncipe (1)</option><option value="/national/saudi-arabia/">Saudi Arabia (6)</option><option value="/national/scotland/">Scotland (13)</option><option value="/national/senegal/">Senegal (1)</option><option value="/national/serbia/">Serbia (4)</option><option value="/national/serbia-and-montenegro/">Serbia and Montenegro (4)</option><option value="/national/seychelles/">Seychelles (1)</option><option value="/national/sierra-leone/">Sierra Leone (1)</option><option value="/national/singapore/">Singapore (3)</option><option value="/national/slovakia/">Slovakia (5)</option><option value="/national/slovenia/">Slovenia (6)</option><option value="/national/solomon-islands/">Solomon Islands (1)</option><option value="/national/south-africa/">South Africa (6)</option><option value="/national/spain/">Spain (9)</option><option value="/national/sri-lanka/">Sri Lanka (1)</option><option value="/national/st-kitts-and-nevis/">St. Kitts and Nevis (1)</option><option value="/national/sudan/">Sudan (1)</option><option value="/national/surinam/">Suriname (3)</option><option value="/national/swaziland/">Swaziland (1)</option><option value="/national/sweden/">Sweden (10)</option><option value="/national/switzerland/">Switzerland (8)</option><option value="/national/syria/">Syria (1)</option><option value="/national/tahiti/">Tahiti (1)</option><option value="/national/tajikistan/">Tajikistan (1)</option><option value="/national/tanzania/">Tanzania (1)</option><option value="/national/thailand/">Thailand (2)</option><option value="/national/togo/">Togo (1)</option><option value="/national/trinidad-and-tobago/">Trinidad and Tobago (1)</option><option value="/national/tunisia/">Tunisia (3)</option><option value="/national/turkey/">Turkey (11)</option><option value="/national/turkmenistan/">Turkmenistan (1)</option><option value="/national/turks-and-caicos-islands/">Turks and Caicos Islands (1)</option><option value="/national/tuvalu/">Tuvalu (2)</option><option value="/national/uganda/">Uganda (1)</option><option value="/national/ukraine/">Ukraine (8)</option><option value="/national/united-arab-emirates/">United Arab Emirates (9)</option><option value="/national/united-states/">United States (7)</option><option value="/national/uruguay/">Uruguay (3)</option><option value="/national/uzbekistan/">Uzbekistan (3)</option><option value="/national/vanuatu/">Vanuatu (1)</option><option value="/national/venezuela/">Venezuela (3)</option><option value="/national/vietnam/">Vietnam (3)</option><option value="/national/wales/">Wales (4)</option><option value="/national/yemen/">Yemen (3)</option><option value="/national/zambia/">Zambia (1)</option><option value="/national/zimbabwe/">Zimbabwe (1)</option>
+
+    </select>
+    <select size="1" class="  nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">Club International (33)</option>
+
+
+      <optgroup label="Africa">
+        <option value="/international/africa/caf-champions-league/">CAF Champions League</option><option value="/international/africa/caf-confederation-cup/">CAF Confederation Cup</option><option value="/international/africa/caf-super-cup/">CAF Super Cup</option>
+      </optgroup>
+      <optgroup label="Asia">
+        <option value="/international/asia/afc-champions-league/">AFC Champions League</option><option value="/international/asia/afc-cup/">AFC Cup</option><option value="/international/asia/afc-presidents-cup/">AFC President's Cup</option><option value="/international/asia/gulf-clubs-championship/">GCC Champions League</option>
+      </optgroup>
+      <optgroup label="Europe">
+        <option value="/international/europe/uefa-champions-league/">UEFA Champions League</option><option value="/international/europe/uefa-cup/">UEFA Europa League</option><option value="/international/europe/uefa-super-cup/">UEFA Super Cup</option><option value="/international/europe/uefa-intertoto-cup/">UEFA Intertoto Cup</option><option value="/international/europe/scandinavian-royal-league/">Scandinavian Royal League</option><option value="/international/europe/setanta-cup/">Setanta Cup</option><option value="/international/europe/the-nextgen-series/">The NextGen Series</option><option value="/international/europe/baltic-league/">Baltic League</option><option value="/international/europe/baltic-champions-cup/">Baltic Champions Cup</option>
+      </optgroup>
+      <optgroup label="N/C America">
+        <option value="/international/nc-america/concacaf-champions-league/">CONCACAF Champions League</option><option value="/international/nc-america/cfu-club-championship/">CFU Club Championship</option><option value="/international/nc-america/cup-winners-cup/">Cup Winners Cup</option><option value="/international/nc-america/super-liga/">Super Liga</option><option value="/international/nc-america/uncaf-clubs-cup/">UNCAF Clubs Cup</option><option value="/international/nc-america/giants-cup/">Giants Cup</option>
+      </optgroup>
+      <optgroup label="Oceania">
+        <option value="/international/oceania/ofc-champions-league/">OFC Champions League</option>
+      </optgroup>
+      <optgroup label="South America">
+        <option value="/international/south-america/copa-libertadores/">Copa Libertadores</option><option value="/international/south-america/copa-libertadores-u20/">Copa Libertadores U20</option><option value="/international/south-america/copa-sudamericana/">Copa Sudamericana</option><option value="/international/south-america/recopa-sudamericana/">Recopa Sudamericana</option>
+      </optgroup>
+      <optgroup label="World">
+        <option value="/international/world/fifa-club-world-cup/">FIFA Club World Cup</option><option value="/international/world/inter-continental-cup/">Inter Continental Cup</option><option value="/international/world/arab-champions-league/">Arab Champions League</option><option value="/international/world/pan-pacific-championship/">Pan-Pacific Championship</option><option value="/international/world/suruga-bank-championship/">Suruga Bank Championship</option><option value="/international/world/club-friendlies/">Club Friendlies</option>
+      </optgroup>
+    </select>
+    <select size="1" class=" last nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">National Teams (66)</option>
+
+
+      <optgroup label="Africa">
+        <option value="/international/africa/africa-cup-of-nations/">Africa Cup of Nations</option><option value="/international/africa/wc-qualifying-africa/">WC Qualification Africa</option><option value="/international/africa/africa-cup-of-nations-qualification/">Africa Cup of Nations Qualification</option><option value="/international/africa/african-nations-championship/">African Nations Championship</option><option value="/international/africa/caf-u20-championship/">CAF U20 Championship</option><option value="/international/africa/caf-u17-championship/">CAF U17 Championship</option><option value="/international/africa/all-africa-games/">All Africa Games</option><option value="/international/africa/cecafa-senior-challenge-cup/">CECAFA Senior Challenge Cup</option><option value="/international/africa/nile-basin-tournament/">Nile Basin Tournament</option>
+      </optgroup>
+      <optgroup label="Asia">
+        <option value="/international/asia/asian-cup/">Asian Cup</option><option value="/international/asia/wc-qualifying-asia/">WC Qualification Asia</option><option value="/international/asia/asian-games/">Asian Games</option><option value="/international/asia/afc-challenge-cup/">AFC Challenge Cup</option><option value="/international/asia/asean-football-championship/">ASEAN Football Championship</option><option value="/international/asia/east-asian-football-championship/">EAFF East Asian Cup</option><option value="/international/asia/west-asian-federation-championship/">West Asian Federation Championship</option><option value="/international/asia/gulf-cup/">Gulf Cup</option><option value="/international/asia/asian-cup-qualification/">Asian Cup Qualification</option><option value="/international/asia/nehru-cup/">Nehru Cup</option><option value="/international/asia/southeast-asian-games/">Southeast Asian Games</option><option value="/international/asia/gulf-olympic-cup/">Gulf Olympic Cup</option><option value="/international/asia/south-asian-football-federation-championship/">SAFF Championship</option><option value="/international/asia/afc-u22-asian-cup/">AFC U22 Asian Cup</option><option value="/international/asia/afc-u19-championship/">AFC U19 Championship</option><option value="/international/asia/afc-u17-championship/">AFC U17 Championship</option><option value="/international/asia/gulf-cup-u17/">Gulf Cup U17</option>
+      </optgroup>
+      <optgroup label="Europe">
+        <option value="/international/europe/european-championships/">European Championship</option><option value="/international/europe/european-championship-qualification/">EC Qualification</option><option value="/international/europe/wc-qualifying-europe/">WC Qualification Europe</option><option value="/international/europe/uefa-u21-championship/">UEFA U21 Championship</option><option value="/international/europe/uefa-u19-championship/">UEFA U19 Championship</option><option value="/international/europe/uefa-u17-championship/">UEFA U17 Championship</option><option value="/international/europe/baltic-cup/">Baltic Cup</option><option value="/international/europe/nations-cup/">Nations Cup</option>
+      </optgroup>
+      <optgroup label="N/C America">
+        <option value="/international/nc-america/concacaf-gold-cup/">CONCACAF Gold Cup</option><option value="/international/nc-america/copa-centroamericana/">Copa Centroamericana</option><option value="/international/nc-america/caribbean-cup/">Caribbean Cup</option><option value="/international/nc-america/olympic-qualifying-concacaf/">Olympic Qualifying CONCACAF</option><option value="/international/nc-america/pre-concacaf-championships/">Pre-CONCACAF Championships</option><option value="/international/nc-america/concacaf-nations-cup/">CONCACAF Nations Cup</option><option value="/international/nc-america/wc-qualifying-concacaf/">WC Qualification CONCACAF</option><option value="/international/nc-america/concacaf-u20/">CONCACAF U20</option><option value="/international/nc-america/concacaf-u17/">CONCACAF U17</option>
+      </optgroup>
+      <optgroup label="Oceania">
+        <option value="/international/oceania/ofc-u20-championship/">OFC U20 Championship</option><option value="/international/oceania/ofc-u17-championship/">OFC U17 Championship</option><option value="/international/oceania/wc-qualifying-oceania/">WC Qualification Oceania</option><option value="/international/oceania/pacific-games/">Pacific Games</option><option value="/international/oceania/ofc-nations-cup/">OFC Nations Cup</option>
+      </optgroup>
+      <optgroup label="South America">
+        <option value="/international/south-america/wc-qualifying-south-america/">WC Qualification South-America</option><option value="/international/south-america/copa-america/">Copa America</option><option value="/international/south-america/sudamericano-u20/">Sudamericano U20</option><option value="/international/south-america/sudamericano-u17/">Sudamericano U17</option>
+      </optgroup>
+      <optgroup label="World">
+        <option value="/international/world/world-cup/">World Cup</option><option value="/international/world/wc-qualifying-intercontinental-play-offs/">WC Qualification Intercontinental Play-offs</option><option value="/international/world/confederations-cup/">Confederations Cup</option><option value="/international/world/olympics/">Olympics</option><option value="/international/world/world-youth-festival-toulon/">World Youth Festival Toulon</option><option value="/international/world/u20-world-cup/">U20 World Cup</option><option value="/international/world/u17-world-cup/">U17 World Cup</option><option value="/international/world/pan-american-games/">Pan American Games</option><option value="/international/world/pan-arab-games/">Pan Arab Games</option><option value="/international/world/arab-u20-championship/">U20 Arab Championship</option><option value="/international/world/arab-u17-championship/">U17 Arab Championship</option><option value="/international/world/kirin-cup/">Kirin Cup</option><option value="/international/world/cac-games/">CAC Games</option><option value="/international/world/friendlies/">Friendlies</option>
+      </optgroup>
+    </select>
+  </div>
+  
+  <div id="navbar-right">
+	<div class="block_ad ad_navbar_right block clearfix">
+  <div class="ad_navbar_right">
+
+<div id="div-gpt-ad-1325073145951-5" style="width:240px; height:27px;">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325073145951-5'); });
+</script>
+</div>
+</div>
+</div>
+
+  </div>
+</div>
+
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('block_navbar_13', 'block_navbar', null);
+    
+    
+    
+    TimestampFormatter.format('block_navbar_13');
+  })();
+</script>    
+  </div>
+  <div id="bd">
+    <div id="subheading" style="position: relative;">
+  <h1><span class="flag_24 left_24 turkey_24_left"></span>1. Lig</h1>
+    
+	    <div id="submenu-container">
+
+      <div class="clearfix" id="submenu" style="background: url(http://s1.swimg.net/gsmf/388/img/flags/230x70/196.png) top right no-repeat;">
+  <ul>
+    <li class="current"><a href="/national/turkey/1-lig/20122013/regular-season/">Summary</a></li><li class=""><a href="/national/turkey/1-lig/20122013/regular-season/matches/">Matches</a></li><li class=""><a href="/national/turkey/1-lig/20122013/regular-season/tables/">Tables</a></li><li class=""><a href="/national/turkey/1-lig/20122013/regular-season/players/">Players</a></li><li class=""><a href="/national/turkey/1-lig/20122013/regular-season/news/">News</a></li><li class=""><a href="/national/turkey/1-lig/20122013/regular-season/venues/">Venues</a></li><li class=""><a href="/national/turkey/1-lig/archive/">Archive</a></li><li class=""><a href="/national/turkey/1-lig/20122013/regular-season/map/">Map</a></li><li class=""><a href="/national/turkey/1-lig/odds/">Odds</a></li>
+    
+  </ul>
+</div>
+        <div class="submenu_dropdown"> 
+        <select name="season_id" id="season_id_selector" class="dropdown-selector" size="1" style="max-width: 125px;">
+  <option value="/national/turkey/1-lig/20122013/" selected="selected">2012/2013</option><option value="/national/turkey/1-lig/2011-2012/">2011/2012</option><option value="/national/turkey/1-lig/2010-2011/">2010/2011</option><option value="/national/turkey/1-lig/2009-2010/">2009/2010</option><option value="/national/turkey/1-lig/2008-2009/">2008/2009</option><option value="/national/turkey/1-lig/2007-2008/">2007/2008</option><option value="/national/turkey/1-lig/2006-2007/">2006/2007</option><option value="/national/turkey/1-lig/2005-2006/">2005/2006</option><option value="/national/turkey/1-lig/2004-2005/">2004/2005</option><option value="/national/turkey/1-lig/2003-2004/">2003/2004</option><option value="/national/turkey/1-lig/2002-2003/">2002/2003</option><option value="/national/turkey/1-lig/2001-2002/">2001/2002</option><option value="/national/turkey/1-lig/2000-2001/">2000/2001</option><option value="/national/turkey/1-lig/1999-2000/">1999/2000</option>
+</select>
+
+<span style="font-weight: bold; color: #333;">&gt;</span>
+<select name="round_id" id="round_id_selector" class="dropdown-selector" size="1" style="max-width: 125px;">
+  <option value="/national/turkey/1-lig/20122013/promotion-play-offs---final/">Promotion Play-offs - Final</option><option value="/national/turkey/1-lig/20122013/promotion-play-offs---semi-finals/">Promotion Play-offs - Semi-finals</option><option value="/national/turkey/1-lig/20122013/regular-season/" selected="selected">Regular Season</option>
+</select>
+
+
+<script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  $$('.dropdown-selector').invoke('observe', 'change', function() {
+    window.location.href = $F(this);
+  });
+  /* ]]> */
+</script>
+        </div>
+  
+    </div>
+</div>
+    
+<div id="yui-main">
+  <div class="yui-b">
+    <div class="clearfix">
+      <div class="small-column">
+				<div class="block  clearfix block_competition_left_tree-wrapper" id="page_match_1_block_competition_left_tree_2-wrapper">
+  
+  <h2>Turkey</h2>
+  
+  
+  <div class="content plain ">
+    <div class="block_competition_left_tree real-content clearfix " id="page_match_1_block_competition_left_tree_2">
+
+      <ul class="left-tree">
+  <li class="  odd">
+    <a href="/national/turkey/super-lig/" class="flag_16 left_16 turkey_16_left" title="Süper Lig">Süper Lig</a>
+  </li>
+  <li class="expanded  even">
+    <a href="/national/turkey/1-lig/" class="flag_16 left_16 turkey_16_left" title="1. Lig">1. Lig</a>
+    <ul class="level-1 expanded">
+      <li class="expanded ">
+        <a href="/national/turkey/1-lig/20122013/">2012/2013</a>
+        <ul class="level-2 expanded">
+          <li class="current leaf">
+            <a href="/national/turkey/1-lig/20122013/regular-season/">Regular Season</a>
+          </li>
+          <li class=" leaf">
+            <a href="/national/turkey/1-lig/20122013/final-stages/">Final Stages</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li class="  odd">
+    <a href="/national/turkey/2-lig/" class="flag_16 left_16 turkey_16_left" title="2. Lig">2. Lig</a>
+  </li>
+  <li class="  even">
+    <a href="/national/turkey/3-lig/" class="flag_16 left_16 turkey_16_left" title="3. Lig">3. Lig</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/turkey/play-offs/" class="flag_16 left_16 turkey_16_left" title="Play offs">Play offs</a>
+  </li>
+  <li class="  even">
+    <a href="/national/turkey/cup/" class="flag_16 left_16 turkey_16_left" title="Cup">Cup</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/turkey/spor-toto-cup/" class="flag_16 left_16 turkey_16_left" title="Spor Toto Cup">Spor Toto Cup</a>
+  </li>
+  <li class="  even">
+    <a href="/national/turkey/super-cup/" class="flag_16 left_16 turkey_16_left" title="Super Cup">Super Cup</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/turkey/a2-ligi-reserve/" class="flag_16 left_16 turkey_16_left" title="A2 Ligi (Reserve)">A2 Ligi (Reserve)</a>
+  </li>
+  <li class="  even">
+    <a href="/national/turkey/elt-akadem-lg/" class="flag_16 left_16 turkey_16_left" title="Elit Akademi Ligi">Elit Akademi Ligi</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/turkey/akademi-ligleri/" class="flag_16 left_16 turkey_16_left" title="Akademi Ligleri">Akademi Ligleri</a>
+  </li>
+  <li class=" even">
+    <a href="/national/turkey/club-friendlies/" class="flag_16 left_16 turkey_16_left">Club Friendlies</a>
+  </li>
+</ul>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_match_1_block_competition_left_tree_2', 'block_competition_left_tree', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_competition_left_tree_2');
+  })();
+</script>
+
+				
+
+				<div class="block_ad ad_120 block clearfix">
+  
+
+<div class="tag">
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Run of Site - Other // Placement: Run of Site - Other-Other-120 x 240 (3442160) // created at: Jan 11, 2012 4:15:26 PM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|3442160|0|30|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|3442160|0|30|ADTECH;loc=300;sub1=[subst]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|3442160|0|30|ADTECH;cookie=info;loc=300" border="0" width="120" height="240"></a></noscript>
+<!-- End of JavaScript Tag -->
+</div>
+
+<div class="tag">
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Run of Site - Other // Placement: Run of Site - Skyscraper-120 x 600 (1689339) // created at: Jan 11, 2012 4:15:04 PM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|1689339|0|168|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|1689339|0|168|ADTECH;loc=300;sub1=[subst]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|1689339|0|168|ADTECH;cookie=info;loc=300" border="0" width="120" height="600"></a></noscript>
+<!-- End of JavaScript Tag -->
+</div>
+
+
+</div>
+			</div>
+      <div class="content-column">
+    
+    
+    
+    <div class="block  clearfix block_competition_matches_summary-wrapper" id="page_competition_1_block_competition_matches_summary_6-wrapper">
+  <h2><a href="/national/turkey/1-lig/20122013/regular-season/matches/">Matches</a></h2>
+  
+  
+  
+  <div class="content  ">
+    <div class="subnav clearfix  subnav-first subnav-last">
+      <ul id="page_competition_1_block_competition_matches_summary_6_subnav">
+          <li class="selected">
+            <a id="page_competition_1_block_competition_matches_summary_6_1_1">By date</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_matches_summary_6_1_2">By game week</a>
+          </li>
+      </ul>
+    </div>
+    <div class="block_competition_matches_summary real-content clearfix " id="page_competition_1_block_competition_matches_summary_6">
+
+      <div id="page_competition_1_block_competition_matches_summary_6_pagination" class="pagination match-pagination">
+  <span class="nav_description">
+  <a rel="previous" class="previous " id="page_competition_1_block_competition_matches_summary_6_previous">&laquo; Previous</a>
+  <a rel="next" class="next " id="page_competition_1_block_competition_matches_summary_6_next">Next &raquo;</a>
+  </span>
+</div>
+
+
+<div class="table-container">
+  <table class="matches   ">
+    <thead>
+      <tr class="sub-head">
+        <th class="day">Day</th>
+        <th class="date">Date</th>
+        
+        
+        
+        
+        
+        <th class="team team-a">Home team</th>
+        
+        <th class="score-time">Score/Time</th>
+        <th class="team team-b">Away team</th>
+        
+        
+        <th class="events-button button">&nbsp;</th>
+        <th class="info-button button">&nbsp;</th>
+        
+        
+        
+      </tr>
+    </thead>
+    <tbody>
+          
+          <tr class="even  expanded    match no-date-repetition" data-timestamp="1353348000" id="page_competition_1_block_competition_matches_summary_6_match-1342349">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353348000' data-format='ddd'>Mon</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353348000' data-format='dd/mm/yy'>19/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/konyaspor/" title="Konyaspor">
+                    Konyaspor
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/19/turkey/1-lig/konyaspor/kayseri-erciyesspor/1342349/">
+                
+                0 - 2
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/kayseri-erciyesspor/" title="Kayseri Erciyesspor">
+                  Kayseri Erciye&hellip;
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/19/turkey/1-lig/konyaspor/kayseri-erciyesspor/1342349/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/19/turkey/1-lig/konyaspor/kayseri-erciyesspor/1342349/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="odd  expanded    match no-date-repetition" data-timestamp="1353758400" id="page_competition_1_block_competition_matches_summary_6_match-1342351">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353758400' data-format='ddd'>Sat</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353758400' data-format='dd/mm/yy'>24/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/kartalspor/" title="Kartalspor">
+                    Kartalspor
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/24/turkey/1-lig/kartalspor/kayseri-erciyesspor/1342351/">
+                
+                1 - 3
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/kayseri-erciyesspor/" title="Kayseri Erciyesspor">
+                  Kayseri Erciye&hellip;
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/24/turkey/1-lig/kartalspor/kayseri-erciyesspor/1342351/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/24/turkey/1-lig/kartalspor/kayseri-erciyesspor/1342351/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="even  expanded    match no-date-repetition" data-timestamp="1353758400" id="page_competition_1_block_competition_matches_summary_6_match-1342355">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353758400' data-format='ddd'>Sat</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353758400' data-format='dd/mm/yy'>24/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/mke-ankaragucu/" title="Ankaragücü">
+                    Ankaragücü
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/24/turkey/1-lig/mke-ankaragucu/samsunspor/1342355/">
+                
+                1 - 1
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/samsunspor/" title="Samsunspor">
+                  Samsunspor
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/24/turkey/1-lig/mke-ankaragucu/samsunspor/1342355/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/24/turkey/1-lig/mke-ankaragucu/samsunspor/1342355/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="odd  expanded    match no-date-repetition" data-timestamp="1353765600" id="page_competition_1_block_competition_matches_summary_6_match-1342356">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353765600' data-format='ddd'>Sat</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353765600' data-format='dd/mm/yy'>24/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/gaziantep-bbk/" title="Gaziantep BB">
+                    Gaziantep BB
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/24/turkey/1-lig/gaziantep-bbk/adana-demirspor/1342356/">
+                
+                1 - 2
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/adana-demirspor/" title="Adana Demirspor">
+                  Adana Demirspor
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/24/turkey/1-lig/gaziantep-bbk/adana-demirspor/1342356/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/24/turkey/1-lig/gaziantep-bbk/adana-demirspor/1342356/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="even  expanded    match no-date-repetition" data-timestamp="1353776400" id="page_competition_1_block_competition_matches_summary_6_match-1342359">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353776400' data-format='ddd'>Sat</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353776400' data-format='dd/mm/yy'>24/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/bucaspor/" title="Bucaspor">
+                    Bucaspor
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/24/turkey/1-lig/bucaspor/goztepe-as-izmir/1342359/">
+                
+                3 - 0
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/goztepe-as-izmir/" title="Göztepe">
+                  Göztepe
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/24/turkey/1-lig/bucaspor/goztepe-as-izmir/1342359/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/24/turkey/1-lig/bucaspor/goztepe-as-izmir/1342359/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="odd  expanded    match no-date-repetition" data-timestamp="1353841200" id="page_competition_1_block_competition_matches_summary_6_match-1342353">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353841200' data-format='ddd'>Sun</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353841200' data-format='dd/mm/yy'>25/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/sanliurfaspor/" title="Şanlıurfaspor">
+                    Şanlıurfaspor
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/25/turkey/1-lig/sanliurfaspor/boluspor/1342353/">
+                
+                1 - 3
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/boluspor/" title="Boluspor">
+                  Boluspor
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/25/turkey/1-lig/sanliurfaspor/boluspor/1342353/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/25/turkey/1-lig/sanliurfaspor/boluspor/1342353/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="even  expanded    match no-date-repetition" data-timestamp="1353841200" id="page_competition_1_block_competition_matches_summary_6_match-1342354">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353841200' data-format='ddd'>Sun</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353841200' data-format='dd/mm/yy'>25/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/trabzon-karadeniz-sk/" title="1461 Trabzon">
+                    1461 Trabzon
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/25/turkey/1-lig/trabzon-karadeniz-sk/tavsanli-belediye-linyitspor/1342354/">
+                
+                1 - 0
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/tavsanli-belediye-linyitspor/" title="Tavşanlı Linyitspor">
+                  Tavşanlı Linyi&hellip;
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/25/turkey/1-lig/trabzon-karadeniz-sk/tavsanli-belediye-linyitspor/1342354/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/25/turkey/1-lig/trabzon-karadeniz-sk/tavsanli-belediye-linyitspor/1342354/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="odd  expanded    match no-date-repetition" data-timestamp="1353844800" id="page_competition_1_block_competition_matches_summary_6_match-1342358">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353844800' data-format='ddd'>Sun</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353844800' data-format='dd/mm/yy'>25/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/manisaspor/" title="Manisaspor">
+                    Manisaspor
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/25/turkey/1-lig/manisaspor/caykur-rizespor/1342358/">
+                
+                2 - 0
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/caykur-rizespor/" title="Rizespor">
+                  Rizespor
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/25/turkey/1-lig/manisaspor/caykur-rizespor/1342358/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/25/turkey/1-lig/manisaspor/caykur-rizespor/1342358/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="even  expanded    match no-date-repetition" data-timestamp="1353862800" id="page_competition_1_block_competition_matches_summary_6_match-1342357">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353862800' data-format='ddd'>Sun</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353862800' data-format='dd/mm/yy'>25/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/adanaspor-fk/" title="Adanaspor">
+                    Adanaspor
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/25/turkey/1-lig/adanaspor-fk/konyaspor/1342357/">
+                
+                2 - 1
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/konyaspor/" title="Konyaspor">
+                  Konyaspor
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              <a href="/matches/2012/11/25/turkey/1-lig/adanaspor-fk/konyaspor/1342357/#events" title="View events" class="events-button-button ">View events</a>
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/25/turkey/1-lig/adanaspor-fk/konyaspor/1342357/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+          <tr class="odd  expanded    match no-date-repetition" data-timestamp="1353952800" id="page_competition_1_block_competition_matches_summary_6_match-1342352">
+            <td class="day no-repetition"><span class='timestamp' data-value='1353952800' data-format='ddd'>Mon</span></td>
+            <td class="date no-repetition"><span class='timestamp' data-value='1353952800' data-format='dd/mm/yy'>26/11/12</span></td>
+            
+            
+            
+            
+              <td class="team team-a ">
+                  <a href="/teams/turkey/karsiyaka-sk/" title="Karşıyaka">
+                    Karşıyaka
+                  </a>
+                
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2012/11/26/turkey/1-lig/karsiyaka-sk/denizlispor/1342352/">
+                
+                0 - 0
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/turkey/denizlispor/" title="Denizlispor">
+                  Denizlispor
+                </a>
+                
+              </td>
+            <td class="events-button button">
+              
+            </td>
+            <td class="info-button button"><a href="/matches/2012/11/26/turkey/1-lig/karsiyaka-sk/denizlispor/1342352/" title="More info">More info</a></td>
+            
+            
+             
+          </tr>
+    </tbody>
+  </table>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  /* ]]> */
+</script>
+
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new MatchesBlock('page_competition_1_block_competition_matches_summary_6', 'block_competition_matches_summary', {"page":0,"round_id":18577,"outgroup":false,"view":2});
+    block.registerForCallbacks();
+    block.addCallbackObserver('page_competition_1_block_competition_matches_summary_6_1_1', 'changeView', {"view":2});
+block.addCallbackObserver('page_competition_1_block_competition_matches_summary_6_1_2', 'changeView', {"view":1});
+    
+        
+    
+      block.setAttribute('colspan_left', 3);
+  block.setAttribute('colspan_right', 3);
+  
+  block.setAttribute('has_previous_page', true);
+  block.setAttribute('has_next_page', true);
+
+    
+    TimestampFormatter.format('page_competition_1_block_competition_matches_summary_6');
+  })();
+</script>
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="block_ad ad_sb_text block clearfix">
+  
+<div id='div-gpt-ad-1325580837273-0' style='width:557px; height:45px;'>
+<div style="color: #999999; font-size: 10px">Sponsored links</div>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+  googletag.pubads().setTargeting('page', 'competition');
+  googletag.pubads().setTargeting('caption', "1. Lig");
+});
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325580837273-0'); });
+</script>
+</div>
+
+</div>
+
+    <div class="block  clearfix block_competition_tables-wrapper" id="page_competition_1_block_competition_tables_7-wrapper">
+  <h2><a href="/national/turkey/1-lig/20122013/regular-season/tables/">Tables</a></h2>
+  
+  
+  <div class="top-right">
+      <span class="details"></span>
+
+  </div>
+  
+  <div class="content  ">
+    <div class="subnav clearfix  subnav-first subnav-last">
+      <ul id="page_competition_1_block_competition_tables_7_subnav">
+          <li class="selected">
+            <a id="page_competition_1_block_competition_tables_7_1_1">League table</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_tables_7_1_2">Half-time</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_tables_7_1_3">Wide</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_tables_7_1_4">Form</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_tables_7_1_5">Over/under</a>
+          </li>
+      </ul>
+    </div>
+    <div class="block_competition_tables real-content clearfix " id="page_competition_1_block_competition_tables_7">
+
+      <div class="block_competition_league_table block block-nomb clearfix" id="page_competition_1_block_competition_tables_7_block_competition_league_table_1">
+  <form action="/teams/comparison/" method="get" accept-charset="utf-8">
+  <table class="leaguetable sortable table detailed-table" id="page_competition_1_block_competition_tables_7_block_competition_league_table_1_table" data-round_id="18577">
+    <thead>
+      <tr class="sub-head">
+        <th title="Rank" class="sortasc sortdefaultasc">#</th>
+        <th class="direction nosort">&nbsp;</th>
+        <th class="text team sortdefaultasc">Team</th>
+
+        <th class="number total mp"><acronym title="Matches played">MP</acronym></th>
+
+        <th class="number total won total_won"><acronym title="Wins">W</acronym></th>
+        <th class="number total drawn total_drawn"><acronym title="Draws">D</acronym></th>
+        <th class="number total lost total_lost"><acronym title="Losses">L</acronym></th>
+        <th class="number total gf total_gf"><acronym title="Goals for">F</acronym></th>
+        <th class="number total ga total_ga"><acronym title="Goals against">A</acronym></th>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <th class="number gd"><acronym title="Goal difference">D</acronym></th>
+        <th class="number points"><acronym title="Points">P</acronym></th>
+
+        <th class="form nosort">Last 5 matches</th>
+
+        <th class="compare"><acronym title="Head 2 Head">H2H</acronym></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="odd   team_rank"  id="team_rank_row_2231" data-team_id="2231">
+        <td class="rank rank-dark-green">1</td>
+        <td class="direction">
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/kayseri-erciyesspor/" title="Kayseri Erciyesspor">Kayseri Erciye&hellip;</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">8</td>
+        <td class="number total drawn total_drawn">3</td>
+        <td class="number total lost total_lost">2</td>
+        <td class="number total gf total_gf">26</td>
+        <td class="number total ga total_ga">13</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+13</td>
+        <td class="number points">27</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/24/turkey/1-lig/kartalspor/kayseri-erciyesspor/1342351/" class="form-icon form-win " title="Kartalspor - Kayseri Erciyesspor 1 - 3">W</a>
+          <a href="/matches/2012/11/19/turkey/1-lig/konyaspor/kayseri-erciyesspor/1342349/" class="form-icon form-win " title="Konyaspor - Kayseri Erciyesspor 0 - 2">W</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/kayseri-erciyesspor/denizlispor/1342333/" class="form-icon form-win " title="Kayseri Erciyesspor - Denizlispor 2 - 0">W</a>
+          <a href="/matches/2012/11/03/turkey/1-lig/caykur-rizespor/kayseri-erciyesspor/1342331/" class="form-icon form-draw " title="Rizespor - Kayseri Erciyesspor 2 - 2">D</a>
+          <a href="/matches/2012/10/29/turkey/1-lig/kayseri-erciyesspor/boluspor/1342316/" class="form-icon form-loss last" title="Kayseri Erciyesspor - Boluspor 2 - 3">L</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2231" />
+        </td>
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_2233" data-team_id="2233">
+        <td class="rank rank-dark-green">2</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_plus.gif" width="7" height="4" title="Previous rank: 5" alt="Previous rank: 5" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/manisaspor/" title="Manisaspor">Manisaspor</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">6</td>
+        <td class="number total drawn total_drawn">6</td>
+        <td class="number total lost total_lost">1</td>
+        <td class="number total gf total_gf">15</td>
+        <td class="number total ga total_ga">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+8</td>
+        <td class="number points">24</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/25/turkey/1-lig/manisaspor/caykur-rizespor/1342358/" class="form-icon form-win " title="Manisaspor - Rizespor 2 - 0">W</a>
+          <a href="/matches/2012/11/18/turkey/1-lig/boluspor/manisaspor/1342345/" class="form-icon form-win " title="Boluspor - Manisaspor 1 - 2">W</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/manisaspor/samsunspor/1342334/" class="form-icon form-draw " title="Manisaspor - Samsunspor 0 - 0">D</a>
+          <a href="/matches/2012/11/04/turkey/1-lig/goztepe-as-izmir/manisaspor/1342328/" class="form-icon form-win " title="Göztepe - Manisaspor 0 - 1">W</a>
+          <a href="/matches/2012/10/28/turkey/1-lig/manisaspor/tavsanli-belediye-linyitspor/1342317/" class="form-icon form-win last" title="Manisaspor - Tavşanlı Linyitspor 4 - 0">W</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2233" />
+        </td>
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_9159" data-team_id="9159">
+        <td class="rank rank-light-green">3</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_plus.gif" width="7" height="4" title="Previous rank: 4" alt="Previous rank: 4" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/trabzon-karadeniz-sk/" title="1461 Trabzon">1461 Trabzon</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">7</td>
+        <td class="number total drawn total_drawn">3</td>
+        <td class="number total lost total_lost">3</td>
+        <td class="number total gf total_gf">17</td>
+        <td class="number total ga total_ga">9</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+8</td>
+        <td class="number points">24</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/25/turkey/1-lig/trabzon-karadeniz-sk/tavsanli-belediye-linyitspor/1342354/" class="form-icon form-win " title="1461 Trabzon - Tavşanlı Linyitspor 1 - 0">W</a>
+          <a href="/matches/2012/11/17/turkey/1-lig/adana-demirspor/trabzon-karadeniz-sk/1342350/" class="form-icon form-win " title="Adana Demirspor - 1461 Trabzon 0 - 3">W</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/trabzon-karadeniz-sk/gaziantep-bbk/1342341/" class="form-icon form-draw " title="1461 Trabzon - Gaziantep BB 1 - 1">D</a>
+          <a href="/matches/2012/11/04/turkey/1-lig/trabzon-karadeniz-sk/kartalspor/1342324/" class="form-icon form-loss " title="1461 Trabzon - Kartalspor 0 - 1">L</a>
+          <a href="/matches/2012/10/27/turkey/1-lig/bucaspor/trabzon-karadeniz-sk/1342323/" class="form-icon form-loss last" title="Bucaspor - 1461 Trabzon 3 - 2">L</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="9159" />
+        </td>
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_2241" data-team_id="2241">
+        <td class="rank rank-light-green">4</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_min.gif" width="7" height="4" title="Previous rank: 3" alt="Previous rank: 3" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/karsiyaka-sk/" title="Karşıyaka">Karşıyaka</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">6</td>
+        <td class="number total drawn total_drawn">5</td>
+        <td class="number total lost total_lost">2</td>
+        <td class="number total gf total_gf">14</td>
+        <td class="number total ga total_ga">12</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+2</td>
+        <td class="number points">23</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/26/turkey/1-lig/karsiyaka-sk/denizlispor/1342352/" class="form-icon form-draw " title="Karşıyaka - Denizlispor 0 - 0">D</a>
+          <a href="/matches/2012/11/18/turkey/1-lig/caykur-rizespor/karsiyaka-sk/1342344/" class="form-icon form-draw " title="Rizespor - Karşıyaka 2 - 2">D</a>
+          <a href="/matches/2012/11/10/turkey/1-lig/karsiyaka-sk/boluspor/1342335/" class="form-icon form-win " title="Karşıyaka - Boluspor 1 - 0">W</a>
+          <a href="/matches/2012/11/03/turkey/1-lig/samsunspor/karsiyaka-sk/1342327/" class="form-icon form-draw " title="Samsunspor - Karşıyaka 0 - 0">D</a>
+          <a href="/matches/2012/10/28/turkey/1-lig/karsiyaka-sk/goztepe-as-izmir/1342322/" class="form-icon form-win last" title="Karşıyaka - Göztepe 2 - 0">W</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2241" />
+        </td>
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_2224" data-team_id="2224">
+        <td class="rank rank-light-green">5</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_min.gif" width="7" height="4" title="Previous rank: 2" alt="Previous rank: 2" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/caykur-rizespor/" title="Rizespor">Rizespor</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">6</td>
+        <td class="number total drawn total_drawn">4</td>
+        <td class="number total lost total_lost">3</td>
+        <td class="number total gf total_gf">20</td>
+        <td class="number total ga total_ga">14</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+6</td>
+        <td class="number points">22</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/25/turkey/1-lig/manisaspor/caykur-rizespor/1342358/" class="form-icon form-loss " title="Manisaspor - Rizespor 2 - 0">L</a>
+          <a href="/matches/2012/11/18/turkey/1-lig/caykur-rizespor/karsiyaka-sk/1342344/" class="form-icon form-draw " title="Rizespor - Karşıyaka 2 - 2">D</a>
+          <a href="/matches/2012/11/10/turkey/1-lig/adanaspor-fk/caykur-rizespor/1342339/" class="form-icon form-loss " title="Adanaspor - Rizespor 2 - 0">L</a>
+          <a href="/matches/2012/11/03/turkey/1-lig/caykur-rizespor/kayseri-erciyesspor/1342331/" class="form-icon form-draw " title="Rizespor - Kayseri Erciyesspor 2 - 2">D</a>
+          <a href="/matches/2012/10/27/turkey/1-lig/konyaspor/caykur-rizespor/1342320/" class="form-icon form-win last" title="Konyaspor - Rizespor 1 - 3">W</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2224" />
+        </td>
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_7283" data-team_id="7283">
+        <td class="rank rank-light-green">6</td>
+        <td class="direction">
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/bucaspor/" title="Bucaspor">Bucaspor</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">6</td>
+        <td class="number total drawn total_drawn">3</td>
+        <td class="number total lost total_lost">4</td>
+        <td class="number total gf total_gf">19</td>
+        <td class="number total ga total_ga">11</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+8</td>
+        <td class="number points">21</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/24/turkey/1-lig/bucaspor/goztepe-as-izmir/1342359/" class="form-icon form-win " title="Bucaspor - Göztepe 3 - 0">W</a>
+          <a href="/matches/2012/11/17/turkey/1-lig/tavsanli-belediye-linyitspor/bucaspor/1342347/" class="form-icon form-draw " title="Tavşanlı Linyitspor - Bucaspor 0 - 0">D</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/bucaspor/adana-demirspor/1342338/" class="form-icon form-win " title="Bucaspor - Adana Demirspor 1 - 0">W</a>
+          <a href="/matches/2012/11/05/turkey/1-lig/gaziantep-bbk/bucaspor/1342330/" class="form-icon form-loss " title="Gaziantep BB - Bucaspor 2 - 1">L</a>
+          <a href="/matches/2012/10/27/turkey/1-lig/bucaspor/trabzon-karadeniz-sk/1342323/" class="form-icon form-win last" title="Bucaspor - 1461 Trabzon 3 - 2">W</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="7283" />
+        </td>
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_2229" data-team_id="2229">
+        <td class="rank ">7</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_plus.gif" width="7" height="4" title="Previous rank: 8" alt="Previous rank: 8" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/adanaspor-fk/" title="Adanaspor">Adanaspor</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">5</td>
+        <td class="number total drawn total_drawn">5</td>
+        <td class="number total lost total_lost">3</td>
+        <td class="number total gf total_gf">18</td>
+        <td class="number total ga total_ga">14</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+4</td>
+        <td class="number points">20</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/25/turkey/1-lig/adanaspor-fk/konyaspor/1342357/" class="form-icon form-win " title="Adanaspor - Konyaspor 2 - 1">W</a>
+          <a href="/matches/2012/11/18/turkey/1-lig/denizlispor/adanaspor-fk/1342343/" class="form-icon form-loss " title="Denizlispor - Adanaspor 1 - 0">L</a>
+          <a href="/matches/2012/11/10/turkey/1-lig/adanaspor-fk/caykur-rizespor/1342339/" class="form-icon form-win " title="Adanaspor - Rizespor 2 - 0">W</a>
+          <a href="/matches/2012/11/04/turkey/1-lig/boluspor/adanaspor-fk/1342325/" class="form-icon form-draw " title="Boluspor - Adanaspor 2 - 2">D</a>
+          <a href="/matches/2012/10/28/turkey/1-lig/adanaspor-fk/samsunspor/1342318/" class="form-icon form-win last" title="Adanaspor - Samsunspor 3 - 2">W</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2229" />
+        </td>
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_2348" data-team_id="2348">
+        <td class="rank ">8</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_plus.gif" width="7" height="4" title="Previous rank: 9" alt="Previous rank: 9" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/adana-demirspor/" title="Adana Demirspor">Adana Demirspor</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">6</td>
+        <td class="number total drawn total_drawn">2</td>
+        <td class="number total lost total_lost">5</td>
+        <td class="number total gf total_gf">23</td>
+        <td class="number total ga total_ga">22</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+1</td>
+        <td class="number points">20</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/24/turkey/1-lig/gaziantep-bbk/adana-demirspor/1342356/" class="form-icon form-win " title="Gaziantep BB - Adana Demirspor 1 - 2">W</a>
+          <a href="/matches/2012/11/17/turkey/1-lig/adana-demirspor/trabzon-karadeniz-sk/1342350/" class="form-icon form-loss " title="Adana Demirspor - 1461 Trabzon 0 - 3">L</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/bucaspor/adana-demirspor/1342338/" class="form-icon form-loss " title="Bucaspor - Adana Demirspor 1 - 0">L</a>
+          <a href="/matches/2012/11/04/turkey/1-lig/adana-demirspor/mke-ankaragucu/1342329/" class="form-icon form-win " title="Adana Demirspor - Ankaragücü 4 - 1">W</a>
+          <a href="/matches/2012/10/27/turkey/1-lig/sanliurfaspor/adana-demirspor/1342319/" class="form-icon form-win last" title="Şanlıurfaspor - Adana Demirspor 2 - 3">W</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2348" />
+        </td>
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_3287" data-team_id="3287">
+        <td class="rank ">9</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_min.gif" width="7" height="4" title="Previous rank: 7" alt="Previous rank: 7" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/gaziantep-bbk/" title="Gaziantep BB">Gaziantep BB</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">5</td>
+        <td class="number total drawn total_drawn">3</td>
+        <td class="number total lost total_lost">5</td>
+        <td class="number total gf total_gf">18</td>
+        <td class="number total ga total_ga">16</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+2</td>
+        <td class="number points">18</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/24/turkey/1-lig/gaziantep-bbk/adana-demirspor/1342356/" class="form-icon form-loss " title="Gaziantep BB - Adana Demirspor 1 - 2">L</a>
+          <a href="/matches/2012/11/18/turkey/1-lig/gaziantep-bbk/kartalspor/1342342/" class="form-icon form-win " title="Gaziantep BB - Kartalspor 1 - 0">W</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/trabzon-karadeniz-sk/gaziantep-bbk/1342341/" class="form-icon form-draw " title="1461 Trabzon - Gaziantep BB 1 - 1">D</a>
+          <a href="/matches/2012/11/05/turkey/1-lig/gaziantep-bbk/bucaspor/1342330/" class="form-icon form-win " title="Gaziantep BB - Bucaspor 2 - 1">W</a>
+          <a href="/matches/2012/10/28/turkey/1-lig/mke-ankaragucu/gaziantep-bbk/1342321/" class="form-icon form-win last" title="Ankaragücü - Gaziantep BB 1 - 4">W</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="3287" />
+        </td>
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_8604" data-team_id="8604">
+        <td class="rank ">10</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_plus.gif" width="7" height="4" title="Previous rank: 14" alt="Previous rank: 14" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/boluspor/" title="Boluspor">Boluspor</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">4</td>
+        <td class="number total drawn total_drawn">4</td>
+        <td class="number total lost total_lost">5</td>
+        <td class="number total gf total_gf">19</td>
+        <td class="number total ga total_ga">20</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-1</td>
+        <td class="number points">16</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/25/turkey/1-lig/sanliurfaspor/boluspor/1342353/" class="form-icon form-win " title="Şanlıurfaspor - Boluspor 1 - 3">W</a>
+          <a href="/matches/2012/11/18/turkey/1-lig/boluspor/manisaspor/1342345/" class="form-icon form-loss " title="Boluspor - Manisaspor 1 - 2">L</a>
+          <a href="/matches/2012/11/10/turkey/1-lig/karsiyaka-sk/boluspor/1342335/" class="form-icon form-loss " title="Karşıyaka - Boluspor 1 - 0">L</a>
+          <a href="/matches/2012/11/04/turkey/1-lig/boluspor/adanaspor-fk/1342325/" class="form-icon form-draw " title="Boluspor - Adanaspor 2 - 2">D</a>
+          <a href="/matches/2012/10/29/turkey/1-lig/kayseri-erciyesspor/boluspor/1342316/" class="form-icon form-win last" title="Kayseri Erciyesspor - Boluspor 2 - 3">W</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="8604" />
+        </td>
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_2215" data-team_id="2215">
+        <td class="rank ">11</td>
+        <td class="direction">
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/denizlispor/" title="Denizlispor">Denizlispor</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">4</td>
+        <td class="number total drawn total_drawn">4</td>
+        <td class="number total lost total_lost">5</td>
+        <td class="number total gf total_gf">12</td>
+        <td class="number total ga total_ga">13</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-1</td>
+        <td class="number points">16</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/26/turkey/1-lig/karsiyaka-sk/denizlispor/1342352/" class="form-icon form-draw " title="Karşıyaka - Denizlispor 0 - 0">D</a>
+          <a href="/matches/2012/11/18/turkey/1-lig/denizlispor/adanaspor-fk/1342343/" class="form-icon form-win " title="Denizlispor - Adanaspor 1 - 0">W</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/kayseri-erciyesspor/denizlispor/1342333/" class="form-icon form-loss " title="Kayseri Erciyesspor - Denizlispor 2 - 0">L</a>
+          <a href="/matches/2012/11/03/turkey/1-lig/denizlispor/konyaspor/1342326/" class="form-icon form-draw " title="Denizlispor - Konyaspor 1 - 1">D</a>
+          <a href="/matches/2012/10/28/turkey/1-lig/kartalspor/denizlispor/1342315/" class="form-icon form-loss last" title="Kartalspor - Denizlispor 1 - 0">L</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2215" />
+        </td>
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_9166" data-team_id="9166">
+        <td class="rank ">12</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_min.gif" width="7" height="4" title="Previous rank: 10" alt="Previous rank: 10" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/sanliurfaspor/" title="Şanlıurfaspor">Şanlıurfaspor</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">4</td>
+        <td class="number total drawn total_drawn">4</td>
+        <td class="number total lost total_lost">5</td>
+        <td class="number total gf total_gf">15</td>
+        <td class="number total ga total_ga">17</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-2</td>
+        <td class="number points">16</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/25/turkey/1-lig/sanliurfaspor/boluspor/1342353/" class="form-icon form-loss " title="Şanlıurfaspor - Boluspor 1 - 3">L</a>
+          <a href="/matches/2012/11/18/turkey/1-lig/samsunspor/sanliurfaspor/1342348/" class="form-icon form-draw " title="Samsunspor - Şanlıurfaspor 1 - 1">D</a>
+          <a href="/matches/2012/11/10/turkey/1-lig/sanliurfaspor/goztepe-as-izmir/1342340/" class="form-icon form-loss " title="Şanlıurfaspor - Göztepe 0 - 2">L</a>
+          <a href="/matches/2012/11/04/turkey/1-lig/tavsanli-belediye-linyitspor/sanliurfaspor/1342332/" class="form-icon form-win " title="Tavşanlı Linyitspor - Şanlıurfaspor 1 - 3">W</a>
+          <a href="/matches/2012/10/27/turkey/1-lig/sanliurfaspor/adana-demirspor/1342319/" class="form-icon form-loss last" title="Şanlıurfaspor - Adana Demirspor 2 - 3">L</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="9166" />
+        </td>
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_8603" data-team_id="8603">
+        <td class="rank ">13</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_min.gif" width="7" height="4" title="Previous rank: 12" alt="Previous rank: 12" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/kartalspor/" title="Kartalspor">Kartalspor</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">4</td>
+        <td class="number total drawn total_drawn">2</td>
+        <td class="number total lost total_lost">7</td>
+        <td class="number total gf total_gf">9</td>
+        <td class="number total ga total_ga">12</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-3</td>
+        <td class="number points">14</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/24/turkey/1-lig/kartalspor/kayseri-erciyesspor/1342351/" class="form-icon form-loss " title="Kartalspor - Kayseri Erciyesspor 1 - 3">L</a>
+          <a href="/matches/2012/11/18/turkey/1-lig/gaziantep-bbk/kartalspor/1342342/" class="form-icon form-loss " title="Gaziantep BB - Kartalspor 1 - 0">L</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/kartalspor/konyaspor/1342337/" class="form-icon form-draw " title="Kartalspor - Konyaspor 0 - 0">D</a>
+          <a href="/matches/2012/11/04/turkey/1-lig/trabzon-karadeniz-sk/kartalspor/1342324/" class="form-icon form-win " title="1461 Trabzon - Kartalspor 0 - 1">W</a>
+          <a href="/matches/2012/10/28/turkey/1-lig/kartalspor/denizlispor/1342315/" class="form-icon form-win last" title="Kartalspor - Denizlispor 1 - 0">W</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="8603" />
+        </td>
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_2223" data-team_id="2223">
+        <td class="rank ">14</td>
+        <td class="direction">
+          <img src="http://s1.swimg.net/gsmf/388/img/delta_min.gif" width="7" height="4" title="Previous rank: 13" alt="Previous rank: 13" />
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/konyaspor/" title="Konyaspor">Konyaspor</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">3</td>
+        <td class="number total drawn total_drawn">5</td>
+        <td class="number total lost total_lost">5</td>
+        <td class="number total gf total_gf">12</td>
+        <td class="number total ga total_ga">17</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-5</td>
+        <td class="number points">14</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/25/turkey/1-lig/adanaspor-fk/konyaspor/1342357/" class="form-icon form-loss " title="Adanaspor - Konyaspor 2 - 1">L</a>
+          <a href="/matches/2012/11/19/turkey/1-lig/konyaspor/kayseri-erciyesspor/1342349/" class="form-icon form-loss " title="Konyaspor - Kayseri Erciyesspor 0 - 2">L</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/kartalspor/konyaspor/1342337/" class="form-icon form-draw " title="Kartalspor - Konyaspor 0 - 0">D</a>
+          <a href="/matches/2012/11/03/turkey/1-lig/denizlispor/konyaspor/1342326/" class="form-icon form-draw " title="Denizlispor - Konyaspor 1 - 1">D</a>
+          <a href="/matches/2012/10/27/turkey/1-lig/konyaspor/caykur-rizespor/1342320/" class="form-icon form-loss last" title="Konyaspor - Rizespor 1 - 3">L</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2223" />
+        </td>
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_2220" data-team_id="2220">
+        <td class="rank ">15</td>
+        <td class="direction">
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/samsunspor/" title="Samsunspor">Samsunspor</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">1</td>
+        <td class="number total drawn total_drawn">10</td>
+        <td class="number total lost total_lost">2</td>
+        <td class="number total gf total_gf">15</td>
+        <td class="number total ga total_ga">16</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-1</td>
+        <td class="number points">13</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/24/turkey/1-lig/mke-ankaragucu/samsunspor/1342355/" class="form-icon form-draw " title="Ankaragücü - Samsunspor 1 - 1">D</a>
+          <a href="/matches/2012/11/18/turkey/1-lig/samsunspor/sanliurfaspor/1342348/" class="form-icon form-draw " title="Samsunspor - Şanlıurfaspor 1 - 1">D</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/manisaspor/samsunspor/1342334/" class="form-icon form-draw " title="Manisaspor - Samsunspor 0 - 0">D</a>
+          <a href="/matches/2012/11/03/turkey/1-lig/samsunspor/karsiyaka-sk/1342327/" class="form-icon form-draw " title="Samsunspor - Karşıyaka 0 - 0">D</a>
+          <a href="/matches/2012/10/28/turkey/1-lig/adanaspor-fk/samsunspor/1342318/" class="form-icon form-loss last" title="Adanaspor - Samsunspor 3 - 2">L</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2220" />
+        </td>
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_12004" data-team_id="12004">
+        <td class="rank rank-red">16</td>
+        <td class="direction">
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/tavsanli-belediye-linyitspor/" title="Tavşanlı Linyitspor">Tavşanlı Linyi&hellip;</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">2</td>
+        <td class="number total drawn total_drawn">5</td>
+        <td class="number total lost total_lost">6</td>
+        <td class="number total gf total_gf">13</td>
+        <td class="number total ga total_ga">25</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-12</td>
+        <td class="number points">11</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/25/turkey/1-lig/trabzon-karadeniz-sk/tavsanli-belediye-linyitspor/1342354/" class="form-icon form-loss " title="1461 Trabzon - Tavşanlı Linyitspor 1 - 0">L</a>
+          <a href="/matches/2012/11/17/turkey/1-lig/tavsanli-belediye-linyitspor/bucaspor/1342347/" class="form-icon form-draw " title="Tavşanlı Linyitspor - Bucaspor 0 - 0">D</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/mke-ankaragucu/tavsanli-belediye-linyitspor/1342336/" class="form-icon form-win " title="Ankaragücü - Tavşanlı Linyitspor 0 - 1">W</a>
+          <a href="/matches/2012/11/04/turkey/1-lig/tavsanli-belediye-linyitspor/sanliurfaspor/1342332/" class="form-icon form-loss " title="Tavşanlı Linyitspor - Şanlıurfaspor 1 - 3">L</a>
+          <a href="/matches/2012/10/28/turkey/1-lig/manisaspor/tavsanli-belediye-linyitspor/1342317/" class="form-icon form-loss last" title="Manisaspor - Tavşanlı Linyitspor 4 - 0">L</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="12004" />
+        </td>
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_2247" data-team_id="2247">
+        <td class="rank rank-red">17</td>
+        <td class="direction">
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/goztepe-as-izmir/" title="Göztepe">Göztepe</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">2</td>
+        <td class="number total drawn total_drawn">3</td>
+        <td class="number total lost total_lost">8</td>
+        <td class="number total gf total_gf">5</td>
+        <td class="number total ga total_ga">16</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-11</td>
+        <td class="number points">9</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/24/turkey/1-lig/bucaspor/goztepe-as-izmir/1342359/" class="form-icon form-loss " title="Bucaspor - Göztepe 3 - 0">L</a>
+          <a href="/matches/2012/11/17/turkey/1-lig/goztepe-as-izmir/mke-ankaragucu/1342346/" class="form-icon form-draw " title="Göztepe - Ankaragücü 1 - 1">D</a>
+          <a href="/matches/2012/11/10/turkey/1-lig/sanliurfaspor/goztepe-as-izmir/1342340/" class="form-icon form-win " title="Şanlıurfaspor - Göztepe 0 - 2">W</a>
+          <a href="/matches/2012/11/04/turkey/1-lig/goztepe-as-izmir/manisaspor/1342328/" class="form-icon form-loss " title="Göztepe - Manisaspor 0 - 1">L</a>
+          <a href="/matches/2012/10/28/turkey/1-lig/karsiyaka-sk/goztepe-as-izmir/1342322/" class="form-icon form-loss last" title="Karşıyaka - Göztepe 2 - 0">L</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2247" />
+        </td>
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_2218" data-team_id="2218">
+        <td class="rank rank-red">18</td>
+        <td class="direction">
+        </td>
+        <td class="text team large-link"><a href="/teams/turkey/mke-ankaragucu/" title="Ankaragücü">Ankaragücü</a></td>
+
+        <td class="number total mp">13</td>
+        <td class="number total won total_won">1</td>
+        <td class="number total drawn total_drawn">3</td>
+        <td class="number total lost total_lost">9</td>
+        <td class="number total gf total_gf">10</td>
+        <td class="number total ga total_ga">26</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-16</td>
+        <td class="number points">6</td>
+
+        <td class="form">
+          <a href="/matches/2012/11/24/turkey/1-lig/mke-ankaragucu/samsunspor/1342355/" class="form-icon form-draw " title="Ankaragücü - Samsunspor 1 - 1">D</a>
+          <a href="/matches/2012/11/17/turkey/1-lig/goztepe-as-izmir/mke-ankaragucu/1342346/" class="form-icon form-draw " title="Göztepe - Ankaragücü 1 - 1">D</a>
+          <a href="/matches/2012/11/11/turkey/1-lig/mke-ankaragucu/tavsanli-belediye-linyitspor/1342336/" class="form-icon form-loss " title="Ankaragücü - Tavşanlı Linyitspor 0 - 1">L</a>
+          <a href="/matches/2012/11/04/turkey/1-lig/adana-demirspor/mke-ankaragucu/1342329/" class="form-icon form-loss " title="Adana Demirspor - Ankaragücü 4 - 1">L</a>
+          <a href="/matches/2012/10/28/turkey/1-lig/mke-ankaragucu/gaziantep-bbk/1342321/" class="form-icon form-loss last" title="Ankaragücü - Gaziantep BB 1 - 4">L</a>
+        </td>
+
+        <td class="compare">
+          <input type="checkbox" name="team_ids[]" value="2218" />
+        </td>
+      </tr>
+    </tbody>
+    <tfoot>   
+      <tr>        
+        <td colspan="14" class="compare-teams">
+          <input type="submit" value="Compare two teams" class="compare-button" />
+        </td>        
+      </tr>
+      
+      <tr>
+        <td colspan="14" class="zones-legend">
+          <div class="clearfix zone-legend-line">
+            <div class="zone-legend-item-container">
+              <div class="zone-legend-item legend-dark-green">
+        				Promotion
+        			</div>
+            </div>
+            <div class="zone-legend-item-container">
+              <div class="zone-legend-item legend-light-green">
+        				Promotion Play-off
+        			</div>
+            </div>
+            <div class="zone-legend-item-container">
+              <div class="zone-legend-item legend-red">
+        				Relegation
+        			</div>
+            </div>
+          </div>
+        </td>
+      </tr>       
+      
+    </tfoot>
+  </table>
+</form>
+<script type="text/javascript" charset="utf-8">
+  LeagueTable('page_competition_1_block_competition_tables_7_block_competition_league_table_1_table');  
+</script>
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('page_competition_1_block_competition_tables_7_block_competition_league_table_1', 'block_competition_league_table', null);
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_competition_tables_7_block_competition_league_table_1');
+  })();
+</script>
+
+
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_competition_1_block_competition_tables_7', 'block_competition_tables', {"season_id":7158,"round_id":18577,"outgroup":false});
+    block.registerForCallbacks();
+    block.addCallbackObserver('page_competition_1_block_competition_tables_7_1_1', 'changeTable', {"type":"competition_league_table"});
+block.addCallbackObserver('page_competition_1_block_competition_tables_7_1_2', 'changeTable', {"type":"competition_halftime_table"});
+block.addCallbackObserver('page_competition_1_block_competition_tables_7_1_3', 'changeTable', {"type":"competition_wide_table"});
+block.addCallbackObserver('page_competition_1_block_competition_tables_7_1_4', 'changeTable', {"type":"competition_form_table"});
+block.addCallbackObserver('page_competition_1_block_competition_tables_7_1_5', 'changeTable', {"type":"competition_overunder_table"});
+    
+        
+    
+      var details_nodes = block.el.parentNode.parentNode.select('.top-right .details');
+  first_details_node = details_nodes.first();
+  if (first_details_node) {
+    Popupizer.setup(details_nodes, 'competition_league_table_details', {season_id: '7158'});
+    new PopupManager(first_details_node.parentNode);
+  }
+
+    
+    TimestampFormatter.format('page_competition_1_block_competition_tables_7');
+  })();
+</script>
+
+    <div class="block_ad ad_sb_text2 block clearfix">
+  
+<div id='div-gpt-ad-1325073145951-1' style='width:557px; height:45px;'>
+<div style="color: #999999; font-size: 10px">Sponsored links</div>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+  googletag.pubads().setTargeting('page', 'competition');
+  googletag.pubads().setTargeting('caption', "1. Lig");
+});
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325073145951-1'); });
+</script>
+</div>
+
+</div>
+
+    
+    <div class="block  clearfix block_competition_playerstats-wrapper" id="page_competition_1_block_competition_playerstats_8-wrapper">
+  <h2><a href="/national/turkey/1-lig/20122013/regular-season/players/">Players</a></h2>
+  
+  
+  
+  <div class="content  ">
+    <div class="subnav clearfix  subnav-first subnav-last">
+      <ul id="page_competition_1_block_competition_playerstats_8_subnav">
+          <li class="selected">
+            <a id="page_competition_1_block_competition_playerstats_8_1_1">Topscorers</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_competition_playerstats_8_1_2">Disciplinary</a>
+          </li>
+      </ul>
+    </div>
+    <div class="block_competition_playerstats real-content clearfix " id="page_competition_1_block_competition_playerstats_8">
+
+      <div class="container-full">
+<div class="block  clearfix block_competition_playerstats_topscores-wrapper" id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1-wrapper">
+  
+  
+  
+  
+  <div class="content  ">
+    <div id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1_pagination" class="pagination match-pagination clearfix">
+      <div class="nav_description">
+        <a rel="previous" class="previous disabled" id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1_previous">&laquo; Previous</a>
+        <a rel="next" class="next " id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1_next">Next &raquo;</a>
+      </div>
+    </div>
+    <div class="block_competition_playerstats_topscores real-content clearfix " id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1">
+
+        <table class="playerstats table" id="page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1_table" data-round_id="18577" data-season_id="0">
+    <thead>
+      <tr class="sub-head">
+        <th class="player">Player</th>
+        <th class="team">Team</th>
+        <th class="number goals"><img src="http://s1.swimg.net/gsmf/388/img/events/G.png" width="13" height="13" alt="Goal" title="Goal" /></th>
+        <th class="number penalties"><img src="http://s1.swimg.net/gsmf/388/img/events/PG.png" width="13" height="13" alt="Penalty goals" title="Penalty goals" /></th>
+        <th class="number first-goals"><img src="http://s1.swimg.net/gsmf/388/img/events/firstgoal.png" width="13" height="13" alt="First goals" title="First goals" /></th>
+      </tr>
+    </thead>
+    <tbody>
+      
+      <tr class="odd" data-people_id="207761" data-team_id="2231">
+        <td class="player large-link"><a href="/players/gerard-bi-goua-gohou/207761/" class="flag_16 left_16 cote-divoire_16_left">G. Gohou</a></td>
+        <td class="team large-link"><a href="/teams/turkey/kayseri-erciyesspor/" title="Kayseri Erciyesspor">Kayseri Erciyesspor</a></td>
+        <td class="number goals">10</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">5</td>
+      </tr>
+      <tr class="even" data-people_id="58475" data-team_id="2231">
+        <td class="player large-link"><a href="/players/emrah-bozkurt/58475/" class="flag_16 left_16 turkey_16_left">E. Bozkurt</a></td>
+        <td class="team large-link"><a href="/teams/turkey/kayseri-erciyesspor/" title="Kayseri Erciyesspor">Kayseri Erciyesspor</a></td>
+        <td class="number goals">8</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="odd" data-people_id="58415" data-team_id="2229">
+        <td class="player large-link"><a href="/players/mbilla-etame/58415/" class="flag_16 left_16 cameroon_16_left">M. Etame</a></td>
+        <td class="team large-link"><a href="/teams/turkey/adanaspor-fk/" title="Adanaspor">Adanaspor</a></td>
+        <td class="number goals">8</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">5</td>
+      </tr>
+      <tr class="even" data-people_id="173054" data-team_id="2224">
+        <td class="player large-link"><a href="/players/uche-kalu/173054/" class="flag_16 left_16 nigeria_16_left">U. Kalu</a></td>
+        <td class="team large-link"><a href="/teams/turkey/caykur-rizespor/" title="Rizespor">Rizespor</a></td>
+        <td class="number goals">8</td>
+        <td class="number penalties">1</td>
+        <td class="number first-goals">5</td>
+      </tr>
+      <tr class="odd" data-people_id="71965" data-team_id="2348">
+        <td class="player large-link"><a href="/players/jose-carlos-nogueira-junior/71965/" class="flag_16 left_16 brazil_16_left">Juninho</a></td>
+        <td class="team large-link"><a href="/teams/turkey/adana-demirspor/" title="Adana Demirspor">Adana Demirspor</a></td>
+        <td class="number goals">8</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="even" data-people_id="90931" data-team_id="7283">
+        <td class="player large-link"><a href="/players/mehmet-batdal/90931/" class="flag_16 left_16 turkey_16_left">M. Batdal</a></td>
+        <td class="team large-link"><a href="/teams/turkey/bucaspor/" title="Bucaspor">Bucaspor</a></td>
+        <td class="number goals">7</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">4</td>
+      </tr>
+      <tr class="odd" data-people_id="16262" data-team_id="2348">
+        <td class="player large-link"><a href="/players/gokhan-kaba/16262/" class="flag_16 left_16 turkey_16_left">G. Kaba</a></td>
+        <td class="team large-link"><a href="/teams/turkey/adana-demirspor/" title="Adana Demirspor">Adana Demirspor</a></td>
+        <td class="number goals">7</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">3</td>
+      </tr>
+      <tr class="even" data-people_id="4479" data-team_id="2233">
+        <td class="player large-link"><a href="/players/carlos-eduardo-de-souza-floresta/4479/" class="flag_16 left_16 brazil_16_left">Kahe</a></td>
+        <td class="team large-link"><a href="/teams/turkey/manisaspor/" title="Manisaspor">Manisaspor</a></td>
+        <td class="number goals">6</td>
+        <td class="number penalties">1</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="odd" data-people_id="92518" data-team_id="3287">
+        <td class="player large-link"><a href="/players/serdar-deliktas/92518/" class="flag_16 left_16 turkey_16_left">S. Deliktas</a></td>
+        <td class="team large-link"><a href="/teams/turkey/gaziantep-bbk/" title="Gaziantep BB">Gaziantep BB</a></td>
+        <td class="number goals">6</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="even" data-people_id="58502" data-team_id="8604">
+        <td class="player large-link"><a href="/players/cafercan-aksu/58502/" class="flag_16 left_16 turkey_16_left">C. Aksu</a></td>
+        <td class="team large-link"><a href="/teams/turkey/boluspor/" title="Boluspor">Boluspor</a></td>
+        <td class="number goals">5</td>
+        <td class="number penalties">1</td>
+        <td class="number first-goals">4</td>
+      </tr>
+      <tr class="odd" data-people_id="5199" data-team_id="2223">
+        <td class="player large-link"><a href="/players/joao-alexandre-duarte-fernandes/5199/" class="flag_16 left_16 portugal_16_left">Neca</a></td>
+        <td class="team large-link"><a href="/teams/turkey/konyaspor/" title="Konyaspor">Konyaspor</a></td>
+        <td class="number goals">5</td>
+        <td class="number penalties">1</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="even" data-people_id="208283" data-team_id="2224">
+        <td class="player large-link"><a href="/players/cenk-ahmet-alkilic/208283/" class="flag_16 left_16 turkey_16_left">C. Alkiliç</a></td>
+        <td class="team large-link"><a href="/teams/turkey/caykur-rizespor/" title="Rizespor">Rizespor</a></td>
+        <td class="number goals">4</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">1</td>
+      </tr>
+      <tr class="odd" data-people_id="170224" data-team_id="2233">
+        <td class="player large-link"><a href="/players/bulent-cevahir/170224/" class="flag_16 left_16 turkey_16_left">B. Cevahir</a></td>
+        <td class="team large-link"><a href="/teams/turkey/manisaspor/" title="Manisaspor">Manisaspor</a></td>
+        <td class="number goals">4</td>
+        <td class="number penalties">0</td>
+        <td class="number first-goals">4</td>
+      </tr>
+      <tr class="even" data-people_id="59338" data-team_id="7283">
+        <td class="player large-link"><a href="/players/zafer-cevik/59338/" class="flag_16 left_16 turkey_16_left">Z. Çevik</a></td>
+        <td class="team large-link"><a href="/teams/turkey/bucaspor/" title="Bucaspor">Bucaspor</a></td>
+        <td class="number goals">4</td>
+        <td class="number penalties">1</td>
+        <td class="number first-goals">2</td>
+      </tr>
+      <tr class="odd" data-people_id="57503" data-team_id="8604">
+        <td class="player large-link"><a href="/players/serge-pacome-dijehoua/57503/" class="flag_16 left_16 cote-divoire_16_left">S. Dijehoua</a></td>
+        <td class="team large-link"><a href="/teams/turkey/boluspor/" title="Boluspor">Boluspor</a></td>
+        <td class="number goals">4</td>
+        <td class="number penalties">1</td>
+        <td class="number first-goals">2</td>
+      </tr>
+    </tbody>
+  </table>
+
+<script type="text/javascript" charset="utf-8">
+  (function(){
+    var table = $('page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1_table');
+    Popupizer.setup(table.select('tbody td[class*="goals"]'), 'player_events', { column: 'goals' });
+    Popupizer.setup(table.select('tbody td[class*="penalties"]'), 'player_events', { column: 'penalty_goals' });
+    Popupizer.setup(table.select('tbody td[class*="first-goals"]'), 'player_first_goals');
+    new PopupManager(table);
+  })();
+</script>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new PaginatedBlock('page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1', 'block_competition_playerstats_topscores', {"page":0,"per_page":15,"round_id":18577,"season_id":0});
+    block.registerForCallbacks();
+        
+        
+    block.setAttribute('has_previous_page', false);
+    block.setAttribute('has_next_page', true);
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_competition_playerstats_8_block_competition_playerstats_topscores_1');
+  })();
+</script>
+
+
+</div>
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_competition_1_block_competition_playerstats_8', 'block_competition_playerstats', {"round_id":18577,"view":1});
+    block.registerForCallbacks();
+    block.addCallbackObserver('page_competition_1_block_competition_playerstats_8_1_1', 'changeView', {"view":1});
+block.addCallbackObserver('page_competition_1_block_competition_playerstats_8_1_2', 'changeView', {"view":2});
+    
+        
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_competition_playerstats_8');
+  })();
+</script>
+    
+    
+    
+
+    
+  
+      </div>
+    </div>
+  </div>
+</div>
+<div class="yui-b">
+  
+  
+
+	
+	
+  <div class="block_ad ad_rectangle block clearfix">
+  
+
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Run of Site - Other // Placement: Run of Site - Other-MPU-300 x 250 (1770451) // created at: Jan 11, 2012 4:14:50 PM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|1770451|0|170|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|1770451|0|170|ADTECH;loc=300;sub1=[subst]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|1770451|0|170|ADTECH;cookie=info;loc=300" border="0" width="300" height="250"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+</div>
+  
+  
+  
+  <div class="block_ad ad_betting_right block clearfix">
+  
+<div id='div-gpt-ad-1325580837273-7' style='width:300px; height:100px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325580837273-7'); });
+</script>
+</div>
+
+
+<div id='div-gpt-ad-1325073145951-4' style='width:300px; height:100px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325073145951-4'); });
+</script>
+</div>
+
+</div>
+
+  <div class="block  clearfix block_ad_sponsored_links_localized-wrapper" id="page_news_index_1_block_ad_sponsored_links_localized_7-wrapper">
+  
+  <h2>Sponsored links</h2>
+  
+  
+  <div class="content  ">
+    <div class="block_ad_sponsored_links_localized real-content clearfix " id="page_news_index_1_block_ad_sponsored_links_localized_7">
+
+      <div class="clearfix">
+  <div class="sl-first ">
+      <p><a href="http://www.olbg.com/free.php" target="new_ads"><strong>OLBG.com Exclusive Free Bets</strong></a></p>
+      <p><a href="http://www.olbg.com/free.php" target="new_ads">Claim the best free bets on the web at OLBG</a></p>
+  </div>
+  <div class=" ">
+      <p><a href="http://www.betrescue.com/cgi-bin/clickthrough.pl" target="new_ads"><strong>Claim 2500 EUR/GBP In Free Bets</strong></a></p>
+      <p><a href="http://www.betrescue.com/cgi-bin/clickthrough.pl" target="new_ads">Free Bets From Over 30 Bookmakers and Casinos. Many Exclusives. Click here to visit betrescue.com</a></p>
+  </div>
+  <div class=" ">
+      <p><a href="http://www.olbg.com/football.php" target="new_ads"><strong>Free Soccer Tips</strong></a></p>
+      <p><a href="http://www.olbg.com/football.php" target="new_ads">Click here to get free soccer tips from the experts</a></p>
+  </div>
+  <div class=" ">
+      <p><a href="http://www.sign-up-bonus.net/" target="new_ads"><strong>Free Bonus News</strong></a></p>
+      <p><a href="http://www.sign-up-bonus.net/" target="new_ads">Sign-Up-Bonus.net is the best resource for bonus news and details from all </a></p>
+  </div>
+  <div class=" ">
+      <p><a href="http://www.betting-directory.com/football/" target="new_ads"><strong>Betting Directory Football </strong></a></p>
+      <p><a href="http://www.betting-directory.com/football/" target="new_ads">Latest news and odds for all major football competitions & matches, together with opinions and tips from Steve Claridge</a></p>
+  </div>
+  <div class=" sl-last">
+      <p><a href="http://www.protipster.com" target="new_ads"><strong>ProTipster - Winners United!</strong></a></p>
+      <p><a href="http://www.protipster.com" target="new_ads">BUY or SELL sportsbetting picks, infos and live reports at ProTipster. Join now for Free!</a></p>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_news_index_1_block_ad_sponsored_links_localized_7', 'block_ad_sponsored_links_localized', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_news_index_1_block_ad_sponsored_links_localized_7');
+  })();
+</script>
+  
+
+	<div class="block  clearfix block_home_table-wrapper" id="page_competition_1_block_home_table_3-wrapper">
+  
+  <h2>Tables</h2>
+  
+  
+  <div class="content  ">
+    <div class="subnav clearfix  subnav-first subnav-last">
+      <ul id="page_competition_1_block_home_table_3_subnav">
+          <li class="selected">
+            <a id="page_competition_1_block_home_table_3_1_1">ENG</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_home_table_3_1_2">FRA</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_home_table_3_1_3">GER</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_home_table_3_1_4">ITA</a>
+          </li>
+          <li>
+            <a id="page_competition_1_block_home_table_3_1_5">SPA</a>
+          </li>
+      </ul>
+    </div>
+    <div class="block_home_table real-content clearfix " id="page_competition_1_block_home_table_3">
+
+      <div class="block_home_table_small block block-nomb clearfix" id="page_competition_1_block_home_table_3_block_home_table_small_1">
+  <form action="/teams/comparison/" method="get" accept-charset="utf-8">
+  <table class="leaguetable sortable table " id="page_competition_1_block_home_table_3_block_home_table_small_1_table" data-round_id="17950">
+    <thead>
+      <tr class="sub-head">
+        <th title="Rank" class="sortasc sortdefaultasc">#</th>
+        
+        <th class="text team sortdefaultasc">Team</th>
+
+        <th class="number total mp"><acronym title="Matches played">MP</acronym></th>
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <th class="number gd"><acronym title="Goal difference">D</acronym></th>
+        <th class="number points"><acronym title="Points">P</acronym></th>
+
+        
+
+        
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="odd   team_rank"  id="team_rank_row_662" data-team_id="662">
+        <td class="rank rank-dark-green">1</td>
+        <td class="text team large-link"><a href="/teams/england/manchester-united-fc/" title="Manchester United">Manchester United</a></td>
+
+        <td class="number total mp">13</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+14</td>
+        <td class="number points">30</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_676" data-team_id="676">
+        <td class="rank rank-dark-green">2</td>
+        <td class="text team large-link"><a href="/teams/england/manchester-city-football-club/" title="Manchester City">Manchester City</a></td>
+
+        <td class="number total mp">13</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+15</td>
+        <td class="number points">29</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_678" data-team_id="678">
+        <td class="rank rank-dark-green">3</td>
+        <td class="text team large-link"><a href="/teams/england/west-bromwich-albion-football-club/" title="West Bromwich Albion">West Bromwich &hellip;</a></td>
+
+        <td class="number total mp">13</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+8</td>
+        <td class="number points">26</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_661" data-team_id="661">
+        <td class="rank rank-light-green">4</td>
+        <td class="text team large-link"><a href="/teams/england/chelsea-football-club/" title="Chelsea">Chelsea</a></td>
+
+        <td class="number total mp">13</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+11</td>
+        <td class="number points">25</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_674" data-team_id="674">
+        <td class="rank rank-dark-blue">5</td>
+        <td class="text team large-link"><a href="/teams/england/everton-football-club/" title="Everton">Everton</a></td>
+
+        <td class="number total mp">13</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+6</td>
+        <td class="number points">21</td>
+
+
+      </tr>
+    </tbody>
+  </table>
+</form>
+<script type="text/javascript" charset="utf-8">
+  LeagueTable('page_competition_1_block_home_table_3_block_home_table_small_1_table');  
+</script>
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('page_competition_1_block_home_table_3_block_home_table_small_1', 'block_home_table_small', null);
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_home_table_3_block_home_table_small_1');
+  })();
+</script>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_competition_1_block_home_table_3', 'block_home_table', {"competition_id":8});
+    block.registerForCallbacks();
+    block.addCallbackObserver('page_competition_1_block_home_table_3_1_1', 'changeCompetition', {"competition_id":8});
+block.addCallbackObserver('page_competition_1_block_home_table_3_1_2', 'changeCompetition', {"competition_id":16});
+block.addCallbackObserver('page_competition_1_block_home_table_3_1_3', 'changeCompetition', {"competition_id":9});
+block.addCallbackObserver('page_competition_1_block_home_table_3_1_4', 'changeCompetition', {"competition_id":13});
+block.addCallbackObserver('page_competition_1_block_home_table_3_1_5', 'changeCompetition', {"competition_id":7});
+    
+        
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_home_table_3');
+  })();
+</script>
+
+	
+	
+</div>
+
+  </div>
+  <div id="ft">
+    <div class="block_footer block  clearfix" id="block_footer_11">
+  <div id="footer" class="clearfix">
+  <h4 class="title">Soccerway</h4>
+  <div class="cols">
+    <div class="col">
+      <ul>
+        <li class="title">About</li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/advertising/">Advertising</a></li>
+        <li><a href="/contact/">Contact us</a></li>
+        <li><a href="/terms/">Terms</a></li>
+      </li>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Content</li>
+        <li><a href="http://syndication.soccerway.com/rss/english.php">RSS</a></li>
+        <li><a href="http://widgets.soccerway.com/">Widgets</a></li>
+        <li><a href="/syndication/">Content</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Mobile</li>
+        <li><a href="/iphone/">iPhone</a></li>
+        <li><a href="/iphone/">iPad</a></li>
+        <li><a href="http://www.soccerway.mobi/">PDA/WAP</a></li>
+        <li><a href="http://smsalerts.soccerway.com/">SMS alerts</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Social</li>
+        <li><a href="http://www.facebook.com/soccerway" class="facebook" target="_blank">Facebook</a></li>
+        <li><a href="http://www.twitter.com/soccerway" class="twitter" target="_blank">Twitter</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Kick-off Times</li>
+        <li>Kick-off times are converted to your local PC time.<li>
+      </ul>
+    </div>
+  </div>
+  <h4 class="title">GSM Brands</h4>
+  <div class="cols">
+    <div class="col">
+      <ul>
+        <li class="title">Soccerway</li>
+        <li><a href="http://www.soccerway.com/">www.soccerway.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="/national/england/premier-league/">Premier League</a></li>
+        <li><a href="/national/italy/serie-a/">Serie A</a></li>
+        <li><a href="/national/spain/primera-division/">Primera División</a></li>
+        <li><a href="/national/germany/bundesliga/">Bundesliga</a></li>
+        <li><a href="/national/france/ligue-1/">Ligue 1</a></li>
+        <li><a href="/national/netherlands/eredivisie/">Eredivisie</a></li>
+      </ul>
+      <ul>
+        <li><a href="/international/europe/uefa-champions-league/">UEFA Champions League</a></li>
+        <li><a href="/international/europe/uefa-cup/">UEFA Europa League</a></li>
+        <li><a href="/international/world/world-cup/">World Cup</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Scoresway</li>
+        <li><a href="http://www.scoresway.com/" target="_blank">www.scoresway.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.scoresway.com/?sport=american_football" target="_blank">American Football</a></li>
+        <li><a href="http://www.scoresway.com/?sport=baseball" target="_blank">Baseball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=basketball" target="_blank">Basketball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=cricket" target="_blank">Cricket</a></li>
+        <li><a href="http://www.scoresway.com/?sport=handball" target="_blank">Handball</a></li>
+        <li><a href="http://www.scoresway.com/?sport=hockey" target="_blank">Hockey</a></li>
+        <li><a href="http://www.scoresway.com/?sport=motorsports" target="_blank">Motorsports</a></li>
+        <li><a href="http://www.scoresway.com/?sport=rugby" target="_blank">Rugby</a></li>
+        <li><a href="http://www.scoresway.com/?sport=tennis" target="_blank">Tennis</a></li>
+        <li><a href="http://www.scoresway.com/?sport=volleyball" target="_blank">Volleyball</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Oddsway</li>
+        <li><a href="http://www.oddsway.com/" target="_blank">www.oddsway.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.oddsway.com/betting?competitionid=115" target="_blank">World Cup Odds</a></li>
+        <li><a href="http://www.oddsway.com/betting?competitionid=20" target="_blank">Champions League Odds</a></li>
+        <li><a href="http://www.oddsway.com/betting?competitionid=1" target="_blank">Premier League Odds</a></li>
+        <li><a href="http://www.oddsway.com/betting?competitionid=17" target="_blank">Primera División Odds</a></li>
+        <li><a href="http://www.oddsway.com/betting?competitionid=6" target="_blank">Serie A Odds</a></li>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">GSM</li>
+        <li><a href="http://www.globalsportsmedia.com/" target="_blank">www.globalsportsmedia.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.globalsportsmedia.com/sports" target="_blank">Sports coverage</a></li>
+        <li><a href="http://www.globalsportsmedia.com/products" target="_blank">Products</a></li>
+        <li><a href="http://www.globalsportsmedia.com/industries" target="_blank">Industries</a></li>
+        <li><a href="http://www.globalsportsmedia.com/brands" target="_blank">Brands</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.globalsportsmedia.com/" class="gsm-logo" target="_blank"></a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li style="height:195px">&nbsp;</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="copyright">
+  Copyright &copy;2012 <a href="http://www.globalsportsmedia.com/" target="_blank">Global Sports Media</a>. All rights reserved.
+</div>
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('block_footer_11', 'block_footer', null);
+    
+    
+    
+    TimestampFormatter.format('block_footer_11');
+  })();
+</script>
+  </div>
+  
+</div>
+
+<div class="block_ad ad_floating_bar block clearfix">
+  <div id='div-gpt-ad-1325073145951-2' style='width:1000px; height:50px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325073145951-2'); });
+</script>
+<span class="close">&nbsp;</span>
+</div>
+
+<script type="text/javascript">
+(function(){
+  var el = $$('.ad_floating_bar')[0];
+  if (el) {
+    var cookie_name = 'sw_no_ad_floating_bar';
+    if (!Cookie.get(cookie_name)) {
+      googletag.cmd.push(function() { el.style.display = 'block'; });
+
+      Element.select(el, '.close')[0].observe('click', function(evt){
+        el.style.display = 'none';
+
+        var date = new Date();
+        date.setTime(date.getTime()+(24*60*60*1000)); // 24h
+
+        Cookie.set(cookie_name, 1, {expires: date.toUTCString(), path: '/', domain: Config.get('base_domain')});
+        Event.stop(evt);
+      });
+    }
+  }
+})();
+</script>
+</div>
+
+<div id="popup" class="hidden">
+  <div class="content"></div>
+  <div class="handle"></div>
+  <a class="close-button"></a>
+</div>
+
+
+
+</body>
+</html>

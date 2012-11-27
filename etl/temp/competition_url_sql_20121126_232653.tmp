@@ -1,0 +1,8 @@
+SELECT competition_id, url
+  FROM competition_urls cu
+ WHERE cu.competition_id IN ( SELECT competition_id
+			       FROM competition_etls
+			      WHERE is_included = 'T'
+			        AND is_url_valid = 'T' 
+			        AND is_competitions_etl_completed = 'F'
+			        AND competition_id in (97,562,654,990,995,615,172,1059,436,1023,452,19)

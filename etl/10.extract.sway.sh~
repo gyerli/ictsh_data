@@ -144,6 +144,7 @@ SeasonMatches() {
 ts=`date "+%Y%m%d_%H%M%S"`
 sql=${PROJECT_TEMP}/competition_url_sql_$ts.tmp
 db="lnd_sway"
+season_threshold = '1999/2000'
 
 echo "Landing Database is ${db}"
 
@@ -154,7 +155,8 @@ SELECT competition_id, url
 			       FROM competition_etls
 			      WHERE is_included = 'T'
 			        AND is_url_valid = 'T' 
-			        AND is_competitions_etl_completed = 'F');
+			        AND is_competitions_etl_completed = 'F'
+			        AND competition_id in (97,562,654,990,995,615,172,1059,436,1023,452,19)
 EOF
 
 URLS=$(psql -U ${DB_USER} -w -d ${db} -f ${sql} -t -A)
@@ -239,8 +241,8 @@ clear
 #Areas
 #Competitions
 #CompetitionURLs
-#SeasonMatches
-ruby ${PROJECT_RUN}/sway_season_matches.rb 1 http://www.soccerway.com/national/argentina/argentino-a argentina.dat
+SeasonMatches
+#ruby ${PROJECT_RUN}/sway_season_matches.rb 1 http://www.soccerway.com/national/argentina/primera-division argentina.dat
 
 # Done
 exit 0
